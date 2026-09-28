@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "cb-bioq-01",
+    "especialidad": "Bioquímica",
+    "tema": "1.3 Metabolismo de carbohidratos",
+    "caso": "Lactante de 5 meses que presenta crisis convulsiva por la mañana tras el ayuno nocturno. Exploración: facies de muñeca, abdomen prominente con hepatomegalia de 6 cm, sin cardiomegalia. Laboratorio: glucosa 28 mg/dL, lactato 7 mmol/L, ácido úrico 9.5 mg/dL y triglicéridos 650 mg/dL.",
+    "pregunta": "¿Qué enzima es deficiente con mayor probabilidad?",
+    "opciones": {
+      "A": "Glucosa-6-fosfatasa",
+      "B": "Enzima desramificante",
+      "C": "α-1,4-glucosidasa lisosomal",
+      "D": "Glucógeno fosforilasa muscular"
+    },
+    "correcta": "A",
+    "explicacion": "Hipoglucemia de ayuno grave con acidosis láctica, hiperuricemia, hipertrigliceridemia y hepatomegalia es la glucogenosis tipo I (von Gierke). Sin glucosa-6-fosfatasa el hígado no puede liberar glucosa libre, ni de glucógeno ni de gluconeogénesis.",
+    "distractores": {
+      "B": "El déficit de desramificante (Cori, tipo III) se parece pero es más leve y cursa con lactato normal.",
+      "C": "El déficit de maltasa ácida (Pompe, tipo II) es lisosomal: da cardiomegalia e hipotonía, no hipoglucemia de ayuno.",
+      "D": "La fosforilasa muscular (McArdle, tipo V) causa calambres y mioglobinuria con el ejercicio, sin hepatomegalia ni hipoglucemia."
+    },
+    "perla": "Von Gierke: hipoglucemia + lactato alto + ácido úrico alto + triglicéridos altos + hígado grande."
+  },
+  {
+    "id": "cb-bioq-02",
+    "especialidad": "Bioquímica",
+    "tema": "1.6 Lipoproteínas",
+    "caso": "Niño de 8 años con episodios repetidos de dolor epigástrico intenso irradiado a la espalda. Tiene xantomas eruptivos en glúteos y lipemia retinal. La muestra de sangre refrigerada forma una capa cremosa superior con infranadante claro. Triglicéridos 2800 mg/dL; lipasa 3 veces el límite normal.",
+    "pregunta": "¿Cuál es el defecto bioquímico más probable?",
+    "opciones": {
+      "A": "Deficiencia de lecitina-colesterol aciltransferasa (LCAT)",
+      "B": "Deficiencia de lipoproteína lipasa",
+      "C": "Mutación del receptor de LDL",
+      "D": "Deficiencia de apo A-I"
+    },
+    "correcta": "B",
+    "explicacion": "La hiperquilomicronemia (hiperlipoproteinemia tipo I) se debe a falta de lipoproteína lipasa o de su activador, la apo C-II. Los quilomicrones no se hidrolizan, los triglicéridos suben muchísimo y aparece pancreatitis.",
+    "distractores": {
+      "A": "El déficit de LCAT afecta la esterificación del colesterol en la HDL y genera Lp-X; no produce quilomicronemia masiva.",
+      "C": "El defecto del receptor de LDL (hipercolesterolemia familiar) eleva el colesterol LDL, con xantomas tendinosos, no eruptivos.",
+      "D": "La apo A-I activa la LCAT; su déficit baja la HDL, no causa triglicéridos de miles."
+    },
+    "perla": "Suero lechoso + pancreatitis en niño: piensa en lipoproteína lipasa o apo C-II."
+  },
+  {
+    "id": "cb-bioq-03",
+    "especialidad": "Bioquímica",
+    "tema": "1.10 Fosforilación oxidativa y cadena respiratoria",
+    "caso": "A 45-year-old man is rescued from a house fire in which plastic furniture was burning. He is confused and tachypneic. Pulse oximetry reads 98%. Arterial blood gas: pH 7.18, lactate 11 mmol/L. Venous blood appears bright red, with a narrow arteriovenous oxygen difference.",
+    "pregunta": "Which component of the electron transport chain is most likely inhibited?",
+    "opciones": {
+      "A": "Complex I (NADH-CoQ reductase)",
+      "B": "Complex III (cytochrome b-c1)",
+      "C": "Complex IV (cytochrome c oxidase)",
+      "D": "Complex V (F0 subunit of ATP synthase)"
+    },
+    "correcta": "C",
+    "explicacion": "La combustión de plásticos libera cianuro y el incendio, monóxido de carbono; ambos bloquean el complejo IV (citocromo a-a3). Las células no pueden usar el O2: la sangre venosa sigue oxigenada y el metabolismo anaerobio produce acidosis láctica.",
+    "distractores": {
+      "A": "El complejo I lo inhiben rotenona, amobarbital y piericidina, que no son los tóxicos típicos de un incendio.",
+      "B": "El complejo III lo inhibe la antimicina A (y el dimercaprol), no el cianuro.",
+      "D": "La oligomicina bloquea la subunidad F0 de la ATP sintasa; no es un tóxico de humo."
+    },
+    "perla": "Cianuro, CO, azida y H2S: todos bloquean el complejo IV."
+  },
+  {
+    "id": "cb-bioq-04",
+    "especialidad": "Bioquímica",
+    "tema": "1.9 Aminoácidos",
+    "caso": "Recién nacido de 10 días, producto de padres consanguíneos, al que se cita por tamiz neonatal alterado. Está asintomático, con piel y cabello más claros que los de sus padres; la madre nota un olor peculiar, como a ratón, en el pañal. Fenilalanina sérica 22 mg/dL; tirosina baja.",
+    "pregunta": "¿Qué enzima es deficiente?",
+    "opciones": {
+      "A": "Tirosinasa",
+      "B": "Homogentisato oxidasa",
+      "C": "Carbamoil-fosfato sintetasa I",
+      "D": "Fenilalanina hidroxilasa"
+    },
+    "correcta": "D",
+    "explicacion": "La fenilcetonuria es autosómica recesiva y se debe al déficit de fenilalanina hidroxilasa. La fenilalanina se acumula, la tirosina se vuelve esencial y baja la melanina (hipopigmentación). Se detecta en el tamiz neonatal.",
+    "distractores": {
+      "A": "La falta de tirosinasa causa albinismo, pero no eleva la fenilalanina.",
+      "B": "La homogentisato oxidasa es de la vía de degradación de la tirosina (alcaptonuria: orina que se oscurece); la fenilalanina es normal.",
+      "C": "La CPS-I es la enzima limitante del ciclo de la urea; su déficit causa hiperamonemia, no hiperfenilalaninemia."
+    },
+    "perla": "Fenilcetonuria: la tirosina se vuelve esencial; tratar con dieta baja en fenilalanina desde el tamiz."
+  },
+  {
+    "id": "cb-bioq-05",
+    "especialidad": "Bioquímica",
+    "tema": "1.5 Metabolismo de lípidos",
+    "caso": "Hombre de 29 años con ceguera nocturna progresiva desde la adolescencia. Presenta marcha atáxica, hipoestesia distal en guante y calcetín y piel seca y escamosa en extremidades. El fondo de ojo muestra retinitis pigmentosa. El ácido fitánico plasmático está muy elevado.",
+    "pregunta": "¿Qué vía metabólica está alterada?",
+    "opciones": {
+      "A": "α-oxidación peroxisomal",
+      "B": "β-oxidación peroxisomal de ácidos grasos de cadena muy larga",
+      "C": "ω-oxidación en el retículo endoplásmico",
+      "D": "Entrada de acil-CoA a la mitocondria por la carnitina"
+    },
+    "correcta": "A",
+    "explicacion": "El ácido fitánico (de lácteos y rumiantes) tiene una ramificación que impide la β-oxidación directa; primero necesita α-oxidación en el peroxisoma. Su defecto es la enfermedad de Refsum: retinitis pigmentosa, neuropatía periférica, ataxia e ictiosis.",
+    "distractores": {
+      "B": "El defecto en la β-oxidación peroxisomal de cadenas muy largas corresponde a la adrenoleucodistrofia (insuficiencia suprarrenal y desmielinización).",
+      "C": "La ω-oxidación es una vía menor con CYP450 que produce ácidos dicarboxílicos; no acumula ácido fitánico.",
+      "D": "Los defectos de carnitina/CPT-1 dan hipoglucemia hipocetósica y miopatía, no retinitis pigmentosa con ácido fitánico alto."
+    },
+    "perla": "Refsum = ácido fitánico + α-oxidación: retina, nervios, cerebelo y piel."
+  },
+  {
+    "id": "cb-bioq-06",
+    "especialidad": "Bioquímica",
+    "tema": "1.7 Eicosanoides",
+    "caso": "Mujer de 27 años con asma alérgica persistente y rinitis. A pesar del corticoide inhalado mantiene síntomas nocturnos y broncoespasmo tras exponerse a ácaros. Su médico agrega montelukast por vía oral.",
+    "pregunta": "¿Qué mediador bloquea este fármaco a nivel de su receptor?",
+    "opciones": {
+      "A": "Tromboxano A2",
+      "B": "Leucotrieno D4",
+      "C": "Leucotrieno B4",
+      "D": "Prostaglandina E2"
+    },
+    "correcta": "B",
+    "explicacion": "El montelukast antagoniza el receptor de cisteinil-leucotrienos (LTC4, LTD4 y LTE4), que en conjunto forman la SRS-A. Estos mediadores de la vía de la 5-lipooxigenasa causan una broncoconstricción mucho más potente que la histamina.",
+    "distractores": {
+      "A": "El tromboxano A2 viene de la vía COX (agrega plaquetas); el montelukast no actúa sobre él.",
+      "C": "El LTB4 es quimiotáctico para neutrófilos y no es cisteinil-leucotrieno; el montelukast no bloquea su receptor.",
+      "D": "La PGE2 es producto de la COX y protege la mucosa gástrica; no es el blanco del montelukast."
+    },
+    "perla": "SRS-A = LTC4 + LTD4 + LTE4; zileutón inhibe la 5-LOX y montelukast bloquea el receptor."
+  },
+  {
+    "id": "cb-bioq-07",
+    "especialidad": "Bioquímica",
+    "tema": "1.1 Carbohidratos: estructura",
+    "caso": "Lactante de 3 semanas alimentado con leche materna que presenta vómito, rechazo al alimento, ictericia y hepatomegalia. La exploración con lámpara de hendidura muestra cataratas bilaterales en «gota de aceite». Las sustancias reductoras en orina son positivas y la tira reactiva para glucosa es negativa.",
+    "pregunta": "¿Qué polialcohol se acumula en el cristalino y causa las cataratas?",
+    "opciones": {
+      "A": "Sorbitol",
+      "B": "Manitol",
+      "C": "Galactitol (dulcitol)",
+      "D": "Ácido glucurónico"
+    },
+    "correcta": "C",
+    "explicacion": "En la galactosemia la galactosa se acumula y la aldosa reductasa la reduce a galactitol. Este poliol es osmóticamente activo, atrae agua al cristalino y causa cataratas. La lactosa de la leche es la fuente de galactosa.",
+    "distractores": {
+      "A": "El sorbitol viene de la reducción de la glucosa y causa cataratas en la diabetes, no en la galactosemia.",
+      "B": "El manitol viene de la manosa y no se acumula en este cuadro.",
+      "D": "El ácido glucurónico es un ácido urónico (oxidación, no reducción) que conjuga bilirrubina y fármacos; no causa cataratas."
+    },
+    "perla": "Reducción del azúcar → poliol → catarata: glucosa-sorbitol (DM) y galactosa-galactitol (galactosemia)."
+  },
+  {
+    "id": "cb-bioq-08",
+    "especialidad": "Bioquímica",
+    "tema": "1.8 Proteínas",
+    "caso": "Lactante de 4 meses con diarrea crónica, falla de medro, edema y albúmina de 2.1 g/dL. La biopsia intestinal es normal. En el aspirado duodenal hay tripsinógeno, quimotripsinógeno y procarboxipeptidasa en cantidades normales, pero ninguna se encuentra en su forma activa; la amilasa y la lipasa son normales.",
+    "pregunta": "¿Qué enzima es deficiente?",
+    "opciones": {
+      "A": "Pepsina",
+      "B": "Colecistocinina",
+      "C": "Secretina",
+      "D": "Enterocinasa (enteropeptidasa)"
+    },
+    "correcta": "D",
+    "explicacion": "La enterocinasa del borde en cepillo duodenal convierte el tripsinógeno en tripsina, y esta activa las demás proenzimas. Sin enterocinasa ninguna proteasa pancreática se activa: hay mala digestión de proteínas, hipoalbuminemia y edema.",
+    "distractores": {
+      "A": "La pepsina actúa en el estómago; su falta no impide que se activen las proteasas pancreáticas en el duodeno.",
+      "B": "La CCK estimula la secreción de enzimas pancreáticas, pero aquí las proenzimas se secretan normalmente.",
+      "C": "La secretina estimula la secreción de bicarbonato; no activa proenzimas."
+    },
+    "perla": "Enterocinasa → tripsina → activa todas las demás proenzimas pancreáticas."
+  },
+  {
+    "id": "cb-micro-01",
+    "especialidad": "Microbiología",
+    "tema": "2.1 Bacteriología general",
+    "caso": "Hombre de 26 años que vive en una comunidad sin drenaje. Tiene diarrea acuosa profusa, sin sangre, con aspecto de «agua de arroz», sin fiebre, y signos de deshidratación grave. El cultivo en medio TCBS muestra un bacilo gramnegativo curvo, en forma de coma.",
+    "pregunta": "¿Cuál es el mecanismo de acción de la toxina responsable?",
+    "opciones": {
+      "A": "ADP-ribosila la proteína Gs y deja activa la adenilato ciclasa, lo que eleva el AMPc",
+      "B": "ADP-ribosila la proteína Gi e impide que inhiba la adenilato ciclasa",
+      "C": "Actúa como lecitinasa y destruye las membranas celulares",
+      "D": "Inactiva la subunidad 60S del ribosoma e impide la síntesis de proteínas"
+    },
+    "correcta": "A",
+    "explicacion": "La toxina colérica activa de forma permanente la adenilato ciclasa a través de Gs. El AMPc alto abre el canal CFTR, sale Cl⁻ y agua a la luz intestinal y aparece una diarrea secretora sin daño de la mucosa.",
+    "distractores": {
+      "B": "La ADP-ribosilación de Gi es el mecanismo de la toxina pertussis (tos ferina).",
+      "C": "La lecitinasa (toxina α) es de C. perfringens y causa gangrena gaseosa.",
+      "D": "La inhibición del ribosoma 60S es propia de la toxina Shiga, que produce diarrea con sangre."
+    },
+    "perla": "Cólera: toxina → Gs → ↑AMPc → diarrea secretora en «agua de arroz»."
+  },
+  {
+    "id": "cb-micro-02",
+    "especialidad": "Microbiología",
+    "tema": "2.1 Bacteriología general",
+    "caso": "En una unidad de cuidados intensivos se aíslan, en tres semanas, Klebsiella pneumoniae, Escherichia coli y Enterobacter cloacae resistentes a carbapenémicos en pacientes distintos. La secuenciación muestra el mismo gen de carbapenemasa en un plásmido idéntico en las tres especies.",
+    "pregunta": "¿Qué mecanismo de transferencia genética explica mejor esta diseminación?",
+    "opciones": {
+      "A": "Transformación",
+      "B": "Conjugación",
+      "C": "Transducción",
+      "D": "Mutación cromosómica puntual"
+    },
+    "correcta": "B",
+    "explicacion": "La conjugación pasa plásmidos de una bacteria a otra por contacto directo mediante el pilus sexual, incluso entre especies distintas. Es la principal vía por la que se diseminan las resistencias entre gramnegativos.",
+    "distractores": {
+      "A": "En la transformación la bacteria capta ADN libre del medio; es posible, pero no es la vía principal de diseminación de plásmidos entre enterobacterias.",
+      "C": "La transducción depende de un bacteriófago, que suele ser específico de especie y lleva fragmentos pequeños de ADN.",
+      "D": "Una mutación puntual no aparecería de forma idéntica, en el mismo plásmido, en tres especies distintas."
+    },
+    "perla": "Resistencia en plásmido compartida entre gramnegativos = conjugación por pilus sexual."
+  },
+  {
+    "id": "cb-micro-03",
+    "especialidad": "Microbiología",
+    "tema": "2.1 Bacteriología general",
+    "caso": "A 19-year-old college student has had 2 weeks of dry cough, low-grade fever, headache and malaise. Chest X-ray shows patchy bilateral interstitial infiltrates that look worse than his clinical condition. Sputum Gram stain shows no organisms. Cold agglutinins are positive. He did not improve after 7 days of amoxicillin.",
+    "pregunta": "Which feature of the causative organism best explains the treatment failure?",
+    "opciones": {
+      "A": "It produces a plasmid-encoded β-lactamase",
+      "B": "Its thick peptidoglycan layer prevents penetration of the drug",
+      "C": "It lacks a cell wall",
+      "D": "It forms heat-resistant endospores"
+    },
+    "correcta": "C",
+    "explicacion": "Neumonía atípica por Mycoplasma pneumoniae. Es la bacteria más pequeña y no tiene pared celular (su membrana tiene esteroles), así que los β-lactámicos, que actúan sobre el peptidoglucano, no tienen blanco. Se trata con un macrólido o una tetraciclina.",
+    "distractores": {
+      "A": "Una β-lactamasa explicaría resistencia en otras bacterias, pero Mycoplasma no necesita producirla: no tiene pared.",
+      "B": "Un peptidoglucano grueso es propio de los grampositivos y es justamente el blanco de los β-lactámicos.",
+      "D": "Las endosporas son de Bacillus y Clostridium; no explican el fracaso de la amoxicilina en una neumonía."
+    },
+    "perla": "Mycoplasma: sin pared, no se ve en el Gram y no responde a β-lactámicos."
+  },
+  {
+    "id": "cb-micro-04",
+    "especialidad": "Microbiología",
+    "tema": "2.2 Virología general",
+    "caso": "Mujer de 34 años con VIH avanzado (CD4 60 células/μL) y úlceras genitales dolorosas recurrentes. El cultivo confirma virus herpes simple tipo 2. A pesar de 10 días de aciclovir a dosis adecuadas, las lesiones siguen creciendo.",
+    "pregunta": "¿Cuál es el mecanismo de resistencia más probable?",
+    "opciones": {
+      "A": "Mutación de la neuraminidasa viral",
+      "B": "Mutación de la glucoproteína gp41",
+      "C": "Alteración de la proteasa viral",
+      "D": "Deficiencia o alteración de la timidina cinasa viral"
+    },
+    "correcta": "D",
+    "explicacion": "El aciclovir es un profármaco: la timidina cinasa del virus lo fosforila primero y después actúa sobre la ADN polimerasa viral. Si el virus pierde o altera esa enzima, el fármaco no se activa. Es la resistencia típica en inmunocomprometidos.",
+    "distractores": {
+      "A": "La neuraminidasa es el blanco del oseltamivir en la influenza; el herpes no la tiene.",
+      "B": "La gp41 es la proteína de fusión del VIH, blanco de la enfuvirtida.",
+      "C": "La proteasa viral es el blanco de fármacos como lopinavir en el VIH, no del aciclovir."
+    },
+    "perla": "Aciclovir necesita la timidina cinasa del virus para activarse."
+  },
+  {
+    "id": "cb-micro-05",
+    "especialidad": "Microbiología",
+    "tema": "2.2 Virología general",
+    "caso": "Mujer de 46 años con antecedente de transfusión en 1991. En un chequeo se encuentra ALT de 95 U/L. Anti-VHC positivo y ARN de VHC detectable. La elastografía descarta cirrosis. No tiene coinfección por VIH ni VHB.",
+    "pregunta": "¿Cuál es el tratamiento de elección?",
+    "opciones": {
+      "A": "Sofosbuvir/velpatasvir durante 12 semanas",
+      "B": "Interferón α pegilado más ribavirina durante 48 semanas",
+      "C": "Tenofovir en monoterapia indefinida",
+      "D": "Ribavirina en monoterapia durante 24 semanas"
+    },
+    "correcta": "A",
+    "explicacion": "Hoy la hepatitis C se trata con antivirales de acción directa pangenotípicos (sofosbuvir/velpatasvir o glecaprevir/pibrentasvir) durante 8–12 semanas. Curan a más del 95% de los pacientes, con pocos efectos adversos.",
+    "distractores": {
+      "B": "Interferón con ribavirina fue el esquema clásico; hoy es obsoleto por su baja eficacia y su toxicidad.",
+      "C": "El tenofovir es un análogo de nucleótido para VHB y VIH; no es tratamiento de la hepatitis C.",
+      "D": "La ribavirina sola no logra respuesta viral sostenida."
+    },
+    "perla": "Hepatitis C hoy: antivirales de acción directa pangenotípicos por 8–12 semanas; curación >95%."
+  },
+  {
+    "id": "cb-micro-06",
+    "especialidad": "Microbiología",
+    "tema": "2.2 Virología general",
+    "caso": "Niño de 7 años con esferocitosis hereditaria que acude con palidez intensa y fatiga. Hb 4.8 g/dL, reticulocitos 0.1%. Una semana antes su hermana tuvo mejillas muy rojas («abofeteadas») seguidas de un exantema reticulado en los brazos.",
+    "pregunta": "¿Qué tipo de genoma tiene el virus responsable?",
+    "opciones": {
+      "A": "ADN bicatenario",
+      "B": "ADN monocatenario",
+      "C": "ARN bicatenario",
+      "D": "ARN monocatenario positivo con transcriptasa reversa"
+    },
+    "correcta": "B",
+    "explicacion": "El parvovirus B19 (eritema infeccioso) infecta a los precursores eritroides y detiene la eritropoyesis. En pacientes con hemólisis crónica causa crisis aplásica. Es el ejemplo de virus de ADN monocatenario (grupo II de Baltimore).",
+    "distractores": {
+      "A": "El ADN bicatenario es de herpesvirus, adenovirus y poxvirus.",
+      "C": "El ARN bicatenario corresponde a rotavirus y reovirus.",
+      "D": "El ARN (+) con transcriptasa reversa es de los retrovirus como el VIH."
+    },
+    "perla": "Parvovirus B19: ADN monocatenario; crisis aplásica en anemias hemolíticas."
+  },
+  {
+    "id": "cb-micro-07",
+    "especialidad": "Microbiología",
+    "tema": "2.3 Micología general",
+    "caso": "Hombre de 35 años con VIH sin tratamiento (CD4 38 células/μL) con cefalea progresiva de 3 semanas, fiebre y visión borrosa. La punción lumbar muestra presión de apertura de 32 cmH2O, 20 células/μL de predominio linfocítico y glucosa baja.",
+    "pregunta": "¿Qué estudio confirma el diagnóstico con mayor sensibilidad?",
+    "opciones": {
+      "A": "Tinción con tinta china del LCR",
+      "B": "Serología para anticuerpos antifúngicos en suero",
+      "C": "Antígeno criptocócico (CrAg) en LCR",
+      "D": "Tinción de Gram del LCR"
+    },
+    "correcta": "C",
+    "explicacion": "Meningitis criptocócica en un paciente con VIH avanzado. El antígeno capsular de Cryptococcus (CrAg) en LCR o suero es más sensible que la tinta china y hoy es la prueba de uso habitual.",
+    "distractores": {
+      "A": "La tinta china muestra la cápsula y es el dato clásico, pero es menos sensible que el CrAg.",
+      "B": "La serología de anticuerpos solo tiene utilidad comprobada en coccidioidomicosis, y en inmunosuprimidos rinde aún menos.",
+      "D": "El Gram tiñe bien solo a Candida; no es la prueba de elección para Cryptococcus."
+    },
+    "perla": "Cryptococcus: tinta china es el clásico, CrAg es el más sensible."
+  },
+  {
+    "id": "cb-micro-08",
+    "especialidad": "Microbiología",
+    "tema": "2.3 Micología general",
+    "caso": "Hombre de 52 años con diabetes descompensada y cetoacidosis que presenta lesión necrótica negra en paladar y cornete. La biopsia muestra hifas anchas sin septos que se ramifican en ángulo recto. Recibe anfotericina B desoxicolato; al quinto día la creatinina sube de 0.9 a 2.2 mg/dL y el potasio baja a 2.9 mEq/L.",
+    "pregunta": "¿Cuál es el mecanismo de acción de este antifúngico?",
+    "opciones": {
+      "A": "Inhibe la 14-α-desmetilasa y bloquea la síntesis de ergosterol",
+      "B": "Inhibe la escualeno epoxidasa",
+      "C": "Inhibe la síntesis de β-1,3-glucano de la pared",
+      "D": "Se une al ergosterol de la membrana y forma poros"
+    },
+    "correcta": "D",
+    "explicacion": "La anfotericina B es un polieno que se une al ergosterol y forma poros en la membrana del hongo. También se une en menor medida a membranas humanas, lo que explica la nefrotoxicidad y la pérdida de potasio. Es el fármaco de elección en mucormicosis (hifas cenocíticas).",
+    "distractores": {
+      "A": "La inhibición de la 14-α-desmetilasa es el mecanismo de los azoles, como el fluconazol.",
+      "B": "La inhibición de la escualeno epoxidasa es el mecanismo de la terbinafina (onicomicosis).",
+      "C": "La inhibición del β-1,3-glucano es el mecanismo de las equinocandinas, como la caspofungina."
+    },
+    "perla": "Polienos: se unen al ergosterol, forman poros y son nefrotóxicos."
+  },
+  {
+    "id": "cb-farma-01",
+    "especialidad": "Farmacología",
+    "tema": "3.1 Farmacocinética clínica",
+    "caso": "Hombre de 41 años con tuberculosis pulmonar que recibe isoniazida, rifampicina, pirazinamida y etambutol, sin piridoxina. A las 6 semanas refiere ardor y adormecimiento de ambos pies en distribución de calcetín. En otro paciente con la misma dosis no hubo síntomas.",
+    "pregunta": "¿Qué característica farmacogenética explica mejor esta toxicidad?",
+    "opciones": {
+      "A": "Acetilador lento por variante de la N-acetiltransferasa",
+      "B": "Metabolizador ultrarrápido de CYP2D6",
+      "C": "Polimorfismo de VKORC1",
+      "D": "Deficiencia de glucosa-6-fosfato deshidrogenasa"
+    },
+    "correcta": "A",
+    "explicacion": "La isoniazida se elimina por acetilación. Los acetiladores lentos alcanzan concentraciones más altas y tienen más neuropatía periférica (por depleción de B6) y más hepatotoxicidad. La proporción de acetiladores rápidos y lentos varía por etnia.",
+    "distractores": {
+      "B": "El CYP2D6 es relevante para codeína y tricíclicos, no para la isoniazida.",
+      "C": "VKORC1 (junto con CYP2C9) modifica la respuesta a warfarina.",
+      "D": "El déficit de G6PD predispone a hemólisis por oxidantes, no a neuropatía por isoniazida."
+    },
+    "perla": "Acetilador lento + isoniazida = neuropatía y hepatitis; dar piridoxina."
+  },
+  {
+    "id": "cb-farma-02",
+    "especialidad": "Farmacología",
+    "tema": "3.1 Farmacocinética clínica",
+    "caso": "Mujer de 82 años, 45 kg, hospitalizada por pielonefritis complicada. Creatinina sérica 1.0 mg/dL. Se decide agregar gentamicina y el residente propone la dosis estándar para adulto porque «la creatinina es normal».",
+    "pregunta": "¿Cuál es la conducta correcta antes de dosificar?",
+    "opciones": {
+      "A": "Usar la dosis estándar, ya que la creatinina sérica está en rango normal",
+      "B": "Estimar la depuración de creatinina (p. ej., Cockcroft-Gault) y ajustar la dosis o el intervalo",
+      "C": "Duplicar la dosis de carga porque en la vejez aumenta el volumen de distribución de los hidrosolubles",
+      "D": "Medir concentraciones solo si aparece ototoxicidad o nefrotoxicidad"
+    },
+    "correcta": "B",
+    "explicacion": "En el adulto mayor la masa muscular es baja, así que una creatinina «normal» puede ocultar una TFG reducida. Con Cockcroft-Gault esta paciente tiene alrededor de 30 mL/min. Los aminoglucósidos se eliminan por riñón y tienen índice terapéutico estrecho.",
+    "distractores": {
+      "A": "Es la trampa clásica: la creatinina sérica sobrestima la función renal en ancianos con poca masa muscular.",
+      "C": "En la vejez baja el agua corporal, así que el volumen de distribución de los hidrosolubles disminuye, no aumenta.",
+      "D": "Los aminoglucósidos requieren monitoreo desde el inicio por su índice terapéutico estrecho; esperar la toxicidad es inaceptable."
+    },
+    "perla": "En ancianos, calcula siempre la depuración de creatinina: la creatinina sérica engaña."
+  },
+  {
+    "id": "cb-farma-03",
+    "especialidad": "Farmacología",
+    "tema": "3.1 Farmacocinética clínica",
+    "caso": "Recién nacido prematuro de 32 semanas, al quinto día de vida, con sepsis tratada con cloranfenicol a dosis calculada con la fórmula del adulto. Al tercer día de tratamiento presenta distensión abdominal, vómito, hipotermia, coloración grisácea de la piel y colapso circulatorio.",
+    "pregunta": "¿Qué característica farmacocinética del neonato explica este cuadro?",
+    "opciones": {
+      "A": "Menor volumen de distribución de los fármacos hidrosolubles",
+      "B": "Mayor unión del fármaco a la albúmina plasmática",
+      "C": "Inmadurez de la glucuronidación hepática",
+      "D": "Filtración glomerular aumentada"
+    },
+    "correcta": "C",
+    "explicacion": "La glucuronidación es la vía metabólica más inmadura del neonato. El cloranfenicol no se conjuga, se acumula y produce el síndrome del bebé gris.",
+    "distractores": {
+      "A": "El neonato tiene más agua corporal, así que el volumen de distribución de los hidrosolubles es mayor, no menor.",
+      "B": "El neonato tiene menos albúmina y más desplazadores (bilirrubina); la fracción libre aumenta.",
+      "D": "La TFG del neonato es baja; madura hacia los 3 años."
+    },
+    "perla": "Neonato: glucuronidación inmadura → bebé gris con cloranfenicol y kernícterus con sulfas."
+  },
+  {
+    "id": "cb-farma-04",
+    "especialidad": "Farmacología",
+    "tema": "3.1 Farmacocinética clínica",
+    "caso": "Mujer de 38 años con obesidad grado III (peso corporal total 120 kg, peso corporal ideal 70 kg) y bacteriemia por gramnegativo. Se indica amikacina y hay que calcular el peso de dosificación.",
+    "pregunta": "¿Qué peso debe usarse para calcular la dosis?",
+    "opciones": {
+      "A": "70 kg",
+      "B": "120 kg",
+      "C": "95 kg",
+      "D": "90 kg"
+    },
+    "correcta": "D",
+    "explicacion": "En aminoglucósidos se usa el peso de dosificación = PCI + 0.4 × (PCT − PCI) = 70 + 0.4 × 50 = 90 kg. El factor corrige que el tejido adiposo aporta poca agua extracelular.",
+    "distractores": {
+      "A": "El peso ideal solo subestima la dosis; se usa así para la digoxina, no para aminoglucósidos.",
+      "B": "El peso total sobredosifica (riesgo de nefro- y ototoxicidad); se usa así para la vancomicina.",
+      "C": "95 kg resulta de usar el factor 0.5, que corresponde a la teofilina."
+    },
+    "perla": "Aminoglucósido en obeso: PCI + 0.4 × (PCT − PCI)."
+  },
+  {
+    "id": "cb-farma-05",
+    "especialidad": "Farmacología",
+    "tema": "3.2 Farmacodinamia",
+    "caso": "A 32-year-old man who injects heroin daily enters a treatment program and receives a first dose of sublingual buprenorphine 6 hours after his last heroin use. Within 40 minutes he develops yawning, rhinorrhea, piloerection, abdominal cramps, dilated pupils and agitation.",
+    "pregunta": "Which pharmacodynamic property best explains this reaction?",
+    "opciones": {
+      "A": "Buprenorphine is a partial agonist that behaves as an antagonist in the presence of a full agonist",
+      "B": "Buprenorphine is an inverse agonist that suppresses constitutive receptor activity",
+      "C": "Buprenorphine is an irreversible noncompetitive antagonist that lowers the Emax",
+      "D": "Buprenorphine is a chemical antagonist that binds heroin in plasma"
+    },
+    "correcta": "A",
+    "explicacion": "La buprenorfina es agonista parcial del receptor μ, con alta afinidad. Desplaza a la heroína (agonista completo) pero produce una respuesta submáxima; el efecto neto baja y se precipita la abstinencia.",
+    "distractores": {
+      "B": "El agonista inverso estabiliza la conformación inactiva; la buprenorfina tiene actividad agonista propia.",
+      "C": "El antagonismo no competitivo irreversible es el de fármacos como el AAS o la fenoxibenzamina; la buprenorfina se une de forma reversible.",
+      "D": "El antagonismo químico neutraliza directamente al fármaco (protamina–heparina); no es el caso."
+    },
+    "perla": "Agonista parcial + agonista completo = se comporta como antagonista."
+  },
+  {
+    "id": "cb-farma-06",
+    "especialidad": "Farmacología",
+    "tema": "3.2 Farmacodinamia",
+    "caso": "Hombre de 61 años con cardiopatía isquémica que ha tomado propranolol durante 5 años. Lo suspende de golpe porque se le terminó. A los 3 días acude con palpitaciones, FC 118 lpm, TA 170/100 mmHg y angina de reposo.",
+    "pregunta": "¿Qué fenómeno explica este cuadro?",
+    "opciones": {
+      "A": "Taquifilaxia",
+      "B": "Regulación a la alta (hipersensibilidad) de los receptores β",
+      "C": "Tolerancia por desensibilización de los receptores",
+      "D": "Agonismo inverso del propranolol"
+    },
+    "correcta": "B",
+    "explicacion": "El bloqueo crónico hace que la célula exprese más receptores β. Al retirar el fármaco de golpe, las catecolaminas actúan sobre más receptores y hay un efecto de rebote. Por eso los β-bloqueadores se retiran de forma gradual.",
+    "distractores": {
+      "A": "La taquifilaxia es una pérdida rápida de respuesta (minutos) por exceso de agonista, como con los nitratos.",
+      "C": "La desensibilización baja el número de receptores por exceso de agonista; aquí pasó lo contrario.",
+      "D": "El agonismo inverso no explica un rebote después de suspender el fármaco."
+    },
+    "perla": "Antagonista crónico → más receptores → rebote al suspender de golpe."
+  },
+  {
+    "id": "cb-farma-07",
+    "especialidad": "Farmacología",
+    "tema": "3.2 Farmacodinamia",
+    "caso": "Hombre de 66 años en cirugía de revascularización coronaria, anticoagulado con heparina no fraccionada durante la circulación extracorpórea. Al terminar el procedimiento, el anestesiólogo administra protamina y el tiempo de coagulación se normaliza.",
+    "pregunta": "¿Qué tipo de antagonismo representa esta intervención?",
+    "opciones": {
+      "A": "Competitivo reversible",
+      "B": "Fisiológico",
+      "C": "Químico",
+      "D": "No competitivo irreversible"
+    },
+    "correcta": "C",
+    "explicacion": "La protamina es básica y se une directamente a la heparina (ácida), formando un complejo inactivo. Neutraliza el fármaco sin actuar sobre ningún receptor: es un antagonismo químico.",
+    "distractores": {
+      "A": "El antagonista competitivo ocupa el mismo sitio del receptor que el agonista; la protamina no compite por la antitrombina.",
+      "B": "El antagonismo fisiológico usa otro receptor con efecto opuesto, como la adrenalina frente a la histamina.",
+      "D": "El no competitivo irreversible bloquea el receptor y baja el Emax (AAS sobre la COX); no neutraliza el fármaco."
+    },
+    "perla": "Protamina–heparina: el ejemplo de antagonismo químico."
+  },
+  {
+    "id": "cb-farma-08",
+    "especialidad": "Farmacología",
+    "tema": "3.2 Farmacodinamia",
+    "caso": "Mujer de 68 años con diabetes tipo 2 y ERC que toma glibenclamida. La traen por diaforesis, confusión y glucosa capilar de 38 mg/dL tras omitir la cena.",
+    "pregunta": "¿Sobre qué blanco molecular actúa el fármaco responsable?",
+    "opciones": {
+      "A": "Receptor con actividad de tirosina cinasa",
+      "B": "Receptor nuclear que actúa como factor de transcripción",
+      "C": "Transportador GLUT-4",
+      "D": "Canal de potasio sensible a ATP de la célula β"
+    },
+    "correcta": "D",
+    "explicacion": "Las sulfonilureas cierran el canal K-ATP de la célula β. La membrana se despolariza, entra Ca²⁺ y se libera insulina aunque la glucosa esté baja; por eso causan hipoglucemia, sobre todo en ERC.",
+    "distractores": {
+      "A": "El receptor tirosina cinasa es el de la insulina misma, no el blanco de la glibenclamida.",
+      "B": "Los receptores nucleares son blanco de esteroides, hormona tiroidea y tiazolidinedionas.",
+      "C": "GLUT-4 es el transportador regulado por insulina en músculo y grasa; no es blanco directo de sulfonilureas."
+    },
+    "perla": "Sulfonilureas: cierran K-ATP → despolarización → liberan insulina."
+  },
+  {
+    "id": "cb-sp-01",
+    "especialidad": "Salud pública y epidemiología",
+    "tema": "4.3 Bases epidemiológicas y situación de salud",
+    "caso": "El epidemiólogo de una jurisdicción sanitaria revisa el canal endémico de dengue. En la semana 32 se notificaron 45 casos. La mediana de casos para esa misma semana en los 5 años previos es de 30.",
+    "pregunta": "¿Cómo se interpreta la situación?",
+    "opciones": {
+      "A": "Índice epidémico de 1.5: incidencia alta (situación epidémica)",
+      "B": "Índice epidémico de 1.5: incidencia dentro de lo esperado",
+      "C": "Índice epidémico de 0.67: incidencia baja",
+      "D": "No se puede calcular sin la media aritmética del quinquenio"
+    },
+    "correcta": "A",
+    "explicacion": "Índice epidémico = casos observados / casos esperados (mediana del quinquenio) = 45/30 = 1.5. Un valor de 1.25 o más indica incidencia alta.",
+    "distractores": {
+      "B": "El rango normal es de 0.76 a 1.24; 1.5 lo rebasa.",
+      "C": "0.67 resulta de invertir la fórmula (esperados/observados).",
+      "D": "El esperado se calcula con la mediana, no con la media."
+    },
+    "perla": "Índice epidémico ≥1.25 = epidemia; 0.76–1.24 = normal; ≤0.75 = baja."
+  },
+  {
+    "id": "cb-sp-02",
+    "especialidad": "Salud pública y epidemiología",
+    "tema": "4.4 Medidas de frecuencia, asociación e impacto (con ejemplos)",
+    "caso": "Un ensayo clínico aleatorizado evalúa un nuevo fármaco para prevenir reingresos por insuficiencia cardiaca a un año. El reingreso ocurrió en 30% del grupo placebo y en 20% del grupo tratado.",
+    "pregunta": "¿Cuántos pacientes hay que tratar para evitar un reingreso?",
+    "opciones": {
+      "A": "5",
+      "B": "10",
+      "C": "33",
+      "D": "3"
+    },
+    "correcta": "B",
+    "explicacion": "Reducción absoluta del riesgo = 0.30 − 0.20 = 0.10. NNT = 1/RAR = 1/0.10 = 10.",
+    "distractores": {
+      "A": "5 sale de dividir 1 entre el riesgo del grupo tratado (0.20).",
+      "C": "33 es la reducción relativa del riesgo en porcentaje (0.10/0.30), no el NNT.",
+      "D": "3 sale de dividir 1 entre el riesgo del grupo control (0.30)."
+    },
+    "perla": "NNT = 1 / reducción absoluta del riesgo."
+  },
+  {
+    "id": "cb-sp-03",
+    "especialidad": "Salud pública y epidemiología",
+    "tema": "4.4 Medidas de frecuencia, asociación e impacto (con ejemplos)",
+    "caso": "Se aplica una prueba rápida con sensibilidad de 90% y especificidad de 90% a 1000 personas de una población donde la prevalencia de la enfermedad es de 20%.",
+    "pregunta": "¿Cuál es el valor predictivo positivo aproximado?",
+    "opciones": {
+      "A": "90%",
+      "B": "97%",
+      "C": "69%",
+      "D": "20%"
+    },
+    "correcta": "C",
+    "explicacion": "200 enfermos: VP = 180, FN = 20. 800 sanos: VN = 720, FP = 80. VPP = 180/(180 + 80) = 69%. Depende de la prevalencia: aunque la prueba sea buena, en poblaciones con poca enfermedad hay muchos falsos positivos.",
+    "distractores": {
+      "A": "90% es la sensibilidad (o la especificidad), no el VPP.",
+      "B": "97% es el VPN: 720/(720 + 20).",
+      "D": "20% es la prevalencia (probabilidad previa)."
+    },
+    "perla": "Si baja la prevalencia, baja el VPP y sube el VPN; S y E no cambian."
+  },
+  {
+    "id": "cb-sp-04",
+    "especialidad": "Salud pública y epidemiología",
+    "tema": "4.6 Diseño de estudios epidemiológicos",
+    "caso": "Researchers suspect that first-trimester exposure to a newly marketed antiepileptic drug is associated with a rare limb-reduction defect. They identify 120 infants born with the defect and 480 unaffected infants matched by hospital and birth date, and interview the mothers about medication use during pregnancy.",
+    "pregunta": "Which study design is this, and which measure of association should be reported?",
+    "opciones": {
+      "A": "Prospective cohort; relative risk",
+      "B": "Cross-sectional survey; prevalence",
+      "C": "Randomized clinical trial; number needed to treat",
+      "D": "Case-control study; odds ratio"
+    },
+    "correcta": "D",
+    "explicacion": "Se parte del efecto (niños con y sin el defecto) y se busca la exposición hacia atrás: es un estudio de casos y controles. Se reporta la razón de momios. Es el diseño ideal para enfermedades raras y para identificar teratógenos.",
+    "distractores": {
+      "A": "La cohorte parte de la exposición y sigue hacia el efecto; con una malformación rara requeriría un tamaño enorme.",
+      "B": "El transversal mide prevalencia en un momento y no establece temporalidad.",
+      "C": "Asignar al azar un posible teratógeno a embarazadas no sería ético."
+    },
+    "perla": "¿Teratógenos o enfermedades raras? Casos y controles, con razón de momios."
+  },
+  {
+    "id": "cb-sp-05",
+    "especialidad": "Salud pública y epidemiología",
+    "tema": "4.6 Diseño de estudios epidemiológicos",
+    "caso": "Un estudio usa datos agregados de las 32 entidades federativas y encuentra una correlación fuerte entre el consumo de alcohol per cápita y la mortalidad por cirrosis. Los autores concluyen que «cada persona que bebe más tiene mayor riesgo de morir por cirrosis».",
+    "pregunta": "¿Qué error metodológico cometen?",
+    "opciones": {
+      "A": "Falacia ecológica",
+      "B": "Sesgo de memoria",
+      "C": "Sesgo por pérdidas en el seguimiento",
+      "D": "Error de clasificación de casos y controles"
+    },
+    "correcta": "A",
+    "explicacion": "Es un estudio ecológico: analiza grupos, no individuos. Una asociación entre promedios de grupos no prueba que exista a nivel individual; suponerlo es la falacia ecológica. Estos estudios sirven para generar hipótesis.",
+    "distractores": {
+      "B": "El sesgo de memoria es típico de casos y controles, donde se pregunta por exposiciones pasadas.",
+      "C": "Las pérdidas en el seguimiento afectan a las cohortes; aquí no hubo seguimiento.",
+      "D": "No hay casos ni controles individuales; se usaron datos agregados."
+    },
+    "perla": "Estudio ecológico: barato y rápido, genera hipótesis; cuidado con la falacia ecológica."
+  },
+  {
+    "id": "cb-sp-06",
+    "especialidad": "Salud pública y epidemiología",
+    "tema": "4.1 Conceptos generales",
+    "caso": "Hombre de 52 años, albañil sin seguridad social, que vive en una entidad federativa adherida al modelo federal de atención. En 2026 se le diagnostica diabetes tipo 2 y pregunta dónde recibirá atención y medicamentos gratuitos.",
+    "pregunta": "¿Qué institución es responsable actualmente de la atención de la población sin seguridad social en estas entidades?",
+    "opciones": {
+      "A": "Seguro Popular",
+      "B": "IMSS-Bienestar",
+      "C": "ISSSTE",
+      "D": "INSABI"
+    },
+    "correcta": "B",
+    "explicacion": "El Seguro Popular desapareció en 2020 y lo sustituyó el INSABI. Desde 2023 la atención de la población sin seguridad social en las entidades adheridas pasó a IMSS-Bienestar.",
+    "distractores": {
+      "A": "El Seguro Popular desapareció en 2020.",
+      "C": "El ISSSTE es seguridad social para trabajadores del Estado; el paciente no es derechohabiente.",
+      "D": "El INSABI funcionó de 2020 a 2023 y sus funciones pasaron a IMSS-Bienestar."
+    },
+    "perla": "Seguro Popular (hasta 2019) → INSABI (2020) → IMSS-Bienestar (2023)."
+  },
+  {
+    "id": "cb-sp-07",
+    "especialidad": "Salud pública y epidemiología",
+    "tema": "4.2 Enfermedades emergentes, reemergentes y globales",
+    "caso": "Un comité estatal de vigilancia analiza una enfermedad infecciosa conocida desde hace siglos, que llegó a estar bien controlada y cuya incidencia aumenta de nuevo desde la década de 1980, favorecida por el VIH, la resistencia a fármacos y el abandono de programas de control.",
+    "pregunta": "¿Cómo se clasifica esta enfermedad (por ejemplo, la tuberculosis)?",
+    "opciones": {
+      "A": "Emergente",
+      "B": "Pandémica",
+      "C": "Reemergente",
+      "D": "Nueva zoonosis"
+    },
+    "correcta": "C",
+    "explicacion": "Una enfermedad reemergente es una ya conocida y controlada que vuelve a aumentar. Ejemplos: tuberculosis, cólera, dengue. La estrategia principal de la OMS/OPS ante estas enfermedades es fortalecer la vigilancia epidemiológica.",
+    "distractores": {
+      "A": "Emergente es una enfermedad nueva, recién identificada o que se extendió en las últimas ~2 décadas (VIH, ébola).",
+      "B": "Pandemia describe la extensión mundial de un brote, no su comportamiento histórico.",
+      "D": "La mayoría de las emergentes son zoonosis, pero esta enfermedad no es nueva."
+    },
+    "perla": "Conocida y controlada que regresa = reemergente (TB, cólera, dengue)."
+  },
+  {
+    "id": "cb-sp-08",
+    "especialidad": "Salud pública y epidemiología",
+    "tema": "4.5 Cuidado de la salud por grupo de edad (México, datos 2012–2015)",
+    "caso": "Mujer de 24 años, primigesta, con embarazo de 28 semanas y control prenatal normal. Recibió la vacuna Td en la adolescencia. Pregunta qué vacuna le corresponde ahora para proteger a su bebé en los primeros meses de vida.",
+    "pregunta": "¿Cuál es la recomendación actual?",
+    "opciones": {
+      "A": "Ninguna vacuna durante el embarazo; vacunar al bebé al nacer",
+      "B": "Triple viral (SRP)",
+      "C": "Refuerzo de Td únicamente",
+      "D": "Tdpa en este embarazo, entre las semanas 20 y 36"
+    },
+    "correcta": "D",
+    "explicacion": "Hoy se aplica Tdpa en cada embarazo, entre las semanas 20 y 36. Los anticuerpos maternos pasan por la placenta y protegen al lactante de la tos ferina antes de que complete su propio esquema.",
+    "distractores": {
+      "A": "Hay vacunas inactivadas indicadas en el embarazo (Tdpa, influenza); no vacunar deja al lactante sin protección contra la tos ferina.",
+      "B": "La SRP es de virus vivos atenuados y está contraindicada en el embarazo.",
+      "C": "La Td no contiene el componente contra tos ferina, que es el que protege al recién nacido."
+    },
+    "perla": "Tdpa en cada embarazo (semanas 20–36), aunque se haya aplicado antes."
+  },
+  {
+    "id": "cb-inmu-01",
+    "especialidad": "Inmunología",
+    "tema": "5.1 Bases del sistema inmune",
+    "caso": "Mujer de 22 años con su segundo episodio de meningitis por Neisseria meningitidis en 3 años. No tiene otras infecciones. Estudios: CH50 indetectable, C3 y C4 normales, inmunoglobulinas normales.",
+    "pregunta": "¿Cuál es la deficiencia más probable?",
+    "opciones": {
+      "A": "Componentes terminales del complemento (C5–C9)",
+      "B": "C3",
+      "C": "Inhibidor de C1 esterasa",
+      "D": "IgA"
+    },
+    "correcta": "A",
+    "explicacion": "El complejo de ataque a membrana (C5b-C9) lisa bacterias de pared delgada como Neisseria. Su deficiencia da infecciones recurrentes por Neisseria con CH50 bajo, mientras C3 y C4 se mantienen normales.",
+    "distractores": {
+      "B": "El déficit de C3 bajaría C3 y causaría infecciones piógenas graves por falta de opsonización (C3b).",
+      "C": "El déficit de inhibidor de C1 causa angioedema hereditario, no meningitis recurrente.",
+      "D": "El déficit de IgA suele ser asintomático o dar infecciones sinopulmonares y digestivas; aquí las Ig son normales."
+    },
+    "perla": "Neisseria recurrente → piensa en complejo de ataque a membrana (C5–C9)."
+  },
+  {
+    "id": "cb-inmu-02",
+    "especialidad": "Inmunología",
+    "tema": "5.1 Bases del sistema inmune",
+    "caso": "Hombre de 45 años con trasplante renal e infección activa por citomegalovirus. El virus reduce la expresión de MHC clase I en las células infectadas y así escapa del reconocimiento por los linfocitos T CD8.",
+    "pregunta": "¿Qué célula de la inmunidad innata reconoce y destruye justamente a las células con MHC-I disminuido?",
+    "opciones": {
+      "A": "Linfocito T CD4 Th2",
+      "B": "Célula NK",
+      "C": "Eosinófilo",
+      "D": "Linfocito B"
+    },
+    "correcta": "B",
+    "explicacion": "Las células NK revisan si las células expresan MHC-I propio. Cuando falta, por infección viral o transformación tumoral, las destruyen. Además liberan IFN-γ y TNF-α, que orientan la respuesta hacia Th1.",
+    "distractores": {
+      "A": "El CD4 reconoce péptidos en MHC-II y no destruye directamente células con MHC-I bajo.",
+      "C": "El eosinófilo defiende sobre todo contra helmintos.",
+      "D": "El linfocito B reconoce antígeno nativo y produce anticuerpos; no detecta la falta de MHC-I."
+    },
+    "perla": "NK: matan a la célula que «esconde» su MHC-I (virus, tumores)."
+  },
+  {
+    "id": "cb-inmu-03",
+    "especialidad": "Inmunología",
+    "tema": "5.2 Inmunología clínica: hipersensibilidad (Gell y Coombs)",
+    "caso": "Recién nacido de término, segundo hijo de una madre O Rh negativo que no recibió inmunoglobulina anti-D en su primer embarazo. A las 12 horas de vida presenta ictericia. Hb 11 g/dL, reticulocitos 12%, bilirrubina indirecta 14 mg/dL y Coombs directo positivo. El RN es Rh positivo.",
+    "pregunta": "¿Qué tipo de hipersensibilidad explica el cuadro?",
+    "opciones": {
+      "A": "Tipo I",
+      "B": "Tipo III",
+      "C": "Tipo II",
+      "D": "Tipo IV"
+    },
+    "correcta": "C",
+    "explicacion": "Los anticuerpos IgG anti-D de la madre, sensibilizada en el primer embarazo, cruzan la placenta y se unen a los eritrocitos Rh positivos del feto. Se destruyen por complemento y fagocitosis: es hipersensibilidad tipo II (anticuerpos contra antígenos de la célula).",
+    "distractores": {
+      "A": "La tipo I está mediada por IgE en mastocitos (anafilaxia, atopia).",
+      "B": "La tipo III se produce por inmunocomplejos con antígeno soluble que se depositan en vasos (enfermedad del suero, LES).",
+      "D": "La tipo IV la median linfocitos T, es tardía y no produce hemólisis con Coombs positivo."
+    },
+    "perla": "Coombs directo positivo = anticuerpo sobre el eritrocito = tipo II."
+  },
+  {
+    "id": "cb-inmu-04",
+    "especialidad": "Inmunología",
+    "tema": "5.2 Inmunología clínica: hipersensibilidad (Gell y Coombs)",
+    "caso": "Hombre de 40 años, campesino, que recibió antiveneno de origen equino por mordedura de serpiente. Diez días después presenta fiebre, exantema urticariforme, artralgias en rodillas y muñecas y adenopatías. Examen general de orina con proteinuria; C3 bajo.",
+    "pregunta": "¿Qué mecanismo inmunológico explica el cuadro?",
+    "opciones": {
+      "A": "Tipo I, mediado por IgE",
+      "B": "Tipo II, anticuerpos contra antígenos de la membrana celular",
+      "C": "Tipo IV, mediado por linfocitos T",
+      "D": "Tipo III, por depósito de inmunocomplejos"
+    },
+    "correcta": "D",
+    "explicacion": "Es la enfermedad del suero, prototipo de hipersensibilidad tipo III. Los anticuerpos contra la proteína heteróloga forman inmunocomplejos que se depositan en vasos, articulaciones y riñón. Activan el complemento (por eso el C3 está bajo) y atraen neutrófilos, 1–2 semanas después de la exposición.",
+    "distractores": {
+      "A": "La tipo I aparece en minutos (anafilaxia), no a los 10 días, y no consume complemento.",
+      "B": "La tipo II va dirigida contra antígenos fijos de una célula (p. ej., hemólisis), no contra un antígeno soluble.",
+      "C": "La tipo IV es mediada por células, a las 24–72 h, sin inmunocomplejos ni consumo de complemento."
+    },
+    "perla": "Enfermedad del suero: fiebre + exantema + artralgias + complemento bajo, 1–2 semanas después."
+  },
+  {
+    "id": "cb-inmu-05",
+    "especialidad": "Inmunología",
+    "tema": "5.2 Inmunología clínica: hipersensibilidad (Gell y Coombs)",
+    "caso": "A 30-year-old woman presents with an intensely pruritic, erythematous, vesicular and eczematous rash on both earlobes that appeared 48 hours after she started wearing new inexpensive earrings. She had a similar rash beneath a metal belt buckle last year.",
+    "pregunta": "What is the immunologic mechanism of this reaction?",
+    "opciones": {
+      "A": "Type IV: delayed, T-cell–mediated hypersensitivity",
+      "B": "Type I: IgE-mediated mast cell degranulation",
+      "C": "Type III: immune complex deposition",
+      "D": "Type II: IgG directed against cell-surface antigens"
+    },
+    "correcta": "A",
+    "explicacion": "Dermatitis por contacto con níquel. Es la hipersensibilidad tipo IV más frecuente: el níquel se une a proteínas de la piel y los linfocitos T sensibilizados liberan citocinas y activan macrófagos a las 24–72 h.",
+    "distractores": {
+      "B": "La tipo I aparece en minutos, con urticaria o angioedema, no con un eccema a las 48 h.",
+      "C": "La tipo III da vasculitis por inmunocomplejos; la dermatitis localizada al sitio de contacto no es su patrón.",
+      "D": "La tipo II destruye células por anticuerpos, como en la hemólisis autoinmune o por Rh."
+    },
+    "perla": "Dermatitis por contacto y PPD: tipo IV, a las 24–72 h."
+  },
+  {
+    "id": "cb-inmu-06",
+    "especialidad": "Inmunología",
+    "tema": "5.2 Inmunología clínica: hipersensibilidad (Gell y Coombs)",
+    "caso": "Mujer de 26 años, 60 kg, que 10 minutos después de una picadura de abeja presenta urticaria generalizada, edema de labios, sibilancias y mareo. TA 72/40 mmHg, FC 128 lpm, SpO2 90%.",
+    "pregunta": "¿Cuál es el tratamiento inicial de elección?",
+    "opciones": {
+      "A": "Difenhidramina 50 mg IV",
+      "B": "Adrenalina 0.5 mg IM (solución 1 mg/mL) en la cara anterolateral del muslo",
+      "C": "Hidrocortisona 200 mg IV",
+      "D": "Adrenalina 1 mg IV en bolo"
+    },
+    "correcta": "B",
+    "explicacion": "Es anafilaxia (hipersensibilidad tipo I). El primer paso es adrenalina IM, 0.01 mg/kg de la solución 1 mg/mL, con máximo de 0.5 mg en adulto, en el vasto lateral; se repite cada 5–15 min si hace falta. Antihistamínicos y corticoides solo son adyuvantes.",
+    "distractores": {
+      "A": "El antihistamínico alivia la urticaria pero no revierte la hipotensión ni el broncoespasmo; es adyuvante.",
+      "C": "El corticoide actúa en horas y no trata el choque agudo.",
+      "D": "El bolo IV de 1 mg es la dosis del paro cardiaco; en un paciente con pulso puede causar arritmias graves."
+    },
+    "perla": "Anafilaxia: adrenalina IM en el muslo, sin retrasarla."
+  },
+  {
+    "id": "cb-inmu-07",
+    "especialidad": "Inmunología",
+    "tema": "5.3 Técnicas de laboratorio inmunológico",
+    "caso": "Hombre de 28 años que acude a una clínica de ITS. Su inmunoensayo de 4ª generación para VIH (antígeno p24 + anticuerpos) resulta reactivo. Está asintomático.",
+    "pregunta": "¿Cuál es el siguiente paso según el algoritmo diagnóstico actual?",
+    "opciones": {
+      "A": "Western blot confirmatorio",
+      "B": "Repetir el mismo inmunoensayo en 3 meses",
+      "C": "Inmunoensayo de diferenciación VIH-1/VIH-2",
+      "D": "Conteo de CD4 por citometría de flujo para confirmar la infección"
+    },
+    "correcta": "C",
+    "explicacion": "El algoritmo actual (CDC, desde 2014) confirma un inmunoensayo de 4ª generación reactivo con un inmunoensayo de diferenciación VIH-1/VIH-2. Si hay discordancia, se mide la carga viral (ARN).",
+    "distractores": {
+      "A": "El Western blot fue el confirmatorio clásico, pero ya no se recomienda: es menos sensible en la infección temprana.",
+      "B": "Esperar 3 meses retrasa el diagnóstico de un resultado reactivo que debe confirmarse ya.",
+      "D": "La citometría de CD4 sirve para estadificar y dar seguimiento, no para confirmar la infección."
+    },
+    "perla": "VIH: 4ª generación → diferenciación VIH-1/2 → carga viral si hay discordancia."
+  },
+  {
+    "id": "cb-inmu-08",
+    "especialidad": "Inmunología",
+    "tema": "5.3 Técnicas de laboratorio inmunológico",
+    "caso": "Hombre de 68 años con dolor lumbar de 4 meses, fatiga y pérdida de peso. Hb 8.9 g/dL, calcio 12.1 mg/dL, creatinina 2.3 mg/dL y proteínas totales 10 g/dL con albúmina 3.0 g/dL. Las radiografías muestran lesiones líticas en cráneo.",
+    "pregunta": "¿Qué estudio inmunológico es el más adecuado para documentar la alteración principal?",
+    "opciones": {
+      "A": "Inmunofluorescencia indirecta en células HEp-2",
+      "B": "Citometría de flujo para conteo de CD4",
+      "C": "Ensayo de liberación de interferón γ (IGRA)",
+      "D": "Electroforesis de proteínas con inmunofijación en suero y orina"
+    },
+    "correcta": "D",
+    "explicacion": "Hipercalcemia, insuficiencia renal, anemia y lesiones óseas (CRAB) con brecha de proteínas sugieren mieloma múltiple. La electroforesis muestra el pico monoclonal y la inmunofijación identifica el tipo de cadena pesada y ligera.",
+    "distractores": {
+      "A": "La IFI en HEp-2 es el estándar para anticuerpos antinucleares (LES y otras autoinmunes).",
+      "B": "El conteo de CD4 se usa para seguir el VIH.",
+      "C": "El IGRA mide IFN-γ ante antígenos de M. tuberculosis (infección tuberculosa)."
+    },
+    "perla": "Pico monoclonal (mieloma) → electroforesis + inmunofijación en suero y orina."
+  },
+  {
+    "id": "cb-gen-01",
+    "especialidad": "Genética",
+    "tema": "6.2 Patrones de herencia monogénica",
+    "caso": "Mujer de 19 años con episodios parecidos a un evento vascular cerebral, crisis convulsivas, debilidad muscular y lactato sérico de 6 mmol/L. Su madre tiene hipoacusia y diabetes leve; un hermano tiene solo intolerancia al ejercicio. El padre está sano. Un tío materno tiene oftalmoplejía y miopatía, pero ninguno de sus hijos está afectado.",
+    "pregunta": "¿Qué patrón de herencia explica mejor la enfermedad y la variabilidad familiar?",
+    "opciones": {
+      "A": "Mitocondrial, con heteroplasmia",
+      "B": "Autosómico dominante con penetrancia completa",
+      "C": "Ligado al X recesivo",
+      "D": "Ligado al X dominante"
+    },
+    "correcta": "A",
+    "explicacion": "Cuadro compatible con MELAS. El ADN mitocondrial solo lo transmite la madre, a hijos de ambos sexos. La heteroplasmia (proporción variable de mitocondrias mutadas) explica que cada familiar tenga una gravedad distinta.",
+    "distractores": {
+      "B": "La autosómica dominante con penetrancia completa daría un fenotipo más uniforme y podría transmitirse por el padre.",
+      "C": "La ligada al X recesiva afecta casi solo a varones; aquí hay mujeres con síntomas en dos generaciones.",
+      "D": "La ligada al X dominante no explica la heteroplasmia ni la acidosis láctica con transmisión materna."
+    },
+    "perla": "Transmisión solo materna + gravedad variable = mitocondrial (MELAS, MERRF, Leber)."
+  },
+  {
+    "id": "cb-gen-02",
+    "especialidad": "Genética",
+    "tema": "6.2 Patrones de herencia monogénica",
+    "caso": "Recién nacido con hipotonía grave y mala succión que requiere sonda para alimentarse. A los 3 años tiene hiperfagia, obesidad, manos y pies pequeños, hipogonadismo y retraso del desarrollo. La FISH muestra una deleción en 15q11-q13.",
+    "pregunta": "¿De qué cromosoma proviene con mayor probabilidad la deleción?",
+    "opciones": {
+      "A": "Del cromosoma 15 materno",
+      "B": "Del cromosoma 15 paterno",
+      "C": "Se trata de una disomía uniparental paterna",
+      "D": "No importa el origen parental, porque es una expansión de repeticiones"
+    },
+    "correcta": "B",
+    "explicacion": "Prader-Willi: falta la contribución paterna de 15q11-q13, sea por deleción paterna o por disomía uniparental materna. Es un ejemplo de impronta genómica: en esa región solo se expresan los genes de uno de los progenitores.",
+    "distractores": {
+      "A": "La deleción materna causa Angelman (risa inapropiada, ataxia, epilepsia, sin lenguaje).",
+      "C": "La disomía uniparental paterna deja sin contribución materna, es decir, produce Angelman.",
+      "D": "No es una expansión de repeticiones; el origen parental define el síndrome por impronta."
+    },
+    "perla": "Prader = falta el Paterno; Angelman = falta el materno."
+  },
+  {
+    "id": "cb-gen-03",
+    "especialidad": "Genética",
+    "tema": "Acondroplasia",
+    "caso": "Pareja de talla normal, sin antecedentes familiares; la madre tiene 27 años y el padre 51. Su hijo recién nacido tiene talla corta con acortamiento rizomélico, macrocefalia con frente prominente, puente nasal deprimido y manos en tridente. La radiografía muestra distancia interpedicular que se estrecha de L1 a L5.",
+    "pregunta": "¿Cuál es el mecanismo molecular y el riesgo de recurrencia para la pareja?",
+    "opciones": {
+      "A": "Mutación de pérdida de función en COL1A1; riesgo de 25%",
+      "B": "Mutación de ganancia de función en FGFR3 heredada de un progenitor; riesgo de 50%",
+      "C": "Mutación de novo de ganancia de función en FGFR3; riesgo menor de 1%",
+      "D": "Mutación en FBN1; riesgo de 50%"
+    },
+    "correcta": "C",
+    "explicacion": "La acondroplasia es autosómica dominante por ganancia de función en FGFR3 (casi siempre G380R). Alrededor del 80% de los casos son de novo y se asocian a edad paterna avanzada. Si ambos padres están sanos, la recurrencia es menor de 1% (solo por mosaicismo germinal).",
+    "distractores": {
+      "A": "COL1A1 se relaciona con la osteogénesis imperfecta; el 25% corresponde a herencia recesiva.",
+      "B": "La penetrancia es completa: si un progenitor tuviera la mutación, estaría afectado, y ambos tienen talla normal.",
+      "D": "FBN1 es el gen del síndrome de Marfan, que da talla alta, no acondroplasia."
+    },
+    "perla": "Acondroplasia: FGFR3, 80% de novo, edad paterna avanzada, padres sanos → recurrencia <1%."
+  },
+  {
+    "id": "cb-gen-04",
+    "especialidad": "Genética",
+    "tema": "Síndrome de Marfan",
+    "caso": "Adolescente de 16 años, 1.92 m de talla, con brazada mayor que la estatura, aracnodactilia con signos del pulgar y de la muñeca positivos, y pectus excavatum. Tiene ectopia del cristalino hacia arriba y afuera. El ecocardiograma muestra raíz aórtica de 4.0 cm (Z = 3.1). Su padre murió por disección aórtica.",
+    "pregunta": "Además de la vigilancia ecocardiográfica, ¿qué tratamiento está indicado para frenar la dilatación aórtica?",
+    "opciones": {
+      "A": "Anticoagulación oral",
+      "B": "Cirugía inmediata de la raíz aórtica",
+      "C": "Piridoxina y dieta baja en metionina",
+      "D": "β-bloqueador y/o ARA-II (losartán)"
+    },
+    "correcta": "D",
+    "explicacion": "Marfan (FBN1, con más señalización de TGF-β). El estándar actual es un β-bloqueador y/o losartán para frenar la dilatación de la raíz aórtica. La cirugía profiláctica se hace hacia los 5.0 cm, o antes (≈4.5 cm) si hay historia familiar de disección o crecimiento rápido.",
+    "distractores": {
+      "A": "La anticoagulación no previene la dilatación ni la disección.",
+      "B": "Con 4.0 cm aún no llega al umbral quirúrgico, ni siquiera el adelantado por historia familiar.",
+      "C": "Piridoxina y restricción de metionina tratan la homocistinuria, que luxa el cristalino hacia abajo y causa trombosis."
+    },
+    "perla": "Marfan: cristalino hacia arriba; homocistinuria: hacia abajo. Aorta: β-bloqueador/losartán."
+  },
+  {
+    "id": "cb-gen-05",
+    "especialidad": "Genética",
+    "tema": "Distrofia muscular de Duchenne",
+    "caso": "A 4-year-old boy is brought in because he falls frequently and cannot keep up with other children. He walks with a waddling gait, walks on his toes, and rises from the floor by pushing his hands against his thighs. His calves are enlarged and firm. Development was normal during infancy. A maternal uncle used a wheelchair and died at age 19.",
+    "pregunta": "What is the most appropriate initial laboratory test?",
+    "opciones": {
+      "A": "Serum creatine kinase",
+      "B": "Muscle biopsy with dystrophin immunostaining",
+      "C": "Electromyography",
+      "D": "Full sequencing of the DMD gene"
+    },
+    "correcta": "A",
+    "explicacion": "Signo de Gowers, seudohipertrofia de pantorrillas y un tío materno afectado sugieren Duchenne (ligada al X). El primer estudio es la CPK, que suele estar 100–200 veces arriba de lo normal. Después se buscan deleciones o duplicaciones de DMD (MLPA) y solo si salen negativas se secuencia el gen.",
+    "distractores": {
+      "B": "La biopsia se reserva para cuando la genética es negativa o el cuadro es atípico.",
+      "C": "La EMG aporta poco en las fases tempranas.",
+      "D": "La secuenciación completa va después: primero la CPK y luego MLPA, porque la mayoría de las mutaciones son deleciones o duplicaciones."
+    },
+    "perla": "Duchenne: CPK muy alta → MLPA de DMD → secuenciación → biopsia solo si todo es negativo."
+  },
+  {
+    "id": "cb-gen-06",
+    "especialidad": "Genética",
+    "tema": "Síndrome de deleción 22q11.2 (CATCH-22 / DiGeorge / velocardiofacial)",
+    "caso": "Recién nacido con tetralogía de Fallot diagnosticada por ecocardiograma. Al tercer día presenta crisis convulsiva con calcio sérico de 6.1 mg/dL y PTH baja. Tiene paladar hendido, orejas de implantación baja y nariz bulbosa. La radiografía de tórax no muestra sombra tímica.",
+    "pregunta": "¿Cuál es el estudio genético de primera línea actual para confirmar el diagnóstico?",
+    "opciones": {
+      "A": "Cariotipo convencional con bandas G",
+      "B": "Microarreglo cromosómico",
+      "C": "Secuenciación del gen FBN1",
+      "D": "Cuantificación de repeticiones CTG"
+    },
+    "correcta": "B",
+    "explicacion": "Cardiopatía conotruncal, hipocalcemia por hipoplasia paratiroidea, timo ausente y paladar hendido sugieren deleción 22q11.2. Hoy el microarreglo cromosómico es la prueba de primera línea; la FISH 22q11.2 era la clásica.",
+    "distractores": {
+      "A": "La microdeleción mide unos 3 Mb y el cariotipo convencional no suele detectarla.",
+      "C": "FBN1 es el gen del síndrome de Marfan.",
+      "D": "Las repeticiones CTG corresponden a la distrofia miotónica tipo 1."
+    },
+    "perla": "CATCH-22: Cardiopatía, fAcies, Timo, paladar (Cleft), Hipocalcemia; productos sanguíneos irradiados."
+  },
+  {
+    "id": "cb-gen-07",
+    "especialidad": "Genética",
+    "tema": "Distrofia miotónica (Steinert)",
+    "caso": "Mujer de 32 años que no puede soltar la mano después de saludar, con ptosis, cara alargada y adelgazada, debilidad distal y cataratas subcapsulares posteriores. Su hijo recién nacido presenta polihidramnios previo, hipotonía grave y falla respiratoria que requiere ventilación. La madre de la paciente solo tiene cataratas de inicio tardío.",
+    "pregunta": "¿Qué mecanismo genético explica que la enfermedad sea más grave y más temprana en cada generación?",
+    "opciones": {
+      "A": "Deleción de 15q11-q13 con impronta materna",
+      "B": "Expansión CCTG en CNBP transmitida por vía paterna",
+      "C": "Expansión del triplete CTG en DMPK con anticipación, mayor al transmitirse por vía materna",
+      "D": "Mutación del ADN mitocondrial con heteroplasmia"
+    },
+    "correcta": "C",
+    "explicacion": "Distrofia miotónica tipo 1: autosómica dominante por expansión CTG en DMPK (19q13). La expansión crece al pasar de una generación a otra (anticipación), sobre todo por vía materna; la forma congénita (>1000 repeticiones) casi siempre viene de la madre.",
+    "distractores": {
+      "A": "La deleción 15q11-q13 corresponde a Prader-Willi o Angelman, no a una enfermedad con miotonía y cataratas.",
+      "B": "La expansión CCTG en CNBP es la DM2, más leve y proximal, y no tiene forma congénita.",
+      "D": "La herencia mitocondrial también es materna, pero no explica la miotonía ni la anticipación por repeticiones."
+    },
+    "perla": "DM1: CTG en DMPK, anticipación; la forma congénita se hereda de la madre. Vigilar ECG cada año."
+  },
+  {
+    "id": "cb-gen-08",
+    "especialidad": "Genética",
+    "tema": "6.6 Aberraciones cromosómicas más frecuentes",
+    "caso": "Recién nacido de madre de 23 años con hipotonía, perfil facial plano, fisuras palpebrales oblicuas hacia arriba y pliegue palmar único. El ecocardiograma muestra defecto del canal auriculoventricular. El cariotipo informa 46,XY,der(14;21)(q10;q10),+21, es decir, trisomía 21 por translocación robertsoniana.",
+    "pregunta": "¿Qué estudio es indispensable para el asesoramiento genético de la familia?",
+    "opciones": {
+      "A": "Ninguno: el riesgo de recurrencia es de alrededor de 1%, como en toda trisomía 21",
+      "B": "Amniocentesis rutinaria en el siguiente embarazo, sin otros estudios",
+      "C": "Tamiz de ADN fetal libre en sangre materna",
+      "D": "Cariotipo de ambos padres"
+    },
+    "correcta": "D",
+    "explicacion": "En el Down por translocación hay que hacer cariotipo a los padres. Si la madre es portadora balanceada, el riesgo de recurrencia es de 10–15%; si lo es el padre, de 2–3%. Si alguno porta t(21;21), el 100% de los productos serán desbalanceados.",
+    "distractores": {
+      "A": "El riesgo de alrededor de 1% es el de la trisomía libre; en la translocación puede ser mucho mayor.",
+      "B": "Antes de planear el diagnóstico prenatal hay que saber si alguno de los padres es portador.",
+      "C": "El ADN fetal libre es un tamizaje prenatal; no sirve para saber si los padres portan una translocación."
+    },
+    "perla": "Down por translocación → cariotipo de los padres."
+  }
+]
