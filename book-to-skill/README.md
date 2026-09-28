@@ -6,6 +6,7 @@ autocontenido (`SKILL.md` + `references/`).
 | Skill | Libro fuente |
 |---|---|
 | [`graph-data-science/`](graph-data-science/SKILL.md) | *Graph Data Science For Dummies, 2nd Neo4j Special Edition* — Dr. Alicia Frame y Zach Blumenfeld (Wiley, 2022) |
+| [`critica-estadistica/`](critica-estadistica/SKILL.md) | *How to Lie with Statistics* — Darrell Huff (W. W. Norton, 1954) |
 
 ## Cómo se construye un skill desde un libro
 
