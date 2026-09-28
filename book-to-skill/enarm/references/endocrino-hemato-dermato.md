@@ -32,7 +32,6 @@
 ### Diabetes mellitus tipo 2
 - **Clave:** resistencia a la insulina + falla progresiva de célula β; 90–95% de los diabéticos.
 - **Epidemiología:** en México es de las primeras causas de muerte; prevalencia ~9–14% en adultos; México entre los 10 países con más diabéticos.
-- **Fisiopatología:** menos receptores/defectos posreceptor → ↑ producción hepática de glucosa, ↓ captación muscular y adiposa → luego agotamiento β.
 - **Clínica:** insidiosa, a menudo asintomática; "polis", pérdida de peso, infecciones. Descompensación aguda: CAD o estado hiperosmolar.
 - **Complicaciones:** microvasculares (retinopatía, nefropatía → ERC, neuropatía periférica y autonómica: gastroparesia, disfunción eréctil) y macrovasculares (cardiopatía isquémica, EVC, EAP).
 
@@ -85,7 +84,7 @@
 ### Obesidad
 - **Clave:** exceso de tejido adiposo; adulto **IMC ≥30**; sobrepeso 25–29.9. En <19 años: IMC ≥ percentil 95 (OMS).
 - **Epidemiología:** ~70% de los mexicanos adultos con sobrepeso u obesidad; ~30% obesidad.
-- **Fisiopatología:** hipotálamo ventromedial = saciedad (leptina, insulina); lateral = hambre (**grelina, NPY**). Formas monogénicas solo 2–5%. El adipocito hipertrófico produce resistina, PAI-1, TNFα, IL-6 → inflamación crónica de bajo grado y resistencia a insulina; grasa visceral lipolítica → AGL a la porta → dislipidemia.
+- **Fisiopatología:** hipotálamo ventromedial = saciedad (leptina, insulina); lateral = hambre (**grelina, NPY**). Monogénicas solo 2–5%. Adipocito hipertrófico → TNFα, IL-6, PAI-1, resistina → inflamación de bajo grado y resistencia a insulina.
 - **Clínica:** androide/central (más en hombres, **mayor riesgo cardiometabólico**) vs ginecoide. Acantosis nigricans = hiperinsulinemia. Comorbilidades: DM2, HTA, dislipidemia, SAOS, SOP, osteoartritis, cáncer.
 - **Clasificación IMC:** sobrepeso 25–29.9; obesidad I 30–34.9; II 35–39.9; III ≥40.
 - **Cintura de riesgo (ATP III clásico):** >102 cm hombre, >88 cm mujer.
@@ -108,7 +107,7 @@
     - Dislipidemia familiar combinada (IIb): la más frecuente de las familiares; ↑ ApoB100, LDL y TG; aparece al final de la 2.ª–3.ª década; **sin xantomas**.
     - Disbetalipoproteinemia (tipo III, "beta ancha", ApoE2): CT y TG elevados de forma similar (>350); **xantomas palmares/tuberoeruptivos** en codos, rodillas y glúteos; rara en niños y premenopáusicas.
   - **Secundarias** (>40%): DM, **hipotiroidismo**, ERC/síndrome nefrótico, colestasis, fármacos (progestágenos, esteroides anabólicos, corticoides), alcohol.
-- **Fisiología clave:** la LPL (activada por **ApoC-II**) hidroliza TG de quilomicrones y VLDL; HDL = transporte inverso de colesterol; síntesis de colesterol por **HMG-CoA reductasa** (blanco de estatinas). La hipertrigliceridemia genera LDL pequeñas y densas (más aterogénicas).
+- **Fisiología clave:** LPL (activada por **ApoC-II**) hidroliza TG; HDL = transporte inverso; **HMG-CoA reductasa** = blanco de estatinas; TG altos → LDL pequeñas y densas.
 - **Clínica:** casi siempre asintomática; se detecta por tamizaje.
 - **Diagnóstico:** perfil lipídico en ayuno. Umbrales del libro: CT >200, HDL <35 (ó <40), TG >200 (meta <150) mg/dl.
 - **Tratamiento (ACC/AHA 2013 del libro):** estratificar riesgo; todos inician con estilo de vida. Cuatro grupos beneficiados por **estatina**: (1) ECV aterosclerótica clínica; (2) LDL **≥190**; (3) diabéticos 40–75 años con LDL 70–189; (4) sin DM ni ECV con LDL 70–189 y riesgo a 10 años **≥7.5%**.
@@ -203,7 +202,7 @@
   - Primario: **adenoma único ~90%**, hiperplasia ~5%, carcinoma ~1%.
   - Secundario: **ERC** (↓ calcitriol, ↑ fosfato → hipocalcemia → hiperplasia).
   - Terciario: autonomía tras secundario prolongado (p. ej., postrasplante renal).
-- **Fisiología:** PTH ↑ resorción ósea, ↑ reabsorción tubular de Ca, ↑ excreción de fosfato, ↑ síntesis de 1,25-(OH)₂D. Inhibidores: Ca alto, calcitriol, FGF-23.
+- **Fisiología:** PTH ↑ resorción ósea, ↑ reabsorción renal de Ca, ↑ fosfaturia, ↑ calcitriol.
 - **Clínica:** **80% asintomático** (hipercalcemia leve en laboratorio). Nefrolitiasis (~17%), hipercalciuria, debilidad, alteraciones de memoria, úlcera péptica, estreñimiento; hueso: **"sal y pimienta"** en cráneo, **osteítis fibrosa quística**.
 - **Diagnóstico:** **hipercalcemia + PTH intacta alta o inapropiadamente normal**. Localización (no para diagnóstico): gammagrama **Tc-99m sestamibi** (adenoma), USG (hiperplasia). Siempre pensar en NEM.
 - **Tratamiento:** **paratiroidectomía** (curativa); en hiperplasia se extraen 3½ glándulas (o 4 con autoimplante en antebrazo).
@@ -328,7 +327,7 @@
 - **Epidemiología:** leucemia aguda **típica del adulto** (mediana 67 años; 80–90% de las leucemias agudas del adulto; <15% en niños); discreto predominio masculino.
 - **FAB (morfológica):** M0 sin diferenciación; M1 sin maduración; M2 con maduración [t(8;21)]; **M3 promielocítica t(15;17) → CID**; M4 mielomonocítica [inv(16), eosinófilos]; **M5 monocítica** (hiperplasia gingival, infiltración de piel/SNC); M6 eritroleucemia; M7 megacarioblástica (**síndrome de Down**, mielofibrosis).
 - **Factores de riesgo:** síndrome de Down, Bloom, Klinefelter, Turner, NF, anemia de Fanconi y otros síndromes de falla medular; **benceno**, tabaco, radiación, quimioterapia previa (alquilantes, inhibidores de topoisomerasa), SMD previo.
-- **Clínica:** falla medular → anemia (fatiga, palidez), infecciones/fiebre por neutropenia, sangrado (trombocitopenia o **CID en M3**); pérdida de peso, dolor óseo; **hiperplasia gingival**, cloromas/leucemia cutis, parálisis de nervios craneales (V, VII).
+- **Clínica:** falla medular (anemia, fiebre/infecciones, sangrado; **CID en M3**); **hiperplasia gingival** (M4/M5), cloromas, parálisis de pares V y VII.
 - **Diagnóstico:** **aspirado de médula ósea con >20% de blastos**. **Bastones de Auer** = característicos de LMA. Mieloperoxidasa (MPO) +. Inmunofenotipo: **CD13, CD33**, CD117, CD14/CD15 (monocítico), glicoforina/CD71 (eritroide), CD41/CD61 (megacariocítico). Citogenética y moleculares obligatorios.
 - **Tratamiento:**
   - Inducción **"7 + 3"**: citarabina 7 días + antraciclina (daunorrubicina) 3 días.
@@ -544,7 +543,6 @@
 ### Liquen escleroso (escleroatrófico)
 - **Clave:** dermatosis inflamatoria crónica de piel y mucosas, predominantemente **anogenital**, con atrofia y esclerosis.
 - **Epidemiología:** sobre todo **mujeres posmenopáusicas (45–60 años)** y **niñas prepuberales**; también varones adultos (causa frecuente de **fimosis adquirida**, ~40%).
-- **Fisiopatología:** desconocida; ¿autoinmune, hormonal (pérdida de receptores androgénicos)?; Koebner.
 - **Clínica:**
   - Mujer: placas **blanco-nacaradas atróficas** en vulva y región perianal **en "8" o reloj de arena**; prurito intenso, dispareunia, fisuras, equimosis; en casos avanzados reabsorción de labios menores, estrechez del introito.
   - Niñas: mismo patrón en 8, prurito, estreñimiento; **puede confundirse con abuso sexual** (no se excluyen).
@@ -558,7 +556,7 @@
 - **Clave:** enfermedad inflamatoria crónica **sistémica** con hiperproliferación de queratinocitos (eje IL-23/Th17); placas eritematosas, escamosas, bien delimitadas; asociada a **síndrome metabólico**, ECV, EII y artritis.
 - **Epidemiología:** ~2% mundial; picos **20–30 y 50–60 años**; en niños predomina la **guttata**.
 - **Genética:** **HLA-Cw6** (≈90% en tipo 1). Tipo 1: inicio temprano, familiar, Cw6+; tipo 2: tardío, sin familiares.
-- **Desencadenantes:** trauma (**Koebner**, 2–6 semanas después), **infección estreptocócica (guttata)**, VIH (agrava), **fármacos: litio, β-bloqueadores, antipalúdicos, interferón, retiro brusco de esteroides sistémicos** (pustulosa), hipocalcemia, embarazo (impétigo herpetiforme), estrés, alcohol, tabaco.
+- **Desencadenantes:** trauma (**Koebner**), **estreptococo (guttata)**, VIH, **fármacos: litio, β-bloqueadores, antipalúdicos, interferón, retiro de esteroides sistémicos** (pustulosa), hipocalcemia, embarazo (impétigo herpetiforme), estrés, alcohol.
 - **Clínica:** placas eritemato-escamosas plateadas en **codos, rodillas, cuero cabelludo, región sacra**, ombligo; uñas (**pits/piqueteado, mancha en aceite**, onicólisis).
   - Signos: **Koebner**, **signo de la vela** (raspado de escama), **signo de Auspitz** (rocío sangrante tras retirar la escama).
   - Variantes: en placas (vulgar, la más común), **guttata**, eritrodérmica, **pustulosa generalizada (von Zumbusch)**, palmoplantar, acrodermatitis de Hallopeau, invertida, **artritis psoriásica**.
@@ -614,7 +612,7 @@
   - **Adulto**: flexuras, cuello, manos, párpados; placas liquenificadas.
 - **Diagnóstico — Hanifin y Rajka:** ≥3 mayores + ≥3 menores.
   - Mayores: **prurito**, morfología y distribución típicas, **cronicidad/recidivas**, antecedente personal o familiar de atopia.
-  - Menores (ejemplos): xerosis, ictiosis, queratosis pilar, hiperlinealidad palmar, IgE alta, pruebas cutáneas +, inicio temprano, infecciones cutáneas (*S. aureus*, herpes), dermatitis de manos/pies, eccema del pezón, queilitis, **pliegue de Dennie-Morgan**, oscurecimiento periorbitario, **pitiriasis alba**, **dermografismo blanco**, queratocono, catarata subcapsular anterior, intolerancia a lana, prurito con sudor.
+  - Menores (los más preguntados): xerosis, ictiosis/queratosis pilar, IgE alta, inicio temprano, infecciones cutáneas (*S. aureus*, herpes), **pliegue de Dennie-Morgan**, **pitiriasis alba**, **dermografismo blanco**, queilitis, catarata subcapsular anterior/queratocono.
   - Gravedad: **SCORAD** leve <25, moderada 25–50, grave >50.
 - **Tratamiento escalonado:**
   - **Base en todos: emolientes varias veces al día**, baño corto (≤5 min, agua ≤32 °C), sustituto de jabón, ropa de algodón, evitar irritantes.
@@ -638,7 +636,7 @@
   - Epidemiología: 30–50 años; mujeres 3–4:1.
   - **Limitada (CREST):** Calcinosis, **R**aynaud (de larga evolución, antecede años), dismotilidad **E**sofágica, e**S**clerodactilia, **T**elangiectasias; piel distal a codos/rodillas y cara; **anticuerpos anticentrómero**; complicación clave: **hipertensión arterial pulmonar**; mejor pronóstico.
   - **Difusa:** piel proximal y tronco, Raynaud de inicio cercano a la esclerosis; **anti-Scl-70 (topoisomerasa I)** → **fibrosis pulmonar**; **anti-RNA polimerasa III** → **crisis renal esclerodérmica** (HTA maligna + falla renal); afección cardiaca.
-  - Clínica cutánea: fases edematosa → indurada → atrófica; **facies inexpresiva, nariz afilada, microstomía** con surcos peribucales; piel "en sal y pimienta"; úlceras digitales, calcinosis; **capilaroscopia** alterada. Viscerales: GI **en 75–90%** (esófago el más afectado: ERGE, disfagia; malabsorción), pulmonar >70% (EPI y HAP), cardiaca, renal, muscular.
+  - Clínica: piel edematosa → indurada → atrófica; **facies inexpresiva, nariz afilada, microstomía**; piel "en sal y pimienta"; úlceras digitales; **capilaroscopia** alterada. GI en 75–90% (**esófago**, el órgano interno más afectado), pulmón >70% (EPI, HAP), corazón, riñón.
   - Diagnóstico: clínico + autoanticuerpos (ANA patrón nucleolar/centromérico); biopsia rara vez necesaria.
   - Tratamiento: dirigido por órgano — **Raynaud: calcioantagonistas (nifedipino)**, sildenafil en úlceras digitales; **crisis renal: IECA (captopril)** (no esteroides a dosis altas: la precipitan); **EPI: ciclofosfamida** o micofenolato; piel: metotrexato o micofenolato; miositis/artritis: metotrexato/azatioprina; ERGE: IBP, comidas fraccionadas, cabecera elevada; protección del frío.
   - Pronóstico/muerte: el libro cita nefropatía como primera causa; hoy **la EPI/HAP (pulmonar) es la principal causa de muerte** (la crisis renal disminuyó con IECA).
@@ -706,7 +704,7 @@
   - Profundas/inflamatorias: **querión de Celso** (placa inflamatoria supurativa en piel cabelluda por especies zoofílicas → riesgo de alopecia cicatricial), favus, tiña de la barba, granuloma tricofítico (de Majocchi), enfermedad dermatofítica.
 - **Clínica:** prurito/ardor; en cabeza placas de alopecia con **pelos cortos "tiñosos"** (seca microspórica o tricofítica); zoofílicos → más inflamación y contagio.
 - **Diagnóstico:** clínico; **examen directo con KOH 20–40%** (hifas) de escama del **borde activo**, pelo o material subungueal; **cultivo en Sabouraud** (identifica especie); lámpara de Wood (fluorescencia verde en *Microsporum*).
-- **Diferenciales:** cabeza — dermatitis seborreica, alopecia areata, tricotilomanía, psoriasis; cuerpo — psoriasis, **pitiriasis rosada**, eccema numular, granuloma anular; ingle — **candidiasis** (lesiones satélite, afecta escroto), **eritrasma** (fluorescencia rojo coral con Wood); uñas — candidiasis, psoriasis ungueal.
+- **Diferenciales clave:** ingle — **candidiasis** (lesiones satélite, afecta escroto) y **eritrasma** (rojo coral con Wood); cuerpo — pitiriasis rosada, eccema numular, psoriasis; cabeza — alopecia areata, tricotilomanía, seborreica.
 - **Tratamiento:**
   - **Tratamiento sistémico obligatorio en:** tiña de la **cabeza**, **uñas**, barba, extensas, refractarias a tópicos, inmunodeprimidos, granulomatosas.
   - **Cabeza y barba (libro):** **terbinafina** oral (adulto 250 mg/día; niños ~10 mg/kg/día por 6 semanas); alternativa itraconazol.
