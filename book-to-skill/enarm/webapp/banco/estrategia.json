@@ -1,0 +1,296 @@
+[
+  {
+    "id": "est-01",
+    "especialidad": "Estrategia, MBE y expediente",
+    "tema": "4. Medicina basada en evidencias (MBE)",
+    "caso": "Se evalúa una prueba rápida de antígeno para faringitis estreptocócica en 500 niños que acuden a consulta, comparándola de forma ciega contra el cultivo faríngeo (estándar de oro). Resultados: 90 niños con cultivo positivo y prueba positiva; 10 con cultivo positivo y prueba negativa; 40 con cultivo negativo y prueba positiva; 360 con cultivo negativo y prueba negativa.",
+    "pregunta": "¿Cuál es el valor predictivo positivo de la prueba en esta población?",
+    "opciones": {
+      "A": "90 %",
+      "B": "69 %",
+      "C": "97 %",
+      "D": "20 %"
+    },
+    "correcta": "B",
+    "explicacion": "Tabla 2×2: a (VP) = 90, b (FP) = 40, c (FN) = 10, d (VN) = 360. VPP = a/(a+b) = 90/130 = 0.692 ≈ 69 %. Es decir, de los niños con prueba positiva, 69 % realmente tienen la infección.",
+    "distractores": {
+      "A": "90 % es la sensibilidad (90/100) y también la especificidad (360/400); ninguna responde a la proporción de positivos realmente enfermos.",
+      "C": "97 % es el VPN: 360/370 de los negativos están realmente sanos.",
+      "D": "20 % es la prevalencia de la muestra: (90+10)/500."
+    },
+    "perla": "VPP se lee en la fila de los positivos: a/(a+b); sensibilidad se lee en la columna de los enfermos: a/(a+c)."
+  },
+  {
+    "id": "est-02",
+    "especialidad": "Estrategia, MBE y expediente",
+    "tema": "4. Medicina basada en evidencias (MBE)",
+    "caso": "La misma prueba del reactivo anterior (sensibilidad 90 %, especificidad 90 %) se propone para tamizar a 1 000 adultos asintomáticos de una empresa, en quienes la prevalencia estimada de portación estreptocócica es de 2 % (en la consulta pediátrica era de 20 %). El jefe de servicio pregunta qué cambiará en el desempeño de la prueba.",
+    "pregunta": "¿Qué ocurrirá con los indicadores de la prueba en esta nueva población?",
+    "opciones": {
+      "A": "Disminuirán la sensibilidad y la especificidad porque hay menos enfermos",
+      "B": "El VPP se mantendrá cercano a 69 % y el VPN disminuirá",
+      "C": "Sensibilidad y especificidad no cambian; el VPP cae a cerca de 16 % y el VPN sube a casi 100 %",
+      "D": "El VPP aumentará a más de 90 % porque la población es más sana"
+    },
+    "correcta": "C",
+    "explicacion": "Con 1 000 personas y prevalencia 2 %: 20 enfermos → VP 18, FN 2; 980 sanos → FP 98, VN 882. VPP = 18/(18+98) = 18/116 ≈ 15.5 %. VPN = 882/(882+2) = 882/884 ≈ 99.8 %. S y E son propiedades intrínsecas de la prueba y no dependen de la prevalencia; los valores predictivos sí.",
+    "distractores": {
+      "A": "Sensibilidad y especificidad se calculan dentro de enfermos y sanos por separado; no cambian con la prevalencia.",
+      "B": "El VPP depende de la prevalencia: al bajar de 20 % a 2 % cae de 69 % a ~16 %; el VPN, en cambio, sube.",
+      "D": "Es al revés: con baja prevalencia predominan los falsos positivos y el VPP disminuye."
+    },
+    "perla": "A menor prevalencia: baja el VPP y sube el VPN; S y E no se mueven."
+  },
+  {
+    "id": "est-03",
+    "especialidad": "Estrategia, MBE y expediente",
+    "tema": "4. Medicina basada en evidencias (MBE)",
+    "caso": "Una mujer de 58 años acude por disnea de inicio súbito tras un vuelo largo. Por su cuadro clínico, usted estima una probabilidad pretest de tromboembolia pulmonar de 20 %. Solicita un estudio con sensibilidad de 80 % y especificidad de 95 %, cuyo resultado es positivo.",
+    "pregunta": "¿Cuál es aproximadamente la probabilidad postest de tromboembolia pulmonar?",
+    "opciones": {
+      "A": "16 %",
+      "B": "20 %",
+      "C": "50 %",
+      "D": "80 %"
+    },
+    "correcta": "D",
+    "explicacion": "RV+ = S/(1 − E) = 0.80/0.05 = 16. Momios pretest = 0.20/0.80 = 0.25. Momios postest = 0.25 × 16 = 4. Probabilidad postest = 4/(1+4) = 0.80 = 80 %.",
+    "distractores": {
+      "A": "16 es la razón de verosimilitud positiva, no una probabilidad; confundir RV con porcentaje es un error frecuente.",
+      "B": "20 % es la probabilidad pretest; una RV+ de 16 la modifica de forma importante.",
+      "C": "50 % no resulta de ningún cálculo correcto; subestima el efecto de una RV+ >10."
+    },
+    "perla": "Probabilidad → momios → × RV → momios → probabilidad: nunca multipliques la probabilidad directamente por la RV."
+  },
+  {
+    "id": "est-04",
+    "especialidad": "Estrategia, MBE y expediente",
+    "tema": "4. Medicina basada en evidencias (MBE)",
+    "caso": "Un ensayo clínico aleatorizado en pacientes con cardiopatía isquémica compara un nuevo hipolipemiante contra placebo durante 5 años. El desenlace primario (infarto no fatal o muerte cardiovascular) se presentó en 12 % del grupo placebo y en 8 % del grupo con el fármaco. La diferencia fue estadísticamente significativa.",
+    "pregunta": "¿Cuántos pacientes deben tratarse durante 5 años para evitar un evento del desenlace primario?",
+    "opciones": {
+      "A": "25",
+      "B": "33",
+      "C": "8",
+      "D": "3"
+    },
+    "correcta": "A",
+    "explicacion": "RRA = EC − EE = 0.12 − 0.08 = 0.04. NNT = 1/0.04 = 25. (Además: RR = 0.08/0.12 = 0.67; RRR = 1 − 0.67 = 33 %.)",
+    "distractores": {
+      "B": "33 corresponde a la RRR expresada en porcentaje (33 %), no al NNT.",
+      "C": "8 sale de 1/0.12, es decir, de usar solo el riesgo del grupo control.",
+      "D": "3 es 1/RRR (1/0.33); el NNT se calcula con la reducción absoluta, no con la relativa."
+    },
+    "perla": "NNT = 1/RRA (redondeando hacia arriba); la RRR impresiona, la RRA decide."
+  },
+  {
+    "id": "est-05",
+    "especialidad": "Estrategia, MBE y expediente",
+    "tema": "4. Medicina basada en evidencias (MBE)",
+    "caso": "En un ensayo clínico sobre un anticoagulante oral para prevenir enfermedad vascular cerebral en fibrilación auricular, la hemorragia mayor se presentó en 1.0 % de los pacientes del grupo control y en 3.0 % del grupo tratado en un año de seguimiento. Un residente desea explicar a su paciente la magnitud de este riesgo.",
+    "pregunta": "¿Cuál es el número necesario para dañar (NND) para hemorragia mayor en un año?",
+    "opciones": {
+      "A": "33",
+      "B": "50",
+      "C": "100",
+      "D": "25"
+    },
+    "correcta": "B",
+    "explicacion": "Incremento absoluto del riesgo (IRA) = EE − EC = 0.03 − 0.01 = 0.02. NND = 1/0.02 = 50: por cada 50 pacientes tratados un año, uno adicional presentará hemorragia mayor atribuible al fármaco.",
+    "distractores": {
+      "A": "33 resulta de 1/0.03, usando solo el riesgo del grupo tratado sin restar el basal.",
+      "C": "100 resulta de 1/0.01, usando solo el riesgo del grupo control.",
+      "D": "25 no corresponde al IRA de 2 %; sería el NND si la diferencia absoluta fuera de 4 %."
+    },
+    "perla": "NND = 1/(EE − EC); se compara siempre contra el NNT del beneficio para decidir."
+  },
+  {
+    "id": "est-06",
+    "especialidad": "Estrategia, MBE y expediente",
+    "tema": "4. Medicina basada en evidencias (MBE)",
+    "caso": "Para estudiar la asociación entre el uso de leña para cocinar y la EPOC en mujeres, se reclutan 200 mujeres con EPOC y 400 mujeres sin EPOC de la misma comunidad. Entre las mujeres con EPOC, 80 refieren exposición a humo de leña; entre las mujeres sin EPOC, 80 también la refieren.",
+    "pregunta": "¿Cuál es la medida de asociación adecuada y su valor?",
+    "opciones": {
+      "A": "Razón de momios de 0.375",
+      "B": "Riesgo relativo de 2.0",
+      "C": "Razón de momios de 2.0",
+      "D": "Razón de momios de aproximadamente 2.67"
+    },
+    "correcta": "D",
+    "explicacion": "Es un estudio de casos y controles → razón de momios. a (casos expuestas) = 80, b (controles expuestas) = 80, c (casos no expuestas) = 120, d (controles no expuestas) = 320. RM = (a×d)/(b×c) = (80×320)/(80×120) = 25 600/9 600 ≈ 2.67. La exposición se asocia con mayor probabilidad de EPOC.",
+    "distractores": {
+      "A": "0.375 es el inverso (b×c)/(a×d); invertir la fórmula convierte un factor de riesgo en aparente protector.",
+      "B": "En casos y controles no se conoce la incidencia (el investigador fija cuántos casos y controles incluye), por lo que no se calcula RR.",
+      "C": "2.0 es el cociente de proporciones de exposición (40 %/20 %), no la razón de momios."
+    },
+    "perla": "Casos y controles → RM = ad/bc; cohorte → RR. Si el IC 95 % incluye 1, no es significativo."
+  },
+  {
+    "id": "est-07",
+    "especialidad": "Estrategia, MBE y expediente",
+    "tema": "4. Medicina basada en evidencias (MBE)",
+    "caso": "Un hepatólogo desea responder la siguiente pregunta: en adultos recién diagnosticados con cirrosis compensada, ¿qué proporción desarrolla descompensación (ascitis, hemorragia variceal o encefalopatía) a 5 años y qué variables basales la predicen? No planea administrar ninguna intervención.",
+    "pregunta": "¿Cuál es el diseño de estudio más adecuado para esta pregunta?",
+    "opciones": {
+      "A": "Estudio de cohorte",
+      "B": "Estudio de casos y controles",
+      "C": "Ensayo clínico aleatorizado",
+      "D": "Estudio transversal"
+    },
+    "correcta": "A",
+    "explicacion": "Es una pregunta de pronóstico: se sigue en el tiempo a un grupo con la condición desde un punto común (diagnóstico) para medir la incidencia de desenlaces y sus predictores. El diseño ideal es la cohorte.",
+    "distractores": {
+      "B": "Casos y controles parte del desenlace hacia atrás; no permite estimar incidencia ni la probabilidad de descompensación a 5 años.",
+      "C": "El ECA es el diseño ideal para preguntas de tratamiento; aquí no hay intervención que asignar.",
+      "D": "El transversal mide en un solo momento (útil para diagnóstico y prevalencia); no aporta seguimiento temporal."
+    },
+    "perla": "Tratamiento → ECA; diagnóstico → transversal; pronóstico → cohorte; daño → cohorte o casos y controles."
+  },
+  {
+    "id": "est-08",
+    "especialidad": "Estrategia, MBE y expediente",
+    "tema": "4. Medicina basada en evidencias (MBE)",
+    "caso": "Durante una sesión bibliográfica se analiza un estudio que siguió durante 10 años a 5 000 trabajadores expuestos a sílice y 5 000 no expuestos para comparar la incidencia de tuberculosis pulmonar. El estudio está bien diseñado, pero no hubo asignación aleatoria de la exposición.",
+    "pregunta": "Según la clasificación clásica de la USPSTF, ¿qué nivel de evidencia aporta este estudio?",
+    "opciones": {
+      "A": "I",
+      "B": "II-1",
+      "C": "II-2",
+      "D": "III"
+    },
+    "correcta": "C",
+    "explicacion": "Es un estudio de cohorte (se parte de la exposición y se sigue en el tiempo hacia el desenlace). En la escala USPSTF clásica, cohortes y casos y controles bien diseñados corresponden al nivel II-2.",
+    "distractores": {
+      "A": "El nivel I exige al menos un ensayo clínico aleatorizado bien diseñado.",
+      "B": "II-1 corresponde a ensayos controlados sin aleatorización (hay intervención asignada por el investigador), no a estudios observacionales.",
+      "D": "III corresponde a opinión de expertos, series de casos o reportes descriptivos."
+    },
+    "perla": "USPSTF: I ECA; II-1 ensayo no aleatorizado; II-2 cohorte/casos y controles; II-3 series temporales; III expertos."
+  },
+  {
+    "id": "est-09",
+    "especialidad": "Estrategia, MBE y expediente",
+    "tema": "4. Medicina basada en evidencias (MBE)",
+    "caso": "En un ensayo clínico aleatorizado y doble ciego de un antihipertensivo contra placebo, 18 % de los pacientes del grupo activo abandonó el tratamiento por efectos adversos. Los autores reportan un beneficio significativo, pero su análisis final incluyó únicamente a los pacientes que completaron el tratamiento asignado; los que abandonaron fueron excluidos.",
+    "pregunta": "¿Qué criterio de validez del ensayo se incumplió, favoreciendo artificialmente al fármaco?",
+    "opciones": {
+      "A": "El cegamiento de pacientes e investigadores",
+      "B": "El análisis por intención de tratar",
+      "C": "El ocultamiento de la secuencia de asignación",
+      "D": "El control del sesgo de memoria"
+    },
+    "correcta": "B",
+    "explicacion": "Se hizo un análisis por protocolo. El análisis por intención de tratar analiza a cada paciente en el grupo al que fue aleatorizado, lo haya completado o no; así se conserva el balance que logró la aleatorización. Excluir a quienes abandonaron por efectos adversos deja en el grupo activo a los que mejor toleraron y respondieron, sobreestimando el beneficio.",
+    "distractores": {
+      "A": "El estudio fue doble ciego; el problema no es de cegamiento sino de a quién se incluyó en el análisis.",
+      "C": "El ocultamiento de la asignación protege el momento de la aleatorización; aquí la falla ocurrió después, en el análisis.",
+      "D": "El sesgo de memoria es propio de estudios retrospectivos (casos y controles) en que se interroga una exposición pasada."
+    },
+    "perla": "Una vez aleatorizado, siempre analizado en su grupo: intención de tratar."
+  },
+  {
+    "id": "est-10",
+    "especialidad": "Estrategia, MBE y expediente",
+    "tema": "4. Medicina basada en evidencias (MBE)",
+    "caso": "A cohort study followed 1,000 smokers and 2,000 non-smokers, all free of disease at baseline, for 10 years. Chronic obstructive pulmonary disease was diagnosed in 30 smokers and in 20 non-smokers. The investigators want to express how much smoking increases the risk of developing the disease.",
+    "pregunta": "What is the relative risk of the disease in smokers compared with non-smokers?",
+    "opciones": {
+      "A": "3.0",
+      "B": "3.06",
+      "C": "0.33",
+      "D": "0.02"
+    },
+    "correcta": "A",
+    "explicacion": "En una cohorte se calcula riesgo relativo. Incidencia en fumadores = 30/1 000 = 0.03; en no fumadores = 20/2 000 = 0.01. RR = 0.03/0.01 = 3.0: los fumadores tienen tres veces el riesgo de desarrollar la enfermedad.",
+    "distractores": {
+      "B": "3.06 es la razón de momios (30×1 980)/(970×20); en una cohorte la medida pedida es el RR y, al ser un evento poco frecuente, la RM solo se aproxima a él.",
+      "C": "0.33 es el cociente invertido (no fumadores/fumadores); sugeriría falsamente que fumar protege.",
+      "D": "0.02 (2 %) es la diferencia absoluta de riesgos (riesgo atribuible), no el riesgo relativo."
+    },
+    "perla": "Cohort → relative risk = incidence in exposed / incidence in unexposed."
+  },
+  {
+    "id": "est-11",
+    "especialidad": "Estrategia, MBE y expediente",
+    "tema": "5. Expediente clínico (NOM-004-SSA3-2012)",
+    "caso": "En un hospital general se planea depurar el archivo clínico para liberar espacio. El director pide al jefe de archivo definir cuáles expedientes pueden darse de baja. Uno de ellos pertenece a un paciente cuya última consulta fue hace 4 años. Además, un residente pregunta si puede usar abreviaturas en sus notas para ahorrar tiempo.",
+    "pregunta": "De acuerdo con la NOM-004-SSA3-2012, ¿cuál es el tiempo mínimo de conservación del expediente clínico?",
+    "opciones": {
+      "A": "1 año a partir del egreso hospitalario",
+      "B": "3 años a partir de la apertura del expediente",
+      "C": "10 años a partir del último acto médico",
+      "D": "5 años a partir del último acto médico"
+    },
+    "correcta": "D",
+    "explicacion": "La NOM-004 obliga a conservar el expediente por un mínimo de 5 años contados desde la fecha del último acto médico; el expediente con 4 años aún no puede darse de baja. Las notas deben ser legibles, sin abreviaturas ni tachaduras, con fecha, hora, nombre completo y firma de quien las elabora.",
+    "distractores": {
+      "A": "Un año es insuficiente y el plazo no se cuenta desde el egreso sino desde el último acto médico.",
+      "B": "Tres años es menor al mínimo legal y el plazo no se cuenta desde la apertura del expediente.",
+      "C": "Diez años no es el mínimo que marca la norma; se confunde con plazos de otros documentos o legislaciones."
+    },
+    "perla": "Expediente: documento legal, confidencial, se guarda ≥5 años desde el último acto médico; sin abreviaturas ni tachaduras."
+  },
+  {
+    "id": "est-12",
+    "especialidad": "Estrategia, MBE y expediente",
+    "tema": "6. Homeostasis y respuesta a la agresión (conceptos preguntables)",
+    "caso": "Mujer de 67 años con pielonefritis obstructiva. Ingresa con TA 78/42 mmHg (PAM 54), FC 118 lpm, lactato 4.6 mmol/L. Se toman hemocultivos, se inicia antibiótico de amplio espectro en la primera hora y recibe 30 mL/kg de cristaloide balanceado. Tras la reanimación hídrica su PAM es de 58 mmHg y persiste con llenado capilar lento; urología programa derivación urinaria.",
+    "pregunta": "¿Cuál es la siguiente medida más adecuada para su estado hemodinámico?",
+    "opciones": {
+      "A": "Iniciar dopamina como vasopresor de primera línea",
+      "B": "Continuar bolos de solución salina hasta alcanzar una PVC de 8–12 mmHg",
+      "C": "Iniciar norepinefrina con meta de PAM ≥ 65 mmHg",
+      "D": "Sustituir los cristaloides por albúmina al 20 % como líquido principal"
+    },
+    "correcta": "C",
+    "explicacion": "Es choque séptico: hipotensión que no responde a volumen con hiperlactatemia. Según la Surviving Sepsis Campaign 2021, la norepinefrina es el vasopresor de primera línea, con meta de PAM ≥ 65 mmHg; si requiere vasopresor de forma sostenida se agrega hidrocortisona. El control del foco (derivación urinaria) no debe demorarse.",
+    "distractores": {
+      "A": "La dopamina ya no se recomienda como vasopresor inicial: se asocia a más arritmias sin beneficio en mortalidad.",
+      "B": "La PVC ya no se usa como meta de reanimación, y se prefieren cristaloides balanceados sobre la salina.",
+      "D": "La albúmina no demostró superioridad sobre los cristaloides como líquido de reanimación principal."
+    },
+    "perla": "Choque séptico sin respuesta a volumen: norepinefrina primero, meta PAM ≥ 65 mmHg."
+  },
+  {
+    "id": "est-13",
+    "especialidad": "Estrategia, MBE y expediente",
+    "tema": "6. Homeostasis y respuesta a la agresión (conceptos preguntables)",
+    "caso": "Hombre de 45 años, sin antecedentes de diabetes, en su primer día posoperatorio de una colectomía abierta. Se encuentra estable, con diuresis de 0.5 mL/kg/h. En los estudios de control llama la atención glucosa de 178 mg/dL; el residente se pregunta si los cambios observados son esperables como parte de la respuesta a la agresión quirúrgica.",
+    "pregunta": "¿Cuál de las siguientes combinaciones corresponde a la respuesta metabólica esperada a la agresión?",
+    "opciones": {
+      "A": "Hiperglucemia, retención de agua y sodio, y pérdida urinaria de potasio y nitrógeno",
+      "B": "Hipoglucemia, natriuresis y retención de potasio",
+      "C": "Balance nitrogenado positivo, lipogénesis y descenso del lactato",
+      "D": "Disminución del cortisol y de las catecolaminas con aumento de la respuesta inmune"
+    },
+    "correcta": "A",
+    "explicacion": "La agresión activa el eje hipotálamo-hipófisis-suprarrenal (ACTH, cortisol), el sistema nervioso autónomo y la ADH/aldosterona. Resultado: retención de agua y Na⁺, pérdida de K⁺ y N₂ (catabolismo proteico), hiperglucemia, hiperlactatemia, lipólisis e inmunosupresión relativa. La hiperglucemia de este paciente es esperable.",
+    "distractores": {
+      "B": "Es el patrón opuesto: las hormonas contrarreguladoras elevan la glucosa y la aldosterona/ADH retienen sodio y agua a expensas de potasio.",
+      "C": "La fase aguda es catabólica: balance nitrogenado negativo, lipólisis e hiperlactatemia.",
+      "D": "Cortisol y catecolaminas aumentan, y la respuesta inmune queda relativamente suprimida."
+    },
+    "perla": "Agresión = catabolismo: ↑glucosa, ↑lactato, retiene Na⁺/agua, pierde K⁺ y nitrógeno."
+  },
+  {
+    "id": "est-14",
+    "especialidad": "Estrategia, MBE y expediente",
+    "tema": "6. Homeostasis y respuesta a la agresión (conceptos preguntables)",
+    "caso": "Hombre de 72 años con neumonía adquirida en la comunidad. FR 26 rpm, TA 104/62 mmHg, confuso (Glasgow 14), temperatura 38.6 °C. Sus estudios muestran creatinina que subió de 0.9 a 2.1 mg/dL, plaquetas 95 000/µL y PaO₂/FiO₂ de 260; previo a la neumonía su función orgánica era normal. El interno comenta que \"tiene sepsis porque cumple 3 criterios de SRIS\".",
+    "pregunta": "Según el consenso Sepsis-3 vigente, ¿qué define la sepsis en este paciente?",
+    "opciones": {
+      "A": "La presencia de 2 o más criterios del síndrome de respuesta inflamatoria sistémica con infección sospechada",
+      "B": "Disfunción orgánica, con aumento agudo de 2 o más puntos en la escala SOFA, causada por una respuesta desregulada a la infección",
+      "C": "Un qSOFA ≥ 2, que por sí solo establece el diagnóstico de sepsis",
+      "D": "La hipotensión que requiere vasopresor para PAM ≥ 65 mmHg con lactato > 2 mmol/L"
+    },
+    "correcta": "B",
+    "explicacion": "Sepsis-3 (2016) define la sepsis como disfunción orgánica que pone en riesgo la vida, causada por una respuesta desregulada del huésped a la infección, operativamente un aumento agudo de SOFA ≥ 2. Este paciente suma puntos en riñón, coagulación, respiratorio y neurológico. El qSOFA solo sirve como alerta para buscar disfunción orgánica.",
+    "distractores": {
+      "A": "Los criterios SRIS eran la definición antigua (Sepsis-1/2); son poco específicos y ya no definen sepsis.",
+      "C": "qSOFA (FR ≥ 22, alteración mental, PAS ≤ 100) es una herramienta de alerta, no un criterio diagnóstico; la SSC 2021 desaconseja usarlo solo como tamizaje.",
+      "D": "Vasopresor para PAM ≥ 65 con lactato > 2 pese a volumen adecuado define choque séptico, no sepsis."
+    },
+    "perla": "Sepsis-3 = infección + ↑SOFA ≥ 2; choque séptico = vasopresor para PAM ≥ 65 + lactato > 2 tras volumen."
+  }
+]
