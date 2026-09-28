@@ -1,0 +1,590 @@
+[
+  {
+    "id": "nefro-01",
+    "especialidad": "Nefrología y urología",
+    "tema": "Trastornos ácido-base",
+    "caso": "Mujer de 24 años con diabetes tipo 1 que suspendió la insulina hace 3 días por vómito. Refiere dolor abdominal y respiración profunda y rápida. TA 96/60 mmHg, FC 118 lpm, FR 30 rpm, T 36.8 °C. Glucosa capilar 480 mg/dL, cetonas séricas positivas. Gasometría arterial: pH 7.18, PaCO₂ 23 mmHg, HCO₃⁻ 10 mEq/L. Electrólitos: Na⁺ 136, Cl⁻ 98, K⁺ 5.2 mEq/L.",
+    "pregunta": "¿Cuál es la interpretación correcta del trastorno ácido-base?",
+    "opciones": {
+      "A": "Acidosis metabólica con anion gap elevado y compensación respiratoria adecuada",
+      "B": "Acidosis metabólica con anion gap normal (hiperclorémica)",
+      "C": "Acidosis metabólica con anion gap elevado más acidosis respiratoria agregada",
+      "D": "Acidosis metabólica con anion gap elevado más alcalosis respiratoria agregada"
+    },
+    "correcta": "A",
+    "explicacion": "AG = 136 − (98 + 10) = 28 mEq/L, elevado (cetoacidosis). PaCO₂ esperada: el HCO₃⁻ bajó 14 (24 → 10); 14 × 1.2 = 16.8; 40 − 16.8 = 23.2 mmHg. La PaCO₂ medida (23) coincide, así que la compensación es adecuada y el trastorno es simple.",
+    "distractores": {
+      "B": "Con AG de 28 no puede ser hiperclorémica; AG normal es ≈10–12.",
+      "C": "Habría acidosis respiratoria agregada solo si la PaCO₂ fuera mayor que la esperada (≈23).",
+      "D": "Habría alcalosis respiratoria agregada solo si la PaCO₂ fuera claramente menor que 23."
+    },
+    "perla": "Calcula siempre AG y PaCO₂ esperada antes de llamar a un trastorno 'simple'."
+  },
+  {
+    "id": "nefro-02",
+    "especialidad": "Nefrología y urología",
+    "tema": "Trastornos ácido-base",
+    "caso": "Hombre de 45 años con estenosis pilórica por úlcera, con vómito gástrico persistente desde hace 4 días. Mucosas secas, llenado capilar lento. TA 100/64 mmHg (ortostatismo positivo), FC 106 lpm, FR 12 rpm. Gasometría: pH 7.52, HCO₃⁻ 36 mEq/L, PaCO₂ 48 mmHg. Na⁺ 134, Cl⁻ 84, K⁺ 2.8 mEq/L; cloro urinario 8 mEq/L.",
+    "pregunta": "Además de tratar la causa, ¿cuál es el tratamiento de elección del trastorno ácido-base?",
+    "opciones": {
+      "A": "Acetazolamida vía oral",
+      "B": "Solución salina 0.9% con cloruro de potasio",
+      "C": "Furosemida IV para eliminar bicarbonato",
+      "D": "Ácido clorhídrico diluido por vía central"
+    },
+    "correcta": "B",
+    "explicacion": "Alcalosis metabólica hipoclorémica hipopotasémica por vómito. PaCO₂ esperada = 40 + 0.7 × (36 − 24) = 40 + 8.4 = 48.4 mmHg; la medida (48) indica compensación adecuada. Con cloro urinario bajo y depleción de volumen es salino-sensible: se corrige con salina 0.9% más KCl.",
+    "distractores": {
+      "A": "La acetazolamida se usa en alcalosis salino-resistente con edema o por diuréticos, no en un paciente deshidratado.",
+      "C": "El diurético de asa contrae el volumen y empeora la alcalosis y la hipopotasemia.",
+      "D": "El HCl se reserva para alcalosis grave refractaria, no como primera medida."
+    },
+    "perla": "Vómito = alcalosis metabólica hipoclorémica e hipopotasémica: salina + KCl."
+  },
+  {
+    "id": "nefro-03",
+    "especialidad": "Nefrología y urología",
+    "tema": "Alteraciones hidroelectrolíticas",
+    "caso": "Mujer de 70 años, 60 kg, que toma hidroclorotiazida. Llega por confusión y una crisis convulsiva tónico-clónica de 1 min. TA 132/78 mmHg, FC 88 lpm, euvolémica a la exploración. Na⁺ sérico 112 mmol/L, osmolalidad sérica 236 mOsm/kg, glucosa 98 mg/dL. Se decide solución salina hipertónica al 3% (Na⁺ 513 mmol/L). Use agua corporal total = 0.5 × peso.",
+    "pregunta": "Según la fórmula de Adrogué-Madias, ¿cuánto se espera que aumente el sodio sérico por cada litro infundido?",
+    "opciones": {
+      "A": "≈1.4 mmol/L",
+      "B": "≈6.5 mmol/L",
+      "C": "≈13 mmol/L",
+      "D": "≈20 mmol/L"
+    },
+    "correcta": "C",
+    "explicacion": "ACT = 0.5 × 60 = 30 L. ΔNa = (513 − 112) / (30 + 1) = 401 / 31 ≈ 12.9 mmol/L por litro. Por eso no se infunde un litro completo: se usan bolos de 100–150 mL de salina al 3% y el aumento total no debe pasar de 8–10 mmol/L en 24 h.",
+    "distractores": {
+      "A": "Es el resultado con salina 0.9% (Na 154): (154 − 112)/31 ≈ 1.4.",
+      "B": "Resulta de dividir entre 2 × ACT; error de fórmula.",
+      "D": "Sobreestima el cambio; olvida sumar 1 al ACT o usa un agua corporal menor a la real."
+    },
+    "perla": "Adrogué-Madias: (Na infundido − Na sérico)/(ACT + 1); tope 8–10 mmol/L en 24 h."
+  },
+  {
+    "id": "nefro-04",
+    "especialidad": "Nefrología y urología",
+    "tema": "Alteraciones hidroelectrolíticas",
+    "caso": "Hombre de 62 años con ERC G4 por nefropatía diabética que toma enalapril y espironolactona. Acude por debilidad generalizada de 1 día. TA 150/90 mmHg, FC 52 lpm, FR 18 rpm. K⁺ sérico 7.4 mEq/L (muestra sin hemólisis), creatinina 3.9 mg/dL, HCO₃⁻ 17 mEq/L. ECG: ondas T picudas y QRS de 0.14 s.",
+    "pregunta": "¿Cuál es la primera medida terapéutica?",
+    "opciones": {
+      "A": "Insulina rápida 10 UI con glucosa IV",
+      "B": "Poliestireno sulfonato de calcio vía oral",
+      "C": "Furosemida 80 mg IV",
+      "D": "Gluconato de calcio al 10% IV"
+    },
+    "correcta": "D",
+    "explicacion": "Hiperpotasemia grave con toxicidad cardiaca (T picudas, QRS ancho, bradicardia). Lo primero es estabilizar la membrana miocárdica con gluconato de calcio IV; no baja el K⁺, pero protege contra arritmias mientras se desplaza y elimina el potasio.",
+    "distractores": {
+      "A": "Desplaza K⁺ al interior celular y va inmediatamente después, pero no es el primer paso con cambios en el ECG.",
+      "B": "Los quelantes actúan en horas; son para eliminar K⁺, no para la urgencia.",
+      "C": "El diurético elimina K⁺ lentamente y con TFG baja su efecto es limitado."
+    },
+    "perla": "Hiperpotasemia con ECG alterado: calcio primero (cardioprotege), luego insulina-glucosa."
+  },
+  {
+    "id": "nefro-05",
+    "especialidad": "Nefrología y urología",
+    "tema": "Infección de vías urinarias (IVU) y pielonefritis",
+    "caso": "A 26-year-old woman presents with 2 days of dysuria, urinary frequency, and suprapubic discomfort. She is sexually active, not pregnant (negative urine hCG), and has no history of urologic abnormalities. BP 118/72 mmHg, HR 80 bpm, T 36.9 °C. No costovertebral angle tenderness. Urine dipstick: positive leukocyte esterase and nitrites.",
+    "pregunta": "What is the most appropriate management?",
+    "opciones": {
+      "A": "Fosfomycin 3 g orally as a single dose",
+      "B": "Ciprofloxacin 500 mg orally twice daily for 3 days",
+      "C": "Renal ultrasound before starting antibiotics",
+      "D": "Intravenous ceftriaxone and hospital admission"
+    },
+    "correcta": "A",
+    "explicacion": "Cistitis no complicada en mujer no embarazada, sin fiebre ni dolor costovertebral. Según el criterio actualizado se trata con nitrofurantoína 5 días, TMP/SMX 3 días (si la resistencia local es <20%) o fosfomicina 3 g en dosis única, sin necesidad de urocultivo ni imagen.",
+    "distractores": {
+      "B": "Las quinolonas ya no se recomiendan para cistitis no complicada por sus efectos adversos; se reservan para pielonefritis.",
+      "C": "La imagen se pide en pielonefritis con fiebre >72 h pese a tratamiento o en IVU recurrente, no en una cistitis simple.",
+      "D": "El manejo IV hospitalario corresponde a pielonefritis grave o complicada."
+    },
+    "perla": "Cistitis no complicada: nitrofurantoína, TMP/SMX o fosfomicina; sin cultivo previo."
+  },
+  {
+    "id": "nefro-06",
+    "especialidad": "Nefrología y urología",
+    "tema": "Enfermedad renal crónica (ERC)",
+    "caso": "Hombre de 58 años con diabetes tipo 2 de 12 años de evolución e hipertensión. En dos consultas separadas por 4 meses: TFG estimada por CKD-EPI 2021 de 38 y 36 mL/min/1.73 m²; cociente albúmina/creatinina urinario de 450 y 480 mg/g. TA 138/84 mmHg, FC 76 lpm, IMC 31. HbA1c 7.6%, K⁺ 4.8 mEq/L. USG: riñones de tamaño normal sin hidronefrosis.",
+    "pregunta": "¿Cuál es la clasificación KDIGO de su enfermedad renal crónica?",
+    "opciones": {
+      "A": "G3a A2",
+      "B": "G3b A3",
+      "C": "G4 A3",
+      "D": "G3b A2"
+    },
+    "correcta": "B",
+    "explicacion": "ERC por alteraciones persistentes >3 meses. TFG 30–44 = G3b; albuminuria >300 mg/g = A3. Además de IECA/ARA-II, este paciente se beneficia de un iSGLT2 como nefroprotector.",
+    "distractores": {
+      "A": "G3a corresponde a TFG 45–59 y A2 a 30–300 mg/g.",
+      "C": "G4 es TFG 15–29.",
+      "D": "La albuminuria >300 mg/g es A3, no A2."
+    },
+    "perla": "KDIGO: G3a 45–59, G3b 30–44; A1 <30, A2 30–300, A3 >300 mg/g."
+  },
+  {
+    "id": "nefro-07",
+    "especialidad": "Nefrología y urología",
+    "tema": "Insuficiencia renal aguda (IRA / lesión renal aguda)",
+    "caso": "Mujer de 78 años con diarrea acuosa de 4 días y baja ingesta de líquidos. Mucosas secas, oliguria. TA 90/58 mmHg, FC 110 lpm, T 37.2 °C. Creatinina 3.0 mg/dL (basal 0.9 hace 2 meses), BUN 68 mg/dL. Na⁺ plasmático 140 mEq/L. Orina: Na⁺ 10 mEq/L, creatinina urinaria 150 mg/dL, osmolalidad 620 mOsm/kg. USG renal sin hidronefrosis.",
+    "pregunta": "¿Cuál es la fracción excretada de sodio y qué tipo de lesión renal aguda indica?",
+    "opciones": {
+      "A": "FENa 1.4%; necrosis tubular aguda",
+      "B": "FENa 0.14%; necrosis tubular aguda",
+      "C": "FENa 0.14%; lesión prerrenal",
+      "D": "FENa 14%; obstrucción posrenal"
+    },
+    "correcta": "C",
+    "explicacion": "FENa = (Na orina × Cr plasma)/(Na plasma × Cr orina) × 100 = (10 × 3.0)/(140 × 150) × 100 = 30/21 000 × 100 ≈ 0.14%. FENa <1%, Na urinario <20 y orina concentrada (>500 mOsm/kg) indican lesión prerrenal por hipovolemia: se trata con reposición de volumen.",
+    "distractores": {
+      "A": "Error de un decimal; además la NTA muestra FENa >2% y orina isostenúrica.",
+      "B": "El valor es correcto, pero una FENa <1% no corresponde a NTA.",
+      "D": "El cálculo está equivocado y el USG no muestra hidronefrosis."
+    },
+    "perla": "Prerrenal: FENa <1%, Na urinario <20, osmolalidad urinaria >500."
+  },
+  {
+    "id": "nefro-08",
+    "especialidad": "Nefrología y urología",
+    "tema": "Glomerulonefritis (GN)",
+    "caso": "Hombre de 22 años que presenta orina color 'coca-cola' desde hace 1 día; empezó con faringitis y fiebre hace 2 días. Un episodio similar hace un año se resolvió solo. TA 128/80 mmHg, FC 84 lpm, sin edema. EGO: eritrocitos dismórficos abundantes, proteínas 0.6 g/24 h. Creatinina 1.0 mg/dL, C3 y C4 normales, ASO normal.",
+    "pregunta": "¿Cuál es el diagnóstico más probable?",
+    "opciones": {
+      "A": "Glomerulonefritis posestreptocócica",
+      "B": "Glomerulopatía membranosa",
+      "C": "Enfermedad de cambios mínimos",
+      "D": "Nefropatía por IgA (enfermedad de Berger)"
+    },
+    "correcta": "D",
+    "explicacion": "Hematuria macroscópica que aparece a la vez que la infección respiratoria (latencia de 1–2 días), recurrente, en varón joven y con complemento normal: nefropatía por IgA, la GN primaria más frecuente del mundo.",
+    "distractores": {
+      "A": "La posestreptocócica aparece 2–3 semanas después de la faringitis y cursa con C3 bajo.",
+      "B": "La membranosa da síndrome nefrótico insidioso en adultos de 30–50 años, no hematuria sincrónica.",
+      "C": "Cambios mínimos causa síndrome nefrótico con sedimento benigno, típico de niños."
+    },
+    "perla": "Hematuria a los 1–2 días de la infección = IgA; a las 2–3 semanas = posestreptocócica."
+  },
+  {
+    "id": "nefro-09",
+    "especialidad": "Nefrología y urología",
+    "tema": "Litiasis renoureteral",
+    "caso": "Hombre de 38 años con dolor súbito de inicio nocturno en fosa lumbar izquierda irradiado a la ingle; está inquieto y cambia de posición constantemente. TA 146/88 mmHg, FC 98 lpm, T 36.7 °C. EGO: 30–40 eritrocitos por campo, sin nitritos. Creatinina 1.0 mg/dL. El USG inicial muestra hidronefrosis leve izquierda sin identificar el cálculo.",
+    "pregunta": "¿Cuál es el estudio con mayor sensibilidad para confirmar el diagnóstico?",
+    "opciones": {
+      "A": "Tomografía computada simple (sin contraste) de abdomen y pelvis",
+      "B": "Repetir el ultrasonido renal en 24 horas",
+      "C": "Radiografía simple de abdomen",
+      "D": "Urografía excretora"
+    },
+    "correcta": "A",
+    "explicacion": "Cólico renal típico. El USG es el estudio inicial, pero un resultado negativo no descarta el cálculo. La TC sin contraste tiene sensibilidad de ~98%, detecta cálculos radiolúcidos y es el estándar actual.",
+    "distractores": {
+      "B": "El USG depende del operador (~80%) y repetirlo retrasa el diagnóstico.",
+      "C": "La placa simple tiene sensibilidad de ~70%, confunde los cálculos con flebolitos y no ve los radiolúcidos.",
+      "D": "La urografía excretora está en desuso, usa contraste y es menos sensible."
+    },
+    "perla": "Litiasis: USG como estudio inicial, TC sin contraste como estándar de oro."
+  },
+  {
+    "id": "nefro-10",
+    "especialidad": "Nefrología y urología",
+    "tema": "Cáncer vesical",
+    "caso": "Hombre de 66 años, fumador de 40 paquetes-año, que trabajó 20 años en una fábrica de tintes. Refiere tres episodios en 2 meses de orina roja con coágulos, sin dolor ni fiebre. TA 134/82 mmHg, FC 76 lpm. Exploración abdominal y tacto rectal sin alteraciones. EGO: eritrocitos incontables, sin leucocitos; urocultivo negativo. Creatinina 1.1 mg/dL.",
+    "pregunta": "¿Cuál es el estudio de elección para establecer el diagnóstico?",
+    "opciones": {
+      "A": "Citología urinaria seriada",
+      "B": "Cistoscopia",
+      "C": "Antígeno prostático específico",
+      "D": "Biopsia renal percutánea"
+    },
+    "correcta": "B",
+    "explicacion": "Hematuria macroscópica, indolora e intermitente en un varón mayor de 50 años con tabaquismo y exposición a anilinas: cáncer vesical hasta demostrar lo contrario. La cistoscopia es el estudio de elección y la RTU del tumor da diagnóstico y estadificación.",
+    "distractores": {
+      "A": "La citología complementa y es útil en alto grado, pero es poco sensible en bajo grado y no sustituye la cistoscopia.",
+      "C": "El APE no explica la hematuria macroscópica ni diagnostica cáncer vesical.",
+      "D": "La hematuria no glomerular (sin proteinuria ni dismorfia) no se estudia con biopsia renal."
+    },
+    "perla": "Hematuria macroscópica indolora en fumador >50 años: cistoscopia."
+  },
+  {
+    "id": "nefro-11",
+    "especialidad": "Nefrología y urología",
+    "tema": "Síndrome nefrótico",
+    "caso": "Hombre de 47 años con síndrome nefrótico por glomerulopatía membranosa diagnosticada por biopsia hace 2 meses (proteinuria 9 g/24 h). Inicia con dolor súbito en flanco izquierdo y hematuria macroscópica. TA 142/88 mmHg, FC 96 lpm, T 37.1 °C. Albúmina 1.8 g/dL, LDH 520 U/L, creatinina de 1.0 a 1.6 mg/dL en una semana. EGO sin leucocituria.",
+    "pregunta": "¿Cuál es la complicación más probable?",
+    "opciones": {
+      "A": "Pielonefritis aguda",
+      "B": "Litiasis ureteral obstructiva",
+      "C": "Trombosis de la vena renal",
+      "D": "Necrosis papilar"
+    },
+    "correcta": "C",
+    "explicacion": "El síndrome nefrótico es un estado protrombótico (pérdida de antitrombina III y proteínas C y S). La membranosa es la entidad más asociada a trombosis de la vena renal: dolor en flanco, hematuria, LDH alta y deterioro de la función renal. Con albúmina <2 g/dL está indicada la profilaxis antitrombótica.",
+    "distractores": {
+      "A": "No hay fiebre ni leucocituria que apoyen pielonefritis.",
+      "B": "La litiasis no explica la LDH elevada y es menos probable en este contexto.",
+      "D": "La necrosis papilar se asocia a diabetes, AINE o anemia de células falciformes."
+    },
+    "perla": "Membranosa + dolor en flanco + hematuria = trombosis de vena renal."
+  },
+  {
+    "id": "nefro-12",
+    "especialidad": "Nefrología y urología",
+    "tema": "Cáncer renal",
+    "caso": "Hombre de 58 años, fumador y con obesidad (IMC 33), sin síntomas urinarios. En una TC abdominal por dolor biliar se encuentra una masa sólida de 3 cm en el polo inferior del riñón derecho con realce heterogéneo tras el contraste. TA 136/84 mmHg, FC 74 lpm. Creatinina 1.0 mg/dL, Hb 14.2 g/dL. TC de tórax sin metástasis; vena renal y cava libres.",
+    "pregunta": "¿Cuál es el tratamiento de elección?",
+    "opciones": {
+      "A": "Biopsia percutánea antes de cualquier decisión",
+      "B": "Nefrectomía radical con suprarrenal y fascia de Gerota",
+      "C": "Inhibidores de punto de control inmunitario con inhibidor de tirosina cinasa",
+      "D": "Nefrectomía parcial"
+    },
+    "correcta": "D",
+    "explicacion": "Probable carcinoma de células renales T1a (≤4 cm), localizado. Según el criterio actualizado, la nefrectomía parcial es la elección porque controla igual el tumor y conserva nefronas.",
+    "distractores": {
+      "A": "La biopsia percutánea se usa poco porque el tratamiento es quirúrgico y el diagnóstico definitivo se hace con la pieza.",
+      "B": "La nefrectomía radical era el estándar clásico; hoy se reserva para tumores mayores o no susceptibles de cirugía parcial.",
+      "C": "La terapia sistémica es para enfermedad metastásica."
+    },
+    "perla": "Masa renal ≤4 cm: nefrectomía parcial."
+  },
+  {
+    "id": "gin-01",
+    "especialidad": "Ginecología",
+    "tema": "Amenorrea",
+    "caso": "Mujer de 29 años, G2P1A1, con amenorrea de 5 meses. Antes tenía ciclos regulares de 28 días. Hace 6 meses le hicieron legrado uterino por aborto diferido, complicado con endometritis. TA 112/70 mmHg, FC 72 lpm, IMC 22, sin galactorrea ni hirsutismo. β-hCG negativa, prolactina 12 ng/mL, TSH 2.1 mUI/L, FSH 6 mUI/mL. No hay sangrado por deprivación con estrógeno más progestágeno.",
+    "pregunta": "¿Cuál es el diagnóstico más probable?",
+    "opciones": {
+      "A": "Síndrome de Asherman",
+      "B": "Síndrome de ovario poliquístico",
+      "C": "Insuficiencia ovárica prematura",
+      "D": "Síndrome de Sheehan"
+    },
+    "correcta": "A",
+    "explicacion": "Amenorrea secundaria tras legrado con infección, con eje hormonal normal y sin sangrado aun con estrógeno y progestágeno: el defecto está en el endometrio (sinequias). Asherman es la causa anatómica más frecuente de amenorrea secundaria; se confirma y trata por histeroscopia.",
+    "distractores": {
+      "B": "El SOP cursa con hiperandrogenismo y sí sangra tras la prueba hormonal.",
+      "C": "La falla ovárica tendría FSH elevada (>30).",
+      "D": "Sheehan sigue a una hemorragia posparto con hipopituitarismo y FSH baja; no a un legrado."
+    },
+    "perla": "Amenorrea tras legrado con hormonas normales: Asherman; confirmar por histeroscopia."
+  },
+  {
+    "id": "gin-02",
+    "especialidad": "Ginecología",
+    "tema": "Hemorragia uterina anormal (HUA) y disfuncional",
+    "caso": "Mujer de 45 años, nulípara, con obesidad (IMC 34) y ciclos irregulares, que desde hace 6 meses tiene sangrados abundantes y prolongados, algunos intermenstruales. TA 128/80 mmHg, FC 92 lpm, palidez leve. Hb 10.1 g/dL, plaquetas y TP normales, β-hCG negativa, TSH normal. USG transvaginal: útero sin miomas, endometrio heterogéneo de 15 mm.",
+    "pregunta": "¿Cuál es el siguiente paso más adecuado?",
+    "opciones": {
+      "A": "Histerectomía total abdominal",
+      "B": "Biopsia de endometrio",
+      "C": "Anticonceptivos orales combinados por 6 meses sin más estudio",
+      "D": "Ablación endometrial"
+    },
+    "correcta": "B",
+    "explicacion": "HUA en mujer >40 años con factores de riesgo para cáncer de endometrio (obesidad, nuliparidad, anovulación) y endometrio engrosado: antes de cualquier tratamiento se debe tomar muestra de endometrio (cánula tipo Pipelle o histeroscopia con biopsia dirigida).",
+    "distractores": {
+      "A": "La histerectomía es definitiva y se reserva para cuando falla el tratamiento médico o hay patología orgánica confirmada.",
+      "C": "Dar hormonas sin muestrear el endometrio puede retrasar el diagnóstico de hiperplasia atípica o cáncer.",
+      "D": "La ablación está contraindicada sin descartar antes malignidad endometrial."
+    },
+    "perla": "HUA en >40 años o con factores de riesgo: biopsia de endometrio antes de tratar."
+  },
+  {
+    "id": "gin-03",
+    "especialidad": "Ginecología",
+    "tema": "Anticoncepción",
+    "caso": "Hombre de 36 años con 3 hijos y paridad satisfecha, a quien le realizaron vasectomía sin bisturí hace 2 semanas. Acude a revisión sin complicaciones: TA 120/76 mmHg, FC 70 lpm, afebril, herida limpia, sin hematoma escrotal. Su pareja de 33 años usa condón desde la cirugía. Aún no tiene espermatobioscopia de control y pregunta cuándo pueden dejar el condón.",
+    "pregunta": "¿Cuál es la indicación correcta?",
+    "opciones": {
+      "A": "Pueden suspender el condón desde ahora",
+      "B": "Pueden suspenderlo después del primer mes sin más estudios",
+      "C": "Mantener otro método hasta que una espermatobioscopia confirme azoospermia (≈3 meses)",
+      "D": "La vasectomía es eficaz solo si la pareja usa además DIU de forma permanente"
+    },
+    "correcta": "C",
+    "explicacion": "Después de la vasectomía quedan espermatozoides en la vía distal. El método no es confiable hasta documentar azoospermia en una espermatobioscopia, aproximadamente a los 3 meses; mientras tanto se usa otro anticonceptivo.",
+    "distractores": {
+      "A": "Todavía hay espermatozoides viables; existe riesgo de embarazo.",
+      "B": "Un mes suele ser insuficiente y sin estudio no se puede confirmar el éxito.",
+      "D": "Una vez confirmada la azoospermia es un método permanente con eficacia >99%, sin necesidad de otro."
+    },
+    "perla": "Vasectomía: no es eficaz hasta confirmar azoospermia (~3 meses)."
+  },
+  {
+    "id": "gin-04",
+    "especialidad": "Ginecología",
+    "tema": "Endometriosis",
+    "caso": "Mujer de 27 años con dismenorrea secundaria progresiva de 2 años, dispareunia profunda y disquecia en la menstruación. Tomó naproxeno durante 3 ciclos sin mejoría. No desea embarazo por ahora. TA 110/70 mmHg, FC 74 lpm. A la exploración, dolor en ligamentos uterosacros. β-hCG negativa. USG transvaginal: quiste ovárico derecho de 3.5 cm con contenido en 'vidrio esmerilado'. CA-125 48 U/mL.",
+    "pregunta": "¿Cuál es la conducta más adecuada?",
+    "opciones": {
+      "A": "Laparoscopia diagnóstica obligatoria antes de iniciar cualquier tratamiento hormonal",
+      "B": "Repetir el CA-125 en 3 meses para confirmar el diagnóstico",
+      "C": "Análogo de GnRH como tratamiento de primera línea",
+      "D": "Tratamiento empírico con progestágeno continuo o anticonceptivo combinado"
+    },
+    "correcta": "D",
+    "explicacion": "Cuadro clínico de endometriosis con endometrioma en el USG. Según ESHRE 2022, la imagen positiva permite diagnosticar e iniciar tratamiento empírico con progestágenos o ACO tras fallar los AINE; la laparoscopia se reserva para imagen negativa con fracaso del tratamiento o cuando se necesita cirugía.",
+    "distractores": {
+      "A": "Antes era el estándar de oro; hoy ya no es obligatoria para diagnosticar y tratar.",
+      "B": "El CA-125 no sirve para diagnosticar endometriosis.",
+      "C": "Los análogos de GnRH son de segunda línea por sus efectos hipoestrogénicos."
+    },
+    "perla": "Endometriosis con imagen compatible: progestágeno/ACO empírico; laparoscopia ya no es obligatoria."
+  },
+  {
+    "id": "gin-05",
+    "especialidad": "Ginecología",
+    "tema": "Cervicovaginitis y vaginosis bacteriana",
+    "caso": "Mujer de 31 años, no embarazada, con flujo vaginal de 1 semana con olor a pescado que empeora después del coito; prurito mínimo. TA 116/74 mmHg, FC 70 lpm, T 36.6 °C. Espéculo: flujo gris-blanquecino, homogéneo y adherente; cérvix sin lesiones y sin dolor a la movilización. pH vaginal 5.2, prueba de aminas con KOH positiva; en fresco hay células guía y escasos leucocitos.",
+    "pregunta": "¿Cuál es el tratamiento de elección?",
+    "opciones": {
+      "A": "Metronidazol 500 mg VO cada 12 h por 7 días",
+      "B": "Fluconazol 150 mg VO en dosis única",
+      "C": "Clotrimazol óvulos vaginales por 6 noches",
+      "D": "Ceftriaxona 500 mg IM más doxiciclina por 7 días"
+    },
+    "correcta": "A",
+    "explicacion": "Cumple los 4 criterios de Amsel (flujo homogéneo, pH >4.5, aminas positivas, células guía): vaginosis bacteriana. El tratamiento es metronidazol 500 mg cada 12 h por 7 días; alternativas: metronidazol gel o clindamicina crema. No se trata a la pareja.",
+    "distractores": {
+      "B": "El fluconazol es para candidiasis (flujo grumoso, pH <4.5, prurito intenso).",
+      "C": "Los azoles vaginales tratan candidiasis, no vaginosis bacteriana.",
+      "D": "Es tratamiento de cervicitis por gonococo/clamidia; aquí no hay cervicitis."
+    },
+    "perla": "Células guía + pH >4.5 + olor a pescado: vaginosis bacteriana → metronidazol 7 días."
+  },
+  {
+    "id": "gin-06",
+    "especialidad": "Ginecología",
+    "tema": "Enfermedad pélvica inflamatoria (EPI)",
+    "caso": "A 20-year-old sexually active woman with two recent partners presents with 3 days of bilateral lower abdominal pain and purulent vaginal discharge; her period ended 4 days ago. BP 116/72 mmHg, HR 94 bpm, T 38.4 °C. Pelvic exam shows cervical motion tenderness and bilateral adnexal tenderness without masses. Urine β-hCG negative; WBC 13,500/µL. Transvaginal ultrasound shows no tubo-ovarian abscess. She tolerates oral intake.",
+    "pregunta": "What is the most appropriate treatment?",
+    "opciones": {
+      "A": "Ceftriaxone 250 mg IM plus azithromycin 1 g orally, single doses",
+      "B": "Ceftriaxone 500 mg IM once plus doxycycline and metronidazole orally for 14 days",
+      "C": "Hospital admission for IV clindamycin plus gentamicin",
+      "D": "Immediate diagnostic laparoscopy"
+    },
+    "correcta": "B",
+    "explicacion": "EPI leve (Monif I): cumple criterios mínimos (dolor a la movilización cervical y anexial), sin absceso, sin embarazo y con buena tolerancia oral. Según CDC 2021, el tratamiento ambulatorio es ceftriaxona 500 mg IM en dosis única más doxiciclina 100 mg cada 12 h y metronidazol 500 mg cada 12 h, ambos por 14 días.",
+    "distractores": {
+      "A": "La dosis única no cubre de forma suficiente la infección del tracto superior ni a los anaerobios; la dosis de ceftriaxona es la antigua.",
+      "C": "Se hospitaliza si hay embarazo, absceso tubo-ovárico, enfermedad grave, intolerancia oral o duda quirúrgica; no es el caso.",
+      "D": "La laparoscopia es criterio definitivo, pero no es necesaria para iniciar el tratamiento empírico."
+    },
+    "perla": "EPI ambulatoria: ceftriaxona 500 mg IM + doxiciclina y metronidazol 14 días."
+  },
+  {
+    "id": "gin-07",
+    "especialidad": "Ginecología",
+    "tema": "Enfermedades de transmisión sexual (úlceras genitales, sífilis, clamidia, gonorrea)",
+    "caso": "Mujer de 23 años con embarazo de 20 semanas que en el control prenatal presenta exantema maculopapular no pruriginoso en palmas y plantas y lesiones planas húmedas en la vulva. TA 108/68 mmHg, FC 84 lpm, T 37.4 °C. VDRL reactivo 1:32, FTA-ABS positivo; VIH negativo. Refiere urticaria generalizada y disnea después de recibir amoxicilina hace 3 años.",
+    "pregunta": "¿Cuál es el tratamiento más adecuado?",
+    "opciones": {
+      "A": "Doxiciclina 100 mg VO cada 12 h por 14 días",
+      "B": "Azitromicina 2 g VO en dosis única",
+      "C": "Desensibilización y después penicilina G benzatínica 2.4 millones UI IM",
+      "D": "Ceftriaxona 1 g IM diaria por 10 días"
+    },
+    "correcta": "C",
+    "explicacion": "Sífilis secundaria (exantema palmoplantar, condiloma plano) confirmada con prueba treponémica en una embarazada alérgica a penicilina. La penicilina es el único tratamiento que previene de forma fiable la sífilis congénita, así que se desensibiliza y se aplica penicilina benzatínica.",
+    "distractores": {
+      "A": "La doxiciclina es la alternativa en no embarazadas; en el embarazo está contraindicada.",
+      "B": "La azitromicina tiene alta resistencia y no previene la sífilis congénita.",
+      "D": "La ceftriaxona no está validada para prevenir la infección fetal y puede tener reacción cruzada."
+    },
+    "perla": "Sífilis en embarazada alérgica: desensibilizar y dar penicilina."
+  },
+  {
+    "id": "gin-08",
+    "especialidad": "Ginecología",
+    "tema": "Infertilidad: estudio básico de la pareja",
+    "caso": "Pareja que consulta por no lograr embarazo tras 13 meses de relaciones sin protección 3 veces por semana. Ella tiene 31 años, ciclos regulares de 28 días, sin dismenorrea, cirugías ni infecciones pélvicas; IMC 23, TA 110/70 mmHg, FC 68 lpm. TSH 1.8 mUI/L y prolactina 14 ng/mL. Él tiene 33 años, sin antecedentes. Se inicia el estudio básico.",
+    "pregunta": "¿Qué estudio sirve para confirmar que la paciente ovula?",
+    "opciones": {
+      "A": "Histerosalpingografía en los días 7–11 del ciclo",
+      "B": "Espermatobioscopia directa",
+      "C": "Laparoscopia diagnóstica",
+      "D": "Progesterona sérica en la fase lútea media (día 21)"
+    },
+    "correcta": "D",
+    "explicacion": "El estudio básico de la pareja evalúa ovulación, permeabilidad tubaria y factor masculino. La ovulación se confirma con progesterona sérica en la fase lútea media (día 21 de un ciclo de 28), que refleja la actividad del cuerpo lúteo.",
+    "distractores": {
+      "A": "La histerosalpingografía evalúa la permeabilidad tubaria y la cavidad, no la ovulación.",
+      "B": "La espermatobioscopia evalúa el factor masculino.",
+      "C": "La laparoscopia es para sospecha de endometriosis o factor tuboperitoneal, no para confirmar ovulación."
+    },
+    "perla": "Tríada de infertilidad: progesterona día 21, histerosalpingografía y espermatobioscopia."
+  },
+  {
+    "id": "gin-09",
+    "especialidad": "Ginecología",
+    "tema": "Síndrome de ovario poliquístico (SOP)",
+    "caso": "Mujer de 26 años que busca embarazo desde hace 14 meses. Tiene oligomenorrea desde la menarca (4–5 reglas al año), hirsutismo (Ferriman-Gallwey 14) y acantosis nigricans en el cuello. Ya perdió 6% de peso con dieta. TA 122/78 mmHg, FC 76 lpm, IMC 31. Testosterona total 72 ng/dL, DHEA-S, prolactina y TSH normales. Histerosalpingografía con trompas permeables y espermatobioscopia normal de la pareja.",
+    "pregunta": "¿Cuál es el fármaco de primera línea para inducir la ovulación?",
+    "opciones": {
+      "A": "Letrozol",
+      "B": "Citrato de clomifeno",
+      "C": "Metformina como monoterapia",
+      "D": "Gonadotropinas inyectables"
+    },
+    "correcta": "A",
+    "explicacion": "SOP por Rotterdam (oligoanovulación + hiperandrogenismo, con otras causas descartadas) e infertilidad anovulatoria sin otros factores. Según la guía internacional 2023, el letrozol es el inductor de primera línea porque logra más nacidos vivos que el clomifeno.",
+    "distractores": {
+      "B": "El clomifeno fue el clásico, pero hoy es segunda opción frente al letrozol.",
+      "C": "La metformina mejora la resistencia a la insulina, pero sola es menos eficaz para lograr embarazo.",
+      "D": "Las gonadotropinas son de segunda línea, con más riesgo de embarazo múltiple e hiperestimulación."
+    },
+    "perla": "SOP con deseo de embarazo: bajar de peso y letrozol como primera línea."
+  },
+  {
+    "id": "gin-10",
+    "especialidad": "Ginecología",
+    "tema": "Climaterio y menopausia",
+    "caso": "Mujer de 54 años con fecha de última menstruación hace 3 años. Tiene 10 bochornos al día, sudoración nocturna e insomnio que afectan su trabajo. Tiene útero y no tiene antecedentes de trombosis, cáncer ni hepatopatía. TA 124/78 mmHg, FC 72 lpm, IMC 25. Mastografía BI-RADS 1, citología negativa, perfil de lípidos normal. No desea sangrados.",
+    "pregunta": "¿Cuál es el esquema de terapia hormonal más adecuado?",
+    "opciones": {
+      "A": "Estrógeno solo, en esquema continuo",
+      "B": "Estrógeno más progestágeno en esquema combinado continuo",
+      "C": "Raloxifeno",
+      "D": "Estrógeno vaginal local"
+    },
+    "correcta": "B",
+    "explicacion": "Síntomas vasomotores moderados a graves en una mujer menor de 60 años y con menos de 10 años de menopausia (dentro de la ventana de oportunidad). Como tiene útero, necesita progestágeno para proteger el endometrio; con más de 2 años de posmenopausia y sin deseo de sangrar, se usa el esquema combinado continuo.",
+    "distractores": {
+      "A": "El estrógeno solo se da únicamente a histerectomizadas, porque sin progestágeno causa hiperplasia y cáncer de endometrio.",
+      "C": "El raloxifeno empeora los bochornos; se usa para osteoporosis sin síntomas vasomotores.",
+      "D": "La vía local solo trata el síndrome genitourinario, no los bochornos."
+    },
+    "perla": "Si tiene útero, siempre agregar progestágeno a la terapia hormonal."
+  },
+  {
+    "id": "gin-11",
+    "especialidad": "Ginecología",
+    "tema": "Patología mamaria benigna",
+    "caso": "Mujer de 42 años que desde hace 3 semanas nota manchas de sangre en el sostén. La salida por el pezón derecho es espontánea, sanguinolenta y sale de un solo conducto. TA 118/74 mmHg, FC 70 lpm. No se palpan masas ni adenopatías; el pezón izquierdo está normal. Prolactina 15 ng/mL. USG: conducto retroareolar dilatado con una lesión intraductal de 4 mm; mastografía sin calcificaciones.",
+    "pregunta": "¿Cuál es el diagnóstico más probable?",
+    "opciones": {
+      "A": "Galactorrea por hiperprolactinemia",
+      "B": "Condición fibroquística",
+      "C": "Papiloma intraductal",
+      "D": "Fibroadenoma"
+    },
+    "correcta": "C",
+    "explicacion": "Salida sanguinolenta, unilateral, espontánea y de un solo conducto, con lesión intraductal retroareolar pequeña: papiloma intraductal, la causa más común de este cuadro. Se trata con exéresis del conducto, que además descarta carcinoma.",
+    "distractores": {
+      "A": "La galactorrea es lechosa, suele ser bilateral y la prolactina aquí es normal.",
+      "B": "La condición fibroquística da dolor cíclico y nódulos o quistes, no sangrado por un conducto.",
+      "D": "El fibroadenoma es un nódulo móvil y bien delimitado que no produce salida por el pezón."
+    },
+    "perla": "Salida sanguinolenta de un solo conducto: papiloma intraductal."
+  },
+  {
+    "id": "gin-12",
+    "especialidad": "Ginecología",
+    "tema": "Cáncer de mama",
+    "caso": "Mujer de 51 años, nulípara, con menarca a los 11 años, que se palpó un nódulo en la mama izquierda hace 1 mes. TA 126/80 mmHg, FC 76 lpm. Exploración: masa de 2 cm en el cuadrante superoexterno, dura, de bordes irregulares y poco móvil; ganglio axilar de 1 cm móvil. Mastografía: masa espiculada con microcalcificaciones pleomórficas, BI-RADS 5.",
+    "pregunta": "¿Cuál es el siguiente paso más adecuado?",
+    "opciones": {
+      "A": "Biopsia por aspiración con aguja fina de la masa",
+      "B": "Mastografía de control en 6 meses",
+      "C": "Mastectomía radical modificada sin biopsia previa",
+      "D": "Biopsia con aguja gruesa (Tru-cut) guiada por ultrasonido"
+    },
+    "correcta": "D",
+    "explicacion": "Una lesión BI-RADS 5 (≥95% de probabilidad de cáncer) obliga a obtener diagnóstico histológico. En un tumor sólido la elección es la biopsia con aguja gruesa, que permite ver la invasión, el grado y los receptores hormonales y HER2 antes de planear el tratamiento.",
+    "distractores": {
+      "A": "La BAAF se usa en quistes o ganglios; en una masa sólida no distingue in situ de invasor ni permite estudiar receptores de forma confiable.",
+      "B": "El control a 6 meses corresponde a BI-RADS 3.",
+      "C": "No se opera sin diagnóstico histológico ni estadificación; algunos casos requieren quimioterapia neoadyuvante."
+    },
+    "perla": "BI-RADS 4–5: biopsia; en tumor sólido, con aguja gruesa (Tru-cut)."
+  },
+  {
+    "id": "gin-13",
+    "especialidad": "Ginecología",
+    "tema": "Cáncer cervicouterino (CaCu)",
+    "caso": "Mujer de 44 años, multípara y fumadora, con sangrado poscoital de 4 meses. TA 122/76 mmHg, FC 80 lpm, Hb 11.4 g/dL. Espéculo: tumor exofítico de 3 cm limitado al cérvix. Tacto rectovaginal con parametrios libres y vagina sin afectación. La biopsia reporta carcinoma epidermoide invasor. Creatinina 0.8 mg/dL, sin hidronefrosis. PET-TC: ganglios iliacos externos hipermetabólicos; ganglios paraaórticos negativos.",
+    "pregunta": "Según FIGO 2018, ¿cuál es el estadio?",
+    "opciones": {
+      "A": "IIIC1",
+      "B": "IB2",
+      "C": "IIB",
+      "D": "IIIB"
+    },
+    "correcta": "A",
+    "explicacion": "FIGO 2018 permite estadificar con imagen y patología. Aunque el tumor mide 3 cm y está limitado al cérvix (sería IB2), los ganglios pélvicos positivos lo llevan a IIIC1 (IIIC1r si solo se ven por imagen). El tratamiento es quimiorradiación.",
+    "distractores": {
+      "B": "IB2 (2–4 cm) aplica solo si no hay ganglios afectados.",
+      "C": "IIB requiere invasión de parametrios, que aquí están libres.",
+      "D": "IIIB es extensión a la pared pélvica o hidronefrosis."
+    },
+    "perla": "FIGO 2018: ganglios pélvicos = IIIC1, paraaórticos = IIIC2."
+  },
+  {
+    "id": "gin-14",
+    "especialidad": "Ginecología",
+    "tema": "Displasia cervical e infección por VPH",
+    "caso": "Mujer de 38 años, G3P3, sin síntomas, que acude a su tamizaje en un centro de salud en México. TA 116/72 mmHg, FC 70 lpm. Cérvix macroscópicamente sano. Prueba de VPH de alto riesgo positiva con genotipificación para VPH 16; la citología de triaje es negativa para lesión intraepitelial. Nunca ha tenido resultados anormales.",
+    "pregunta": "¿Cuál es la conducta más adecuada?",
+    "opciones": {
+      "A": "Repetir la prueba de VPH en 1 año",
+      "B": "Colposcopia inmediata",
+      "C": "Conización con asa diatérmica (LEEP) de inmediato",
+      "D": "Regresar al tamizaje habitual en 5 años"
+    },
+    "correcta": "B",
+    "explicacion": "Hoy el tamizaje se basa en la prueba de VPH (en México, entre los 35 y 64 años). Un resultado positivo para VPH 16 o 18 (y 45) implica riesgo alto de NIC 3+ aunque la citología sea negativa, por lo que se envía a colposcopia inmediata.",
+    "distractores": {
+      "A": "Repetir en 1 año es aceptable para VPH de alto riesgo distinto de 16/18 con citología negativa, no para VPH 16.",
+      "C": "No se trata con escisión sin lesión demostrada por colposcopia y biopsia.",
+      "D": "Una prueba positiva no permite regresar al intervalo habitual."
+    },
+    "perla": "VPH 16/18 positivo, aun con citología negativa: colposcopia inmediata."
+  },
+  {
+    "id": "gin-15",
+    "especialidad": "Ginecología",
+    "tema": "Osteoporosis posmenopáusica",
+    "caso": "Mujer de 63 años con menopausia a los 49 años, tabaquismo activo e IMC 19. No tiene fracturas previas. TA 118/70 mmHg, FC 72 lpm. DXA: T-score de columna lumbar −2.8 y de cuello femoral −2.3. Calcio sérico 9.4 mg/dL, 25-OH vitamina D 32 ng/mL, creatinina 0.8 mg/dL, TSH normal. No tiene síntomas vasomotores ni problemas esofágicos.",
+    "pregunta": "¿Cuál es el tratamiento farmacológico de elección?",
+    "opciones": {
+      "A": "Solo calcio y vitamina D",
+      "B": "Terapia hormonal con estrógenos para prevenir fracturas",
+      "C": "Alendronato semanal con calcio y vitamina D",
+      "D": "Calcitonina intranasal prolongada"
+    },
+    "correcta": "C",
+    "explicacion": "Un T-score ≤ −2.5 en columna establece osteoporosis y está indicado tratamiento farmacológico. Los bifosfonatos (alendronato) son primera línea, siempre con calcio y vitamina D y tomados en ayunas, erguida, 30 minutos antes de comer.",
+    "distractores": {
+      "A": "El calcio y la vitamina D son coadyuvantes; solos no bastan con osteoporosis densitométrica.",
+      "B": "La terapia hormonal protege el hueso, pero no se indica solo para osteoporosis.",
+      "D": "La calcitonina es menos eficaz y su uso prolongado está restringido por riesgo de cáncer."
+    },
+    "perla": "T-score ≤ −2.5 o fractura por fragilidad: bifosfonato + calcio y vitamina D."
+  },
+  {
+    "id": "gin-16",
+    "especialidad": "Ginecología",
+    "tema": "Cáncer de endometrio",
+    "caso": "Mujer de 61 años, nulípara, con obesidad (IMC 36), diabetes tipo 2 e hipertensión, con menopausia a los 54 años. Presenta sangrado transvaginal escaso intermitente de 3 semanas. No recibe terapia hormonal. TA 142/88 mmHg, FC 80 lpm. Hb 12.8 g/dL. Cérvix sin lesiones. USG transvaginal: endometrio de 11 mm, heterogéneo.",
+    "pregunta": "¿Cuál es el primer paso diagnóstico?",
+    "opciones": {
+      "A": "Citología cervicovaginal (Papanicolaou)",
+      "B": "Histerectomía total con salpingooforectomía bilateral",
+      "C": "Estrógenos vaginales por probable atrofia y revalorar en 3 meses",
+      "D": "Biopsia endometrial ambulatoria con cánula tipo Pipelle"
+    },
+    "correcta": "D",
+    "explicacion": "Todo sangrado posmenopáusico obliga a descartar cáncer de endometrio, sobre todo con obesidad, nuliparidad y diabetes, y con endometrio >4 mm. La biopsia ambulatoria con Pipelle es el primer paso (especificidad cercana al 100%); si no es concluyente, se hace histeroscopia con biopsia dirigida.",
+    "distractores": {
+      "A": "El Papanicolaou detecta cáncer de endometrio solo en 30–50% de los casos; no es confiable para esto.",
+      "B": "La cirugía estadificadora va después de tener el diagnóstico histológico.",
+      "C": "La atrofia es la causa más frecuente, pero se diagnostica solo después de descartar malignidad."
+    },
+    "perla": "Sangrado posmenopáusico: biopsia de endometrio (Pipelle) antes que cualquier otra cosa."
+  }
+]
