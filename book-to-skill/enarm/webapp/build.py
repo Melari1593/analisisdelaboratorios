@@ -4,6 +4,7 @@
 Genera en dist/:
   repaso-enarm.html  documento HTML completo: se abre con doble clic, sin
                      internet y sin servidor (apuntes, banco y código incluidos).
+  index.html         copia de repaso-enarm.html para hosting estático (Vercel).
   artifact.html      la misma página sin <html>/<head>, para publicarla como
                      artifact de claude.ai.
 
@@ -67,6 +68,7 @@ def main():
                 "<style>body{margin:0}[hidden]{display:none!important}img{max-width:100%}</style>\n"
                 f"{cabeza}\n</head>\n<body>{cuerpo}\n</body>\n</html>\n")
     (DIST / "repaso-enarm.html").write_text(completo, encoding="utf-8")
+    (DIST / "index.html").write_text(completo, encoding="utf-8")  # página principal en Vercel
 
     por = {}
     for q in banco:
