@@ -1,0 +1,222 @@
+[
+  {
+    "especialidad": "Cardiovascular",
+    "tema": "Infarto del ventrículo derecho",
+    "caso": "Hombre de 58 años, diabético, con dolor retroesternal opresivo de 2 h. TA 82/50 mmHg, FC 58 lpm, ingurgitación yugular, campos pulmonares limpios. ECG: elevación del ST en DII, DIII y aVF, y de 1 mm en V4R.",
+    "pregunta": "¿Cuál es la conducta inmediata más adecuada?",
+    "opciones": {"A": "Nitroglicerina sublingual", "B": "Furosemida 40 mg IV", "C": "Carga de solución cristaloide IV", "D": "Morfina 4 mg IV"},
+    "correcta": "C",
+    "explicacion": "Infarto inferior con extensión al ventrículo derecho (V4R elevado): hipotensión, ingurgitación yugular y pulmones limpios. El VD depende de la precarga, así que lo primero es dar volumen.",
+    "distractores": {"A": "Los nitratos bajan la precarga y están contraindicados en infarto del VD y con PAS <90.", "B": "El diurético baja la precarga y puede llevar a choque.", "D": "La morfina es venodilatadora y empeora la hipotensión."},
+    "perla": "Infarto inferior con hipotensión: pide derivaciones derechas antes de dar nitratos."
+  },
+  {
+    "especialidad": "Cardiovascular",
+    "tema": "Disección aórtica",
+    "caso": "Hombre de 64 años, hipertenso mal controlado, con dolor torácico súbito desgarrante irradiado a la región interescapular. TA brazo derecho 180/100, izquierdo 140/85 mmHg. Mediastino ensanchado; la angio-TC confirma afectación de la aorta ascendente.",
+    "pregunta": "Mientras se prepara la cirugía, ¿cuál es el primer fármaco que debe administrarse?",
+    "opciones": {"A": "Nitroprusiato de sodio IV", "B": "Esmolol IV", "C": "Alteplasa IV", "D": "Heparina no fraccionada IV"},
+    "correcta": "B",
+    "explicacion": "En la disección se baja primero la frecuencia con betabloqueador IV (meta FC <60) y después se agrega vasodilatador para llevar la PAS a 100–120.",
+    "distractores": {"A": "El vasodilatador sin betabloqueo previo causa taquicardia refleja y aumenta el estrés sobre la pared aórtica.", "C": "La trombólisis está contraindicada: puede ser fatal en una disección.", "D": "La anticoagulación está contraindicada."},
+    "perla": "Stanford A (ascendente) = cirugía urgente; Stanford B = manejo médico."
+  },
+  {
+    "especialidad": "Cardiovascular",
+    "tema": "Taquicardia supraventricular estable",
+    "caso": "Mujer de 26 años con palpitaciones de inicio súbito desde hace 40 min. TA 110/70 mmHg, alerta, sin dolor torácico. ECG: taquicardia regular de 190 lpm, QRS de 0.08 s, sin ondas P visibles. La maniobra de Valsalva no la revierte.",
+    "pregunta": "¿Cuál es el siguiente paso?",
+    "opciones": {"A": "Adenosina 6 mg IV en bolo rápido", "B": "Cardioversión eléctrica sincronizada", "C": "Amiodarona 300 mg IV", "D": "Digoxina 0.5 mg IV"},
+    "correcta": "A",
+    "explicacion": "Paciente estable con taquicardia regular de QRS estrecho: maniobras vagales, luego adenosina 6 mg y, si no responde, 12 mg.",
+    "distractores": {"B": "La cardioversión se reserva para el paciente inestable.", "C": "La amiodarona no es de primera línea en TSV.", "D": "La digoxina no es de primera línea y actúa lento."},
+    "perla": "Primera pregunta ante cualquier taquicardia: ¿estable o inestable?"
+  },
+  {
+    "especialidad": "Cardiovascular",
+    "tema": "Pericarditis aguda",
+    "caso": "Hombre de 30 años que hace 10 días tuvo un cuadro gripal. Dolor torácico punzante que empeora al acostarse y mejora al sentarse inclinado hacia adelante. Frote pericárdico. ECG: elevación difusa del ST cóncava con descenso del PR. Derrame mínimo, sin taponamiento. Troponina normal.",
+    "pregunta": "¿Cuál es el tratamiento de elección?",
+    "opciones": {"A": "AAS o ibuprofeno más colchicina", "B": "Prednisona 1 mg/kg/día", "C": "Heparina de bajo peso molecular", "D": "Pericardiocentesis diagnóstica"},
+    "correcta": "A",
+    "explicacion": "AINE o AAS a dosis antiinflamatoria más colchicina desde el primer episodio, 3 meses (ESC 2015): reduce las recurrencias.",
+    "distractores": {"B": "Los esteroides son de última línea y favorecen la recurrencia.", "C": "No hay indicación de anticoagular; puede causar hemopericardio.", "D": "Solo en taponamiento o sospecha bacteriana o neoplásica."},
+    "perla": "Elevación difusa del ST + descenso del PR = pericarditis."
+  },
+  {
+    "especialidad": "Cardiovascular",
+    "tema": "Estenosis mitral con fibrilación auricular",
+    "caso": "Mujer de 34 años con antecedente de anginas de repetición y dolor articular en la infancia. Disnea progresiva y dos episodios de hemoptisis. Primer ruido brillante, chasquido de apertura y retumbo diastólico apical. ECG: fibrilación auricular de reciente inicio.",
+    "pregunta": "¿Qué anticoagulante está indicado?",
+    "opciones": {"A": "Apixabán", "B": "Warfarina", "C": "Ácido acetilsalicílico", "D": "Rivaroxabán"},
+    "correcta": "B",
+    "explicacion": "En estenosis mitral moderada-grave (y en válvula mecánica) solo está indicada la warfarina (INR 2–3).",
+    "distractores": {"A": "Los anticoagulantes directos no están indicados en estenosis mitral moderada-grave.", "C": "El AAS no protege contra embolia en FA.", "D": "Igual que el apixabán: no en estenosis mitral."},
+    "perla": "Estenosis mitral o válvula mecánica = warfarina."
+  },
+  {
+    "especialidad": "Cardiovascular",
+    "tema": "Estenosis aórtica",
+    "caso": "A 72-year-old man presents with exertional chest pain and two episodes of syncope while climbing stairs. There is a harsh crescendo-decrescendo systolic murmur at the right second intercostal space radiating to both carotids, and a weak, delayed carotid upstroke.",
+    "pregunta": "What is the most likely diagnosis?",
+    "opciones": {"A": "Hypertrophic obstructive cardiomyopathy", "B": "Aortic stenosis", "C": "Mitral regurgitation", "D": "Aortic regurgitation"},
+    "correcta": "B",
+    "explicacion": "Angina, síncope y disnea con soplo sistólico creciente-decreciente en foco aórtico irradiado a carótidas y pulso parvus et tardus: estenosis aórtica.",
+    "distractores": {"A": "Da síncope en jóvenes; el soplo no se irradia a carótidas y aumenta con Valsalva.", "C": "Holosistólico apical irradiado a axila.", "D": "Soplo diastólico decreciente con pulso amplio."},
+    "perla": "Primero decide si el soplo es sistólico o diastólico."
+  },
+  {
+    "especialidad": "Cardiovascular",
+    "tema": "Insuficiencia cardiaca: mortalidad",
+    "caso": "Hombre de 66 años con insuficiencia cardiaca, FEVI 30 %, NYHA II, estable. Se revisa su tratamiento.",
+    "pregunta": "¿Cuál de los siguientes fármacos mejora los síntomas pero no ha demostrado reducir la mortalidad?",
+    "opciones": {"A": "Espironolactona", "B": "Carvedilol", "C": "Furosemida", "D": "Dapagliflozina"},
+    "correcta": "C",
+    "explicacion": "Los diuréticos de asa alivian la congestión pero no reducen la mortalidad (la digoxina tampoco).",
+    "distractores": {"A": "Reduce mortalidad (RALES).", "B": "Reduce mortalidad.", "D": "Los iSGLT2 reducen mortalidad (DAPA-HF)."},
+    "perla": "Cuatro pilares: ARNI/IECA/ARA II + betabloqueador + espironolactona + iSGLT2."
+  },
+  {
+    "especialidad": "Cardiovascular",
+    "tema": "Bloqueo AV Mobitz II",
+    "caso": "Mujer de 74 años con mareos y un síncope. ECG: PR constante de 0.18 s con ondas P que súbitamente no conducen, sin alargamiento previo del PR; QRS de 0.14 s. No toma cronotrópicos negativos.",
+    "pregunta": "¿Cuál es el tratamiento definitivo?",
+    "opciones": {"A": "Marcapasos definitivo", "B": "Atropina oral de mantenimiento", "C": "Vigilancia con Holter cada 6 meses", "D": "Suspender cafeína y reevaluar"},
+    "correcta": "A",
+    "explicacion": "PR fijo con P bloqueada = Mobitz II; con QRS ancho es infrahisiano y progresa a bloqueo completo. Con síncope, marcapasos definitivo.",
+    "distractores": {"B": "La atropina no sirve en bloqueos infrahisianos ni como tratamiento crónico.", "C": "La vigilancia es para bloqueo de 1.er grado o Mobitz I asintomático.", "D": "No hay causa reversible que justifique esperar."},
+    "perla": "PR que se alarga = Wenckebach (observar); PR fijo que falla = Mobitz II (marcapasos)."
+  },
+  {
+    "especialidad": "Cardiovascular",
+    "tema": "Endocarditis en usuario de drogas IV",
+    "caso": "Hombre de 29 años, usuario de drogas intravenosas, con fiebre de 39 °C de una semana y tos. Soplo holosistólico paraesternal izquierdo bajo que aumenta con la inspiración. Radiografía: múltiples nódulos cavitados bilaterales.",
+    "pregunta": "¿Cuál es el microorganismo más probable?",
+    "opciones": {"A": "Streptococcus viridans", "B": "Staphylococcus aureus", "C": "Enterococcus faecalis", "D": "Staphylococcus epidermidis"},
+    "correcta": "B",
+    "explicacion": "Endocarditis tricuspídea (soplo que aumenta con la inspiración) con émbolos sépticos pulmonares en usuario de drogas IV: S. aureus.",
+    "distractores": {"A": "Típico de válvula nativa izquierda tras procedimiento dental.", "C": "Asociado a procedimientos genitourinarios o gastrointestinales en ancianos.", "D": "Típico de válvula protésica temprana."},
+    "perla": "Usuario de drogas IV + tricúspide = S. aureus."
+  },
+  {
+    "especialidad": "Cardiovascular",
+    "tema": "Displasia fibromuscular",
+    "caso": "Mujer de 28 años con hipertensión de reciente diagnóstico (168/102 mmHg), sin antecedentes familiares. Soplo abdominal paraumbilical. Angiografía renal: imagen en cuentas de rosario en el tercio medio de la arteria renal derecha.",
+    "pregunta": "¿Cuál es el tratamiento de elección?",
+    "opciones": {"A": "Angioplastia transluminal con balón", "B": "Colocación primaria de stent", "C": "Nefrectomía derecha", "D": "IECA de por vida sin intervención"},
+    "correcta": "A",
+    "explicacion": "La displasia fibromuscular responde muy bien a la angioplastia con balón; el stent se reserva como rescate.",
+    "distractores": {"B": "El stent solo si falla la angioplastia.", "C": "Es innecesariamente radical.", "D": "Con buena respuesta a la angioplastia, no se deja solo tratamiento médico en una paciente joven."},
+    "perla": "Mujer joven con HTA y cuentas de rosario = displasia fibromuscular."
+  },
+  {
+    "especialidad": "Cardiovascular",
+    "tema": "FA preexcitada (WPW)",
+    "caso": "Hombre de 24 años con palpitaciones súbitas. TA 118/74 mmHg, alerta. ECG: taquicardia irregular de 240 lpm con QRS anchos de morfología variable; un ECG previo mostraba PR corto y onda delta.",
+    "pregunta": "¿Cuál es el tratamiento farmacológico de elección?",
+    "opciones": {"A": "Verapamilo IV", "B": "Adenosina IV", "C": "Procainamida IV", "D": "Digoxina IV"},
+    "correcta": "C",
+    "explicacion": "FA conducida por vía accesoria: procainamida (o cardioversión si se inestabiliza). Nada que bloquee el nodo AV.",
+    "distractores": {"A": "Bloquea el nodo AV y desvía todo por la vía accesoria: riesgo de FV.", "B": "Mismo problema: bloqueo del nodo AV.", "D": "Bloquea el nodo y acorta el periodo refractario de la vía accesoria."},
+    "perla": "Irregular, rápida y con QRS variable = FA preexcitada."
+  },
+  {
+    "especialidad": "Cardiovascular",
+    "tema": "TSV inestable",
+    "caso": "Hombre de 61 años con palpitaciones desde hace 1 h. TA 72/40 mmHg, confuso y diaforético. ECG: taquicardia regular de 180 lpm con QRS de 0.08 s. Tiene pulso.",
+    "pregunta": "¿Cuál es la conducta inmediata?",
+    "opciones": {"A": "Adenosina 6 mg IV en bolo", "B": "Cardioversión eléctrica sincronizada", "C": "Desfibrilación no sincronizada", "D": "Amiodarona 150 mg IV en 10 min"},
+    "correcta": "B",
+    "explicacion": "Taquicardia con pulso e inestabilidad (hipotensión, confusión): cardioversión eléctrica sincronizada.",
+    "distractores": {"A": "La adenosina es para el paciente estable.", "C": "La desfibrilación es para paro sin pulso (FV/TV sin pulso).", "D": "Los fármacos retrasan la cardioversión en el inestable."},
+    "perla": "Con pulso = sincronizada; sin pulso = desfibrilación."
+  },
+  {
+    "especialidad": "Cardiovascular",
+    "tema": "Bloqueo Mobitz I",
+    "caso": "Maratonista de 22 años, asintomático, en revisión deportiva. ECG: FC 52 lpm, PR que se alarga progresivamente hasta una P no conducida, con ciclos repetidos; QRS de 0.08 s.",
+    "pregunta": "¿Cuál es la conducta?",
+    "opciones": {"A": "Marcapasos definitivo", "B": "Atropina oral", "C": "Ninguna intervención; tranquilizar y vigilar", "D": "Isoproterenol en infusión"},
+    "correcta": "C",
+    "explicacion": "Wenckebach en atleta asintomático: bloqueo nodal por tono vagal, benigno. No requiere tratamiento.",
+    "distractores": {"A": "Solo en Mobitz II, bloqueo completo o bloqueo sintomático.", "B": "No hay síntomas que tratar.", "D": "No hay inestabilidad."},
+    "perla": "Mobitz I en jóvenes y atletas es fisiológico."
+  },
+  {
+    "especialidad": "Cardiovascular",
+    "tema": "Bloqueo AV completo inestable",
+    "caso": "Mujer de 79 años con síncope. FC 32 lpm, TA 70/40 mmHg, piel fría. ECG: P a 80 lpm sin relación con QRS anchos a 32 lpm. Se aplicó atropina 1 mg IV sin respuesta.",
+    "pregunta": "¿Cuál es el siguiente paso?",
+    "opciones": {"A": "Marcapasos transcutáneo", "B": "Adenosina 6 mg IV", "C": "Amiodarona 300 mg IV", "D": "Cardioversión eléctrica sincronizada"},
+    "correcta": "A",
+    "explicacion": "Bradicardia inestable sin respuesta a atropina: marcapasos transcutáneo (o dopamina/adrenalina en infusión) como puente al definitivo.",
+    "distractores": {"B": "La adenosina frena más la conducción AV.", "C": "Antiarrítmico para taquiarritmias; empeora la bradicardia.", "D": "La cardioversión es para taquiarritmias."},
+    "perla": "Bradicardia inestable: atropina → marcapasos transcutáneo o infusión → marcapasos definitivo."
+  },
+  {
+    "especialidad": "Cardiovascular",
+    "tema": "Prolapso de la válvula mitral",
+    "caso": "Mujer de 29 años, delgada, con palpitaciones y dolor torácico atípico ocasional. Clic mesosistólico seguido de soplo telesistólico apical que se adelanta al ponerse de pie y con Valsalva.",
+    "pregunta": "¿Cuál es el diagnóstico más probable?",
+    "opciones": {"A": "Estenosis aórtica", "B": "Comunicación interventricular", "C": "Estenosis pulmonar", "D": "Prolapso de la válvula mitral"},
+    "correcta": "D",
+    "explicacion": "Clic mesosistólico con soplo telesistólico que se adelanta al bajar la precarga (de pie, Valsalva): prolapso mitral.",
+    "distractores": {"A": "Soplo en foco aórtico irradiado a carótidas, en ancianos.", "B": "Holosistólico rudo paraesternal izquierdo bajo, sin clic.", "C": "Soplo sistólico en foco pulmonar con clic de eyección que disminuye con la inspiración."},
+    "perla": "Valsalva o ponerse de pie aumenta solo la miocardiopatía hipertrófica y el prolapso mitral."
+  },
+  {
+    "especialidad": "Cardiovascular",
+    "tema": "Insuficiencia aórtica",
+    "caso": "A 38-year-old tall man with long arms, arachnodactyly and a history of lens dislocation has progressive exertional dyspnea. High-pitched early diastolic decrescendo murmur at the left sternal border, best heard leaning forward at end-expiration. BP 160/50 mmHg; bounding peripheral pulses.",
+    "pregunta": "What is the most likely valvular lesion?",
+    "opciones": {"A": "Mitral stenosis", "B": "Aortic regurgitation", "C": "Aortic stenosis", "D": "Pulmonic stenosis"},
+    "correcta": "B",
+    "explicacion": "Marfan con dilatación de la raíz aórtica: soplo protodiastólico decreciente, presión de pulso amplia y pulsos saltones.",
+    "distractores": {"A": "Retumbo diastólico apical con chasquido de apertura.", "C": "Soplo sistólico y pulso parvus et tardus.", "D": "Soplo sistólico en foco pulmonar."},
+    "perla": "Presión de pulso amplia + soplo diastólico = insuficiencia aórtica."
+  },
+  {
+    "especialidad": "Cardiovascular",
+    "tema": "Insuficiencia tricuspídea",
+    "caso": "Hombre de 55 años con hipertensión pulmonar por EPOC. Edema de miembros inferiores y ascitis. Soplo holosistólico en el 4.º espacio intercostal paraesternal izquierdo que aumenta con la inspiración. Ondas v prominentes y hepatomegalia pulsátil.",
+    "pregunta": "¿Cuál es el diagnóstico?",
+    "opciones": {"A": "Insuficiencia mitral", "B": "Comunicación interventricular", "C": "Insuficiencia tricuspídea", "D": "Estenosis aórtica"},
+    "correcta": "C",
+    "explicacion": "Soplo holosistólico derecho que aumenta con la inspiración (Rivero-Carvallo), ondas v y hepatomegalia pulsátil: insuficiencia tricuspídea secundaria a dilatación del VD.",
+    "distractores": {"A": "Apical, irradiado a axila, no cambia con la inspiración.", "B": "No cambia con la inspiración y suele ser congénita.", "D": "Soplo en foco aórtico irradiado a carótidas."},
+    "perla": "Soplo que aumenta con la inspiración = lado derecho."
+  },
+  {
+    "especialidad": "Cardiovascular",
+    "tema": "Nitratos e inhibidores de PDE-5",
+    "caso": "Hombre de 57 años con dolor retroesternal opresivo de reposo de 30 min. ECG con descenso del ST en V4–V6. Tomó sildenafil hace 8 h. TA 136/82 mmHg.",
+    "pregunta": "¿Cuál de los siguientes fármacos está contraindicado?",
+    "opciones": {"A": "Heparina no fraccionada", "B": "Metoprolol oral", "C": "Nitroglicerina sublingual", "D": "Ácido acetilsalicílico"},
+    "correcta": "C",
+    "explicacion": "Nitratos e inhibidores de PDE-5 juntos causan hipotensión grave. Evitar nitratos 24 h tras sildenafil o vardenafil (48 h con tadalafil).",
+    "distractores": {"A": "Indicada en SCA sin elevación del ST.", "B": "Indicado si no hay datos de IC o choque.", "D": "Indicado en todo SCA sin contraindicación."},
+    "perla": "Pregunta siempre por sildenafil antes de dar nitratos."
+  },
+  {
+    "especialidad": "Cardiovascular",
+    "tema": "Toxicidad por digoxina",
+    "caso": "Mujer de 81 años con insuficiencia cardiaca que toma digoxina y furosemida. Náusea, anorexia, confusión y visión amarillenta. ECG: taquicardia auricular con bloqueo AV 2:1. Creatinina 1.1 mg/dl.",
+    "pregunta": "¿Qué alteración electrolítica es la que con más frecuencia precipita este cuadro en su caso?",
+    "opciones": {"A": "Hiperpotasemia", "B": "Hipernatremia", "C": "Hipopotasemia", "D": "Hipofosfatemia"},
+    "correcta": "C",
+    "explicacion": "La furosemida causa hipopotasemia; digoxina y potasio compiten por la Na⁺/K⁺-ATPasa, así que con poco potasio la digoxina se une más.",
+    "distractores": {"A": "Aparece en la intoxicación aguda masiva, no es el precipitante típico.", "B": "No se relaciona con la toxicidad digitálica.", "D": "No se relaciona con la toxicidad digitálica."},
+    "perla": "Digoxina + diurético = vigila el potasio (y el magnesio)."
+  },
+  {
+    "especialidad": "Cardiovascular",
+    "tema": "Control de frecuencia con FEVI reducida",
+    "caso": "Hombre de 68 años con insuficiencia cardiaca, FEVI 25 %. Desarrolla fibrilación auricular con respuesta ventricular de 130 lpm, TA 118/72 mmHg, sin congestión grave. Se busca controlar la frecuencia.",
+    "pregunta": "¿Cuál de estos fármacos está contraindicado?",
+    "opciones": {"A": "Metoprolol succinato", "B": "Digoxina", "C": "Amiodarona", "D": "Diltiazem"},
+    "correcta": "D",
+    "explicacion": "Diltiazem y verapamilo son inotrópicos negativos: contraindicados con FEVI reducida.",
+    "distractores": {"A": "Betabloqueador de elección en IC estable.", "B": "Útil para control de frecuencia en IC.", "C": "Opción cuando los demás no bastan."},
+    "perla": "FEVI baja: nada de verapamilo ni diltiazem."
+  }
+]
