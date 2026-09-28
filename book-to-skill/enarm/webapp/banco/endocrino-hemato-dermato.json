@@ -1,0 +1,716 @@
+[
+  {
+    "id": "endo-01",
+    "especialidad": "Endocrinología",
+    "tema": "Diabetes mellitus tipo 2",
+    "caso": "Hombre de 61 años con DM2 de 6 años de evolución, tratado con metformina 850 mg c/12 h. Hace 8 meses tuvo un infarto agudo de miocardio tratado con angioplastia. IMC 31 kg/m², TA 132/80 mmHg, FC 72 lpm. HbA1c 7.4%, TFGe 68 ml/min/1.73 m². No refiere hipoglucemias.",
+    "pregunta": "¿Cuál es la conducta farmacológica más adecuada para su diabetes?",
+    "opciones": {
+      "A": "Agregar un iSGLT2 o un arGLP-1 con beneficio cardiovascular demostrado",
+      "B": "Agregar glibenclamida para alcanzar HbA1c <7%",
+      "C": "Iniciar insulina NPH nocturna y suspender metformina",
+      "D": "Mantener igual el tratamiento, pues la HbA1c está cerca de la meta"
+    },
+    "correcta": "A",
+    "explicacion": "Con enfermedad cardiovascular aterosclerótica establecida, las guías ADA actuales indican iSGLT2 y/o arGLP-1 con beneficio CV probado, sin importar la HbA1c ni el uso de metformina.",
+    "distractores": {
+      "B": "La sulfonilurea baja la glucosa pero no aporta protección cardiovascular y causa hipoglucemia y aumento de peso.",
+      "C": "No hay descontrol grave ni síntomas que justifiquen insulinización; además no hay razón para retirar metformina.",
+      "D": "Aunque la HbA1c estuviera en meta, la ECV establecida por sí sola indica agregar un fármaco cardioprotector."
+    },
+    "perla": "DM2 + ECV, IC o ERC: iSGLT2/arGLP-1 por el órgano, no por la HbA1c."
+  },
+  {
+    "id": "endo-02",
+    "especialidad": "Endocrinología",
+    "tema": "Pie diabético",
+    "caso": "Mujer de 58 años con DM2 de 15 años y neuropatía periférica. Acude por úlcera de 6 semanas en la cabeza del primer metatarsiano derecho, con secreción purulenta. T 37.6 °C, FC 90 lpm. La úlcera mide 2.5 cm, es profunda y con la sonda estéril se toca una superficie dura. Leucocitos 13 500/μl, VSG 85 mm/h.",
+    "pregunta": "¿Cuál es el manejo más apropiado según la clasificación de Wagner?",
+    "opciones": {
+      "A": "Curación ambulatoria con descarga y antibiótico oral",
+      "B": "Hospitalización con cultivo, antibiótico, desbridamiento y descarga",
+      "C": "Amputación supracondílea inmediata",
+      "D": "Aplicación de factor de crecimiento tópico y revisión en 4 semanas"
+    },
+    "correcta": "B",
+    "explicacion": "Úlcera profunda con sonda-hueso positiva y datos de infección sugiere osteomielitis: Wagner 3, que requiere manejo hospitalario (cultivo, antibiótico, desbridamiento, descarga y Rx/RM del pie).",
+    "distractores": {
+      "A": "El manejo ambulatorio corresponde a Wagner 0–2; aquí hay afección ósea.",
+      "C": "La amputación mayor se reserva para gangrena extensa o isquemia no reconstruible; no es el primer paso.",
+      "D": "Los tópicos no tratan la osteomielitis y retrasar el manejo aumenta el riesgo de amputación."
+    },
+    "perla": "Sonda-hueso positiva = piensa en osteomielitis = Wagner 3 = hospitalizar."
+  },
+  {
+    "id": "endo-03",
+    "especialidad": "Endocrinología",
+    "tema": "Síndrome de secreción inapropiada de ADH (SIADH / SIHAD)",
+    "caso": "Hombre de 66 años, tabaquista de 40 paquetes-año, en estudio por carcinoma pulmonar de células pequeñas. Se encuentra asintomático, sin edema ni datos de deshidratación. TA 124/78 mmHg, FC 76 lpm. Na sérico 127 mEq/L, osmolaridad plasmática 262 mOsm/kg, osmolaridad urinaria 480 mOsm/kg, Na urinario 58 mmol/L. TSH y cortisol normales.",
+    "pregunta": "Además de tratar la neoplasia, ¿cuál es el tratamiento inicial de la hiponatremia?",
+    "opciones": {
+      "A": "Solución salina hipertónica al 3% en infusión rápida",
+      "B": "Solución salina al 0.9% 2 L en 4 horas",
+      "C": "Restricción de líquidos a 500–1 000 ml/día",
+      "D": "Furosemida IV como monoterapia"
+    },
+    "correcta": "C",
+    "explicacion": "Hiponatremia hipotónica euvolémica con orina concentrada y Na urinario alto = SIADH paraneoplásico. En paciente asintomático o crónico el primer paso es la restricción hídrica.",
+    "distractores": {
+      "A": "La salina al 3% se reserva para hiponatremia sintomática grave o aguda; corregir rápido arriesga desmielinización osmótica.",
+      "B": "En SIADH la salina isotónica puede empeorar el sodio: el sodio se excreta y se retiene el agua.",
+      "D": "La furosemida sola no corrige el problema; solo se usa como complemento de la salina."
+    },
+    "perla": "SIADH asintomático: restringe agua; SIADH con convulsiones: salina 3% sin pasar 8–10 mEq/L en 24 h."
+  },
+  {
+    "id": "endo-04",
+    "especialidad": "Endocrinología",
+    "tema": "Diabetes insípida",
+    "caso": "Mujer de 42 años con trastorno bipolar tratado con litio desde hace 10 años. Refiere orinar unos 7 litros al día y sed intensa. TA 118/74 mmHg, FC 84 lpm. Na sérico 146 mEq/L, osmolaridad urinaria 160 mOsm/kg. Tras privación de agua la orina no se concentra y, al aplicar desmopresina, la osmolaridad urinaria sube menos de 10%. Psiquiatría indica que no es posible retirar el litio.",
+    "pregunta": "¿Cuál es el tratamiento más adecuado?",
+    "opciones": {
+      "A": "Desmopresina intranasal a dosis altas",
+      "B": "Restricción estricta de agua",
+      "C": "Clorpropamida oral",
+      "D": "Tiazida y amilorida con dieta baja en sal"
+    },
+    "correcta": "D",
+    "explicacion": "La falta de respuesta a desmopresina confirma diabetes insípida nefrogénica, aquí por litio. Se trata con tiazida y dieta hiposódica; la amilorida es de especial utilidad en la inducida por litio.",
+    "distractores": {
+      "A": "La desmopresina es útil en la forma central; el riñón resistente no responde.",
+      "B": "Restringir agua en DI provoca hipernatremia y deshidratación graves.",
+      "C": "La clorpropamida potencia la ADH endógena y solo tuvo uso histórico en DI central parcial."
+    },
+    "perla": "Responde a desmopresina = central; no responde = nefrogénica (litio, hipercalcemia, hipopotasemia)."
+  },
+  {
+    "id": "endo-05",
+    "especialidad": "Endocrinología",
+    "tema": "Hipotiroidismo",
+    "caso": "Mujer de 78 años con hipotiroidismo sin tratamiento desde hace 1 año, traída por somnolencia progresiva tras una neumonía. T 34.8 °C, FC 48 lpm, TA 90/60 mmHg, FR 10 rpm. Presenta edema facial sin fóvea y reflejos con relajación lenta. Na 126 mEq/L, glucosa 62 mg/dl, TSH 58 mUI/L, T4 libre 0.2 ng/dl.",
+    "pregunta": "Además del soporte en terapia intensiva, ¿cuál es el tratamiento inmediato?",
+    "opciones": {
+      "A": "Hidrocortisona IV seguida de levotiroxina IV en bolo",
+      "B": "Levotiroxina oral 25 mcg/día con incremento gradual",
+      "C": "Metimazol y propranolol",
+      "D": "Recalentamiento activo externo como única medida"
+    },
+    "correcta": "A",
+    "explicacion": "Es un coma mixedematoso. Se da hidrocortisona 50–100 mg IV antes o junto con la hormona (puede haber insuficiencia suprarrenal) y levotiroxina IV en bolo de 300–500 mcg, ± liotironina.",
+    "distractores": {
+      "B": "La dosis oral baja sirve en el hipotiroidismo crónico estable, no en una emergencia con mortalidad >60%.",
+      "C": "Son fármacos para tirotoxicosis; aquí empeorarían el cuadro.",
+      "D": "El recalentamiento externo activo puede causar vasodilatación y colapso; es una medida de soporte, no el tratamiento."
+    },
+    "perla": "Coma mixedematoso: esteroide primero (o junto), luego T4 IV en bolo."
+  },
+  {
+    "id": "endo-06",
+    "especialidad": "Endocrinología",
+    "tema": "Hipertiroidismo y tirotoxicosis",
+    "caso": "Mujer de 27 años con 9 semanas de embarazo, con palpitaciones, temblor fino, pérdida de 4 kg y bocio difuso con soplo. FC 118 lpm, TA 128/70 mmHg. TSH <0.01 mUI/L, T4 libre 3.8 ng/dl, anticuerpos contra el receptor de TSH positivos.",
+    "pregunta": "¿Cuál es el antitiroideo de elección en este momento?",
+    "opciones": {
+      "A": "Metimazol",
+      "B": "Propiltiouracilo",
+      "C": "Yodo radiactivo (I-131)",
+      "D": "Solución de Lugol como monoterapia"
+    },
+    "correcta": "B",
+    "explicacion": "Enfermedad de Graves en el 1.er trimestre. Según la ATA 2016, el PTU se usa solo en el 1.er trimestre (el metimazol es teratógeno en la organogénesis) y después se cambia a metimazol.",
+    "distractores": {
+      "A": "El metimazol es el antitiroideo de elección en general, pero en el 1.er trimestre se evita por embriopatía.",
+      "C": "El I-131 está contraindicado en embarazo y lactancia.",
+      "D": "El yodo solo tiene efecto transitorio y no es tratamiento de base; se usa en tormenta tiroidea o antes de cirugía."
+    },
+    "perla": "Graves y embarazo: PTU en el 1.er trimestre, metimazol después."
+  },
+  {
+    "id": "endo-07",
+    "especialidad": "Endocrinología",
+    "tema": "Hiperparatiroidismo",
+    "caso": "Mujer de 46 años, asintomática, en quien se encontró calcio sérico de 11.8 mg/dl (normal hasta 10.2) en un chequeo. TA 126/78 mmHg. PTH intacta 142 pg/ml, fósforo 2.2 mg/dl, TFGe 88 ml/min. Densitometría con T-score de −1.8 en columna lumbar. Sin nefrolitiasis.",
+    "pregunta": "¿Cuál es el tratamiento de elección?",
+    "opciones": {
+      "A": "Observación con calcio sérico anual",
+      "B": "Cinacalcet por tiempo indefinido",
+      "C": "Paratiroidectomía",
+      "D": "Alendronato semanal"
+    },
+    "correcta": "C",
+    "explicacion": "Hiperparatiroidismo primario (hipercalcemia con PTH alta). Aunque es asintomática cumple criterios quirúrgicos: calcio >1 mg/dl sobre el límite y edad <50 años. La paratiroidectomía es curativa.",
+    "distractores": {
+      "A": "La observación solo se acepta en asintomáticos que no cumplen ningún criterio quirúrgico.",
+      "B": "El cinacalcet es útil en el secundario o si hay contraindicación para cirugía; no cura.",
+      "D": "El bisfosfonato protege el hueso pero no corrige la causa ni la hipercalcemia."
+    },
+    "perla": "Hiperparatiroidismo asintomático: operar si Ca >1 sobre el límite, <50 años, TFG <60, T ≤−2.5 o litiasis."
+  },
+  {
+    "id": "endo-08",
+    "especialidad": "Endocrinología",
+    "tema": "Enfermedad de Addison (insuficiencia suprarrenal primaria)",
+    "caso": "Hombre de 34 años con 4 meses de fatiga, pérdida de 7 kg, avidez por sal y oscurecimiento de pliegues palmares y encías. Llega a urgencias con vómito, dolor abdominal y confusión tras 3 días de gastroenteritis. TA 72/40 mmHg, FC 124 lpm. Na 124 mEq/L, K 6.1 mEq/L, glucosa 58 mg/dl.",
+    "pregunta": "¿Cuál es la conducta inmediata más adecuada?",
+    "opciones": {
+      "A": "Realizar prueba de estimulación con cosintropina antes de cualquier tratamiento",
+      "B": "Iniciar fludrocortisona oral y dieta alta en sal",
+      "C": "Administrar dexametasona oral y dar de alta con cita",
+      "D": "Hidrocortisona 100 mg IV, solución salina 0.9% y dextrosa sin esperar resultados"
+    },
+    "correcta": "D",
+    "explicacion": "Crisis suprarrenal en enfermedad de Addison (hiperpigmentación, hiponatremia, hiperpotasemia, hipoglucemia). No se esperan estudios: hidrocortisona 100 mg IV, salina isotónica rápida y glucosa.",
+    "distractores": {
+      "A": "Se puede tomar una muestra de cortisol/ACTH, pero retrasar el esteroide en una crisis es potencialmente mortal.",
+      "B": "La fludrocortisona es parte del manejo crónico; a dosis altas de hidrocortisona el efecto mineralocorticoide ya está cubierto.",
+      "C": "El paciente está en choque; requiere manejo IV y hospitalización."
+    },
+    "perla": "Sospecha de crisis suprarrenal: hidrocortisona IV ya, el diagnóstico después."
+  },
+  {
+    "id": "endo-09",
+    "especialidad": "Endocrinología",
+    "tema": "Síndrome y enfermedad de Cushing",
+    "caso": "A 38-year-old woman presents with 1 year of weight gain, new-onset hypertension and easy bruising. She takes no medications, including inhaled, topical or injected corticosteroids. BP 152/96 mmHg, HR 84 bpm, BMI 33 kg/m². Exam shows facial plethora, proximal muscle weakness and violaceous abdominal striae 1.5 cm wide. Fasting glucose is 118 mg/dl.",
+    "pregunta": "Which is the most appropriate initial test?",
+    "opciones": {
+      "A": "Overnight 1 mg dexamethasone suppression test",
+      "B": "Plasma ACTH level",
+      "C": "Pituitary MRI with gadolinium",
+      "D": "Inferior petrosal sinus sampling"
+    },
+    "correcta": "A",
+    "explicacion": "Con exógenos descartados, primero hay que confirmar hipercortisolismo (supresión con 1 mg de dexametasona, cortisol libre urinario de 24 h o cortisol salival nocturno). Solo después se localiza.",
+    "distractores": {
+      "B": "La ACTH se usa para localizar (dependiente vs independiente) una vez confirmado el hipercortisolismo.",
+      "C": "La RM hipofisaria es de localización; hacerla antes de confirmar puede detectar incidentalomas y confundir.",
+      "D": "El cateterismo de senos petrosos es el estándar para localizar el Cushing ACTH-dependiente, no una prueba inicial."
+    },
+    "perla": "Cushing: primero confirma (dexa 1 mg, CLU 24 h, cortisol salival), luego localiza."
+  },
+  {
+    "id": "endo-10",
+    "especialidad": "Endocrinología",
+    "tema": "Hiperaldosteronismo primario (síndrome de Conn)",
+    "caso": "Hombre de 44 años con HTA resistente pese a tres fármacos, uno de ellos diurético. TA 168/104 mmHg, FC 74 lpm. K sérico 2.9 mEq/L, HCO₃ 31 mEq/L. Relación aldosterona/renina 68 con aldosterona de 26 ng/dl; tras infusión salina la aldosterona persiste en 18 ng/dl. La TC muestra un nódulo de 1.2 cm en la suprarrenal izquierda y la derecha es normal. El paciente desea tratamiento quirúrgico.",
+    "pregunta": "Antes de la cirugía, ¿cuál es el estudio estándar de oro para confirmar lateralización?",
+    "opciones": {
+      "A": "Gammagrama con MIBG",
+      "B": "Cateterismo de venas suprarrenales con toma selectiva de aldosterona",
+      "C": "Prueba de captopril",
+      "D": "Resonancia magnética suprarrenal"
+    },
+    "correcta": "B",
+    "explicacion": "El hiperaldosteronismo primario ya está confirmado (tamizaje y prueba salina). Como los nódulos no funcionantes son comunes, el cateterismo de venas suprarrenales es el estándar para demostrar lateralización antes de la suprarrenalectomía.",
+    "distractores": {
+      "A": "El MIBG sirve para feocromocitoma, no para hiperaldosteronismo.",
+      "C": "La prueba de captopril es de confirmación bioquímica, ya resuelta con la infusión salina.",
+      "D": "La RM, igual que la TC, muestra la anatomía pero no demuestra qué glándula produce el exceso."
+    },
+    "perla": "Conn: tamiza con aldosterona/renina, confirma con salina, lateraliza con cateterismo de venas suprarrenales."
+  },
+  {
+    "id": "endo-11",
+    "especialidad": "Endocrinología",
+    "tema": "Acromegalia",
+    "caso": "Hombre de 49 años que ha cambiado dos veces de talla de zapatos y de anillo en 5 años. Refiere ronquido intenso, sudoración excesiva y parestesias nocturnas en ambas manos. TA 146/92 mmHg. Tiene prognatismo con diastema, macroglosia y rasgos faciales toscos. IGF-1 3.1 veces el límite superior para su edad; glucosa en ayuno 122 mg/dl.",
+    "pregunta": "¿Qué estudio confirma el diagnóstico?",
+    "opciones": {
+      "A": "GH basal aislada",
+      "B": "Prolactina sérica",
+      "C": "Medición de GH tras carga oral de 75 g de glucosa",
+      "D": "Campimetría visual"
+    },
+    "correcta": "C",
+    "explicacion": "El IGF-1 alto es el tamizaje. La confirmación (estándar de oro) es que la GH no suprima a <1 ng/ml (o <0.4 con ensayos ultrasensibles) tras la CTOG de 75 g. Luego se hace RM de hipófisis.",
+    "distractores": {
+      "A": "La GH es pulsátil; un valor aislado no diagnostica ni descarta.",
+      "B": "La prolactina se mide porque puede haber cosecreción, pero no confirma la acromegalia.",
+      "D": "La campimetría evalúa el efecto de masa del macroadenoma, no el exceso hormonal."
+    },
+    "perla": "Acromegalia: IGF-1 para tamizar, GH post-CTOG para confirmar, RM para localizar."
+  },
+  {
+    "id": "endo-12",
+    "especialidad": "Endocrinología",
+    "tema": "Crisis hiperglucémicas: cetoacidosis diabética (CAD) y estado hiperglucémico hiperosmolar (EHH)",
+    "caso": "Mujer de 19 años con DM1 que suspendió su insulina hace 2 días. Refiere dolor abdominal, vómito y respiración profunda y rápida. TA 96/60 mmHg, FC 122 lpm, FR 30 rpm. Glucosa 486 mg/dl, pH 7.12, HCO₃ 8 mEq/L, anión gap 24, cetonas séricas positivas, K 3.0 mEq/L, Cr 1.3 mg/dl. Ya recibió 1 L de solución salina al 0.9% en la primera hora.",
+    "pregunta": "¿Cuál es el siguiente paso más adecuado?",
+    "opciones": {
+      "A": "Bolo de insulina regular 0.1 U/kg IV e infusión de 0.1 U/kg/h",
+      "B": "Bicarbonato de sodio IV",
+      "C": "Cambiar a solución glucosada al 5%",
+      "D": "Reponer potasio IV y diferir la insulina hasta que el K sea >3.3–3.5 mEq/L"
+    },
+    "correcta": "D",
+    "explicacion": "Cetoacidosis grave con hipopotasemia. La insulina mete potasio a la célula y puede causar arritmias fatales, por eso con K <3.3–3.5 primero se repone potasio y luego se inicia insulina.",
+    "distractores": {
+      "A": "Es el esquema correcto de insulina, pero iniciarla con K de 3.0 es peligroso.",
+      "B": "No se usa bicarbonato de rutina; solo con pH <6.9–7.0.",
+      "C": "La dextrosa se agrega cuando la glucosa baja a ~200 mg/dl, no con 486."
+    },
+    "perla": "CAD: líquidos → potasio → insulina; con K <3.3 la insulina espera."
+  },
+  {
+    "id": "endo-13",
+    "especialidad": "Endocrinología",
+    "tema": "Dislipidemias",
+    "caso": "Hombre de 32 años cuyo padre murió de infarto a los 44 años. Acude a chequeo laboral, asintomático. TA 122/76 mmHg, IMC 24 kg/m². Presenta engrosamientos nodulares firmes en ambos tendones de Aquiles y en los tendones extensores de las manos. Colesterol total 390 mg/dl, c-LDL 295 mg/dl, TG 130 mg/dl, c-HDL 45 mg/dl. TSH normal.",
+    "pregunta": "¿Cuál es el diagnóstico más probable?",
+    "opciones": {
+      "A": "Hipercolesterolemia familiar heterocigota",
+      "B": "Dislipidemia familiar combinada",
+      "C": "Disbetalipoproteinemia (tipo III)",
+      "D": "Hipercolesterolemia secundaria a hipotiroidismo"
+    },
+    "correcta": "A",
+    "explicacion": "LDL muy elevado con TG normales, historia de cardiopatía precoz en la familia y xantomas tendinosos (patognomónicos) = hipercolesterolemia familiar heterocigota (defecto del receptor de LDL).",
+    "distractores": {
+      "B": "La combinada eleva también los TG y cursa sin xantomas.",
+      "C": "La tipo III eleva CT y TG por igual y da xantomas palmares y tuberoeruptivos.",
+      "D": "La TSH es normal; además el hipotiroidismo no produce xantomas tendinosos."
+    },
+    "perla": "Xantoma tendinoso (Aquiles, extensores) = hipercolesterolemia familiar; el xantelasma no es patognomónico."
+  },
+  {
+    "id": "endo-14",
+    "especialidad": "Endocrinología",
+    "tema": "Hipoparatiroidismo",
+    "caso": "Mujer de 40 años operada ayer de tiroidectomía total por bocio multinodular. Hoy refiere hormigueo peribucal y en los dedos, y presenta espasmo carpopedal. FC 88 lpm, TA 118/72 mmHg. Signo de Chvostek positivo. Calcio corregido 6.9 mg/dl, fósforo 5.6 mg/dl, magnesio normal. ECG con QT prolongado.",
+    "pregunta": "¿Cuál es el tratamiento inmediato?",
+    "opciones": {
+      "A": "Calcitriol oral y reevaluar en 48 horas",
+      "B": "Gluconato de calcio IV",
+      "C": "Sulfato de magnesio IV",
+      "D": "Levotiroxina IV"
+    },
+    "correcta": "B",
+    "explicacion": "Hipoparatiroidismo posquirúrgico con hipocalcemia sintomática (tetania, QT largo). El tratamiento agudo es gluconato de calcio IV; después calcio oral + calcitriol.",
+    "distractores": {
+      "A": "El calcitriol tarda en actuar; forma parte del manejo crónico, no de la tetania.",
+      "C": "El magnesio se repone solo si está bajo; aquí es normal.",
+      "D": "La levotiroxina se requiere tras la tiroidectomía, pero no corrige la hipocalcemia."
+    },
+    "perla": "Tetania después de una tiroidectomía: gluconato de calcio IV y luego calcio oral con calcitriol."
+  },
+  {
+    "id": "hem-01",
+    "especialidad": "Hematología",
+    "tema": "Leucemia mieloide aguda (LMA)",
+    "caso": "Hombre de 35 años con 10 días de fatiga, gingivorragia y equimosis extensas. T 37.9 °C, FC 108 lpm, TA 110/70 mmHg. Hb 8.1 g/dl, leucocitos 3 200/μl, plaquetas 22 000/μl, fibrinógeno 90 mg/dl, dímero D muy elevado, TP prolongado. En médula ósea hay 70% de promielocitos anormales con abundantes bastones de Auer; se detecta PML::RARA. Leucocitos iniciales <10 000/μl.",
+    "pregunta": "¿Cuál es el tratamiento de elección?",
+    "opciones": {
+      "A": "Ácido transretinoico (ATRA) más trióxido de arsénico, con soporte de la coagulación",
+      "B": "Inducción \"7 + 3\" con citarabina y daunorrubicina sola",
+      "C": "Imatinib",
+      "D": "Heparina no fraccionada y observación"
+    },
+    "correcta": "A",
+    "explicacion": "Leucemia promielocítica aguda (M3, t(15;17)) con CID. En riesgo bajo-intermedio el estándar actual es ATRA + trióxido de arsénico sin quimioterapia, iniciando ATRA ante la sola sospecha y reponiendo plaquetas, fibrinógeno y plasma.",
+    "distractores": {
+      "B": "El \"7 + 3\" es la inducción de las demás LMA; en la LPA sin ATRA no controla la CID ni ofrece la misma curación.",
+      "C": "El imatinib va dirigido a BCR-ABL (LMC, LLA Ph+), no a PML::RARA.",
+      "D": "La CID de la LPA se trata con ATRA y reposición; la heparina no es el manejo estándar y aumenta el sangrado."
+    },
+    "perla": "Promielocitos con bastones de Auer + CID = LPA: inicia ATRA de inmediato."
+  },
+  {
+    "id": "hem-02",
+    "especialidad": "Hematología",
+    "tema": "Leucemia linfoblástica aguda (LLA)",
+    "caso": "Niño de 4 años con 3 semanas de palidez, fiebre intermitente y cojera por dolor en piernas. T 38.2 °C, FC 130 lpm. Tiene petequias en tronco, adenopatías cervicales y hepatoesplenomegalia. Hb 7.2 g/dl, leucocitos 42 000/μl con 60% de blastos en el frotis, plaquetas 31 000/μl. LDH 1 100 U/L.",
+    "pregunta": "¿Cuál es el estudio que establece el diagnóstico?",
+    "opciones": {
+      "A": "Biopsia de ganglio cervical",
+      "B": "Aspirado de médula ósea con inmunofenotipo",
+      "C": "Tomografía de tórax y abdomen",
+      "D": "Punción lumbar"
+    },
+    "correcta": "B",
+    "explicacion": "La sospecha es LLA (cáncer infantil más frecuente, pico 2–5 años, dolor óseo, visceromegalias). El diagnóstico se hace con aspirado de médula ósea (>20% de linfoblastos) más inmunofenotipo, citogenética y estudios moleculares.",
+    "distractores": {
+      "A": "La biopsia ganglionar es el estudio del linfoma, no de la leucemia.",
+      "C": "La imagen sirve para buscar masa mediastinal (LLA-T), pero no diagnostica.",
+      "D": "La punción lumbar evalúa infiltración del SNC como parte de la estadificación, no como diagnóstico inicial."
+    },
+    "perla": "Blastos en sangre periférica: el diagnóstico siempre se hace en médula ósea."
+  },
+  {
+    "id": "hem-03",
+    "especialidad": "Hematología",
+    "tema": "Hemofilias A y B",
+    "caso": "Varón de 2 años con aumento de volumen doloroso de la rodilla derecha tras una caída leve; un tío materno tiene \"problemas de sangrado\". T 36.8 °C, FC 110 lpm. Rodilla caliente, a tensión y con limitación de la movilidad. Plaquetas 280 000/μl, TP 12 s (normal), TTPa 78 s (control 32 s), tiempo de trombina normal. La prueba de mezcla con plasma normal corrige el TTPa.",
+    "pregunta": "¿Cuál es el siguiente estudio para establecer el diagnóstico?",
+    "opciones": {
+      "A": "Tiempo de sangrado",
+      "B": "Aspirado de médula ósea",
+      "C": "Dosificación de factores VIII y IX",
+      "D": "Búsqueda de anticoagulante lúpico"
+    },
+    "correcta": "C",
+    "explicacion": "Hemartrosis en un varón con TTPa aislado prolongado que corrige con la mezcla (deficiencia, no inhibidor) y herencia ligada al X: hemofilia. Se dosifican factores VIII y IX para saber si es A o B y qué tan grave es.",
+    "distractores": {
+      "A": "El tiempo de sangrado evalúa la función plaquetaria y es normal en hemofilia.",
+      "B": "No hay datos de falla medular; las plaquetas son normales.",
+      "D": "El anticoagulante lúpico es un inhibidor: la mezcla no corregiría el TTPa."
+    },
+    "perla": "TTPa largo que corrige con la mezcla = deficiencia de factor; que no corrige = inhibidor."
+  },
+  {
+    "id": "hem-04",
+    "especialidad": "Hematología",
+    "tema": "Linfoma de Hodgkin (LH)",
+    "caso": "A 22-year-old woman has had a painless, rubbery left supraclavicular lymph node for 2 months, along with night sweats and generalized pruritus. T 37.8 °C, HR 92 bpm. Chest X-ray shows an anterior mediastinal mass. An excisional lymph node biopsy shows fibrous bands dividing the node into nodules and lacunar cells; the Reed-Sternberg cells are CD15+ and CD30+.",
+    "pregunta": "What is the most likely histologic subtype?",
+    "opciones": {
+      "A": "Mixed cellularity",
+      "B": "Lymphocyte-depleted",
+      "C": "Nodular lymphocyte-predominant",
+      "D": "Nodular sclerosis"
+    },
+    "correcta": "D",
+    "explicacion": "Mujer joven con masa mediastinal, bandas de fibrosis y células lacunares: linfoma de Hodgkin esclerosis nodular, el subtipo más común (~70%).",
+    "distractores": {
+      "A": "La celularidad mixta predomina en niños, adultos mayores y VIH, se asocia a VEB y no da bandas fibrosas.",
+      "B": "La depleción linfocitaria es rara, afecta a ancianos o a pacientes con VIH y tiene el peor pronóstico.",
+      "C": "El predominio linfocítico nodular tiene células en palomita CD20+ y CD15−/CD30−."
+    },
+    "perla": "Hodgkin en mujer joven con masa mediastinal = esclerosis nodular."
+  },
+  {
+    "id": "hem-05",
+    "especialidad": "Hematología",
+    "tema": "Talasemias",
+    "caso": "Hombre de 24 años de ascendencia italiana, asintomático, con anemia leve en un examen preempleo. Ha tomado sulfato ferroso 3 meses sin mejoría. FC 76 lpm, TA 118/70 mmHg, sin esplenomegalia. Hb 11.2 g/dl, VCM 62 fl, eritrocitos 5.9 millones/μl, RDW normal, ferritina 180 ng/ml. El frotis muestra dianocitos y punteado basófilo.",
+    "pregunta": "¿Qué estudio confirma el diagnóstico más probable?",
+    "opciones": {
+      "A": "Electroforesis de hemoglobina",
+      "B": "Aspirado de médula ósea con tinción de Perls",
+      "C": "Prueba de Coombs directa",
+      "D": "Curva de fragilidad osmótica"
+    },
+    "correcta": "A",
+    "explicacion": "Anemia microcítica con eritrocitos altos (índice de Mentzer ≈10.5, <13), ferritina normal y sin respuesta al hierro: rasgo β-talasémico. La electroforesis de Hb muestra HbA2 >3.5% y confirma.",
+    "distractores": {
+      "B": "El aspirado es invasivo e innecesario; la ferritina ya descarta ferropenia.",
+      "C": "El Coombs estudia hemólisis autoinmune, que no cuadra con microcitosis y dianocitos.",
+      "D": "La fragilidad osmótica se usa en esferocitosis (anemia normocítica con esferocitos)."
+    },
+    "perla": "Microcitosis que no responde a hierro con ferritina normal = talasemia; no des más hierro."
+  },
+  {
+    "id": "hem-06",
+    "especialidad": "Hematología",
+    "tema": "Enfermedad de von Willebrand (EvW)",
+    "caso": "Mujer de 23 años con menstruaciones abundantes desde la menarca, epistaxis frecuentes y sangrado prolongado tras extracciones dentales; su madre tiene síntomas parecidos. Requiere extracción de un tercer molar. TA 112/70 mmHg, FC 80 lpm. Plaquetas 260 000/μl, TP normal, TTPa 38 s (ligeramente prolongado), PFA-100 prolongado. Antígeno de FvW 28 UI/dl, actividad de FvW 25 UI/dl, multímeros normales.",
+    "pregunta": "¿Cuál es el tratamiento más adecuado antes del procedimiento?",
+    "opciones": {
+      "A": "Transfusión de plaquetas",
+      "B": "Desmopresina, con ácido tranexámico como complemento",
+      "C": "Plasma fresco congelado",
+      "D": "Concentrado de factor IX"
+    },
+    "correcta": "B",
+    "explicacion": "Enfermedad de von Willebrand tipo 1 (déficit cuantitativo con multímeros normales, herencia AD). Para cirugía menor o sangrado mucoso, la desmopresina (libera FvW endotelial) es de elección, más un antifibrinolítico.",
+    "distractores": {
+      "A": "Las plaquetas son normales; el problema es el FvW, no el número de plaquetas.",
+      "C": "El plasma aporta poco FvW y arriesga sobrecarga; hay opciones específicas.",
+      "D": "El factor IX corresponde a la hemofilia B."
+    },
+    "perla": "EvW tipo 1: desmopresina; tipo 2B: desmopresina contraindicada; tipo 3: concentrado de FvW."
+  },
+  {
+    "id": "hem-07",
+    "especialidad": "Hematología",
+    "tema": "Púrpura de Henoch-Schönlein (vasculitis por IgA)",
+    "caso": "Niño de 6 años que 2 semanas después de una faringitis presenta lesiones purpúricas palpables en piernas y glúteos, dolor en tobillos y dolor abdominal cólico. T 37.2 °C, TA 104/64 mmHg. Plaquetas 380 000/μl, TP y TTPa normales. EGO con 10–15 eritrocitos por campo y proteinuria 1+. Creatinina normal.",
+    "pregunta": "¿Cuál es el principal determinante del pronóstico a largo plazo?",
+    "opciones": {
+      "A": "La extensión de la púrpura",
+      "B": "La afección articular",
+      "C": "La afección renal",
+      "D": "La cifra de IgA sérica"
+    },
+    "correcta": "C",
+    "explicacion": "Vasculitis por IgA (púrpura palpable, artralgias, dolor abdominal, plaquetas normales). La nefritis es el principal factor pronóstico, por lo que se vigilan EGO y TA durante 6–12 meses.",
+    "distractores": {
+      "A": "La púrpura se presenta en todos los casos y se resuelve sin secuelas.",
+      "B": "La artritis es transitoria y no deja deformidad.",
+      "D": "La IgA sérica está alta solo en la mitad de los casos y no predice la evolución."
+    },
+    "perla": "Henoch-Schönlein: la piel da el diagnóstico, el riñón da el pronóstico."
+  },
+  {
+    "id": "hem-08",
+    "especialidad": "Hematología",
+    "tema": "Neoplasias mieloproliferativas (NMP) Filadelfia negativas",
+    "caso": "Hombre de 52 años, no fumador, con cefalea, plétora facial y prurito intenso después de bañarse con agua caliente. Sin antecedentes de trombosis. TA 146/88 mmHg, FC 80 lpm, esplenomegalia a 3 cm del reborde costal. Hb 19.6 g/dl, Hto 59%, leucocitos 12 800/μl, plaquetas 520 000/μl. Saturación de O₂ 97%. EPO sérica baja; JAK2 V617F positivo.",
+    "pregunta": "¿Cuál es el tratamiento inicial más adecuado?",
+    "opciones": {
+      "A": "Hidroxiurea como monoterapia",
+      "B": "Ruxolitinib",
+      "C": "Trasplante alogénico de células hematopoyéticas",
+      "D": "Flebotomías hasta Hto <45% más aspirina a dosis baja"
+    },
+    "correcta": "D",
+    "explicacion": "Policitemia vera (JAK2+, EPO baja, prurito acuagénico) de bajo riesgo: menor de 60 años y sin trombosis previa. El tratamiento es flebotomía con meta de Hto <45% y aspirina 100 mg/día.",
+    "distractores": {
+      "A": "La citorreducción con hidroxiurea se añade en alto riesgo (>60 años o trombosis previa) y no reemplaza la flebotomía.",
+      "B": "El ruxolitinib se reserva para PV resistente o intolerante a hidroxiurea, o para mielofibrosis.",
+      "C": "El trasplante alogénico se considera en mielofibrosis de alto riesgo, no en PV de bajo riesgo."
+    },
+    "perla": "PV: flebotomía (Hto <45%) + aspirina a todos; citorreducción si >60 años o trombosis previa."
+  },
+  {
+    "id": "hem-09",
+    "especialidad": "Hematología",
+    "tema": "Trombocitopenia inmune primaria (PTI)",
+    "caso": "Niña de 5 años, previamente sana, que 2 semanas después de una infección de vías respiratorias altas presenta petequias y equimosis en extremidades, sin otro sangrado. Está afebril, FC 96 lpm, sin adenopatías ni visceromegalias. Plaquetas 18 000/μl, Hb 12.6 g/dl, leucocitos 7 400/μl con diferencial normal. El frotis confirma trombocitopenia aislada con plaquetas grandes, sin blastos.",
+    "pregunta": "¿Cuál es el manejo más adecuado?",
+    "opciones": {
+      "A": "Observación y vigilancia clínica con educación a los padres",
+      "B": "Transfusión de plaquetas",
+      "C": "Aspirado de médula ósea antes de decidir",
+      "D": "Esplenectomía"
+    },
+    "correcta": "A",
+    "explicacion": "PTI infantil posviral con sangrado solo cutáneo. Las guías ASH 2019 prefieren observación aunque las plaquetas estén bajas, porque la mayoría remite sola. Esteroide o IgIV se reservan para sangrado mucoso o importante.",
+    "distractores": {
+      "B": "Las plaquetas transfundidas se destruyen rápido; solo se usan en sangrado grave.",
+      "C": "El aspirado se indica con datos atípicos (citopenias en otras series, visceromegalias), mala respuesta o >60 años.",
+      "D": "La esplenectomía es para PTI crónica refractaria en adultos y se difiere al menos 12 meses."
+    },
+    "perla": "Niño con petequias tras una viriasis y solo trombocitopenia: PTI; con sangrado leve, observa."
+  },
+  {
+    "id": "hem-10",
+    "especialidad": "Hematología",
+    "tema": "Neoplasias mieloproliferativas (NMP) Filadelfia negativas",
+    "caso": "Hombre de 66 años con 6 meses de astenia, saciedad temprana, sudoración nocturna y pérdida de 8 kg. T 37.4 °C, FC 94 lpm. El bazo llega a la fosa ilíaca izquierda. Hb 8.4 g/dl, leucocitos 14 000/μl, plaquetas 190 000/μl, LDH 820 U/L. El frotis muestra dacriocitos, mielocitos y eritroblastos circulantes. El aspirado de médula es \"seco\" y la biopsia muestra fibrosis reticulínica extensa con megacariocitos atípicos. JAK2 V617F positivo, BCR-ABL negativo.",
+    "pregunta": "¿Cuál es el diagnóstico más probable?",
+    "opciones": {
+      "A": "Leucemia mieloide crónica",
+      "B": "Mielofibrosis primaria",
+      "C": "Policitemia vera",
+      "D": "Tricoleucemia"
+    },
+    "correcta": "B",
+    "explicacion": "Esplenomegalia masiva, anemia, reacción leucoeritroblástica con dacriocitos, aspirado seco y fibrosis medular con JAK2+ = mielofibrosis primaria, la NMP de peor pronóstico.",
+    "distractores": {
+      "A": "La LMC tiene BCR-ABL (Filadelfia), negativo aquí, con leucocitosis marcada y basofilia.",
+      "C": "La PV cursa con eritrocitosis, no con anemia y fibrosis.",
+      "D": "La tricoleucemia también da aspirado seco y esplenomegalia, pero con pancitopenia, monocitopenia y linfocitos vellosos, no JAK2."
+    },
+    "perla": "Dacriocitos + aspirado seco + esplenomegalia masiva = mielofibrosis."
+  },
+  {
+    "id": "der-01",
+    "especialidad": "Dermatología",
+    "tema": "Acné",
+    "caso": "Hombre de 17 años con acné desde hace 3 años. Ha usado adapaleno con peróxido de benzoilo y 4 meses de doxiciclina sin mejoría. Signos vitales normales. En cara, espalda y tórax tiene múltiples nódulos y quistes inflamatorios dolorosos, algunos comunicados por trayectos, y cicatrices atróficas. Sin fiebre ni artralgias. TG 110 mg/dl, ALT normal.",
+    "pregunta": "¿Cuál es el tratamiento de elección?",
+    "opciones": {
+      "A": "Cambiar a minociclina oral por 6 meses más",
+      "B": "Isotretinoína oral",
+      "C": "Clindamicina tópica como monoterapia",
+      "D": "Prednisona oral por tiempo prolongado"
+    },
+    "correcta": "B",
+    "explicacion": "Acné nodulo-quístico o conglobata grave, resistente a antibiótico oral y tópicos, con cicatrices: la isotretinoína oral es de elección. Hay que vigilar lípidos y enzimas hepáticas, y en mujeres se exigen dos métodos anticonceptivos.",
+    "distractores": {
+      "A": "Alargar el antibiótico oral fomenta resistencias; las guías lo limitan a ~3–4 meses.",
+      "C": "El antibiótico tópico solo genera resistencia y no alcanza lesiones nodulares.",
+      "D": "El esteroide sistémico breve se usa en acné fulminans (con fiebre y artralgias); de forma prolongada induce acné."
+    },
+    "perla": "Acné nodular/conglobata o refractario con cicatrices = isotretinoína; no la combines con tetraciclinas."
+  },
+  {
+    "id": "der-02",
+    "especialidad": "Dermatología",
+    "tema": "Psoriasis",
+    "caso": "A 35-year-old man with a 10-year history of well-demarcated, erythematous plaques covered by silvery scale on the elbows, knees, scalp and sacral area presents with a flare affecting 15% of his body surface. Vital signs are normal. Nails show pitting. Gentle scraping of a plaque produces pinpoint bleeding. Labs: normal liver function tests and creatinine.",
+    "pregunta": "Which treatment should be avoided in this patient?",
+    "opciones": {
+      "A": "Narrowband UVB phototherapy",
+      "B": "Methotrexate",
+      "C": "Systemic corticosteroids",
+      "D": "Topical calcipotriol combined with a topical corticosteroid"
+    },
+    "correcta": "C",
+    "explicacion": "Psoriasis en placas (signo de Auspitz, piqueteado ungueal). Los esteroides sistémicos no se deben usar: al retirarlos provocan rebote con psoriasis pustulosa generalizada o eritrodérmica.",
+    "distractores": {
+      "A": "La fototerapia UVB de banda estrecha es tratamiento de primera línea en la enfermedad moderada-grave.",
+      "B": "El metotrexato es un sistémico clásico en la psoriasis moderada-grave.",
+      "D": "El calcipotriol con esteroide tópico es útil en las placas localizadas."
+    },
+    "perla": "Psoriasis: nunca esteroides sistémicos (rebote pustuloso)."
+  },
+  {
+    "id": "der-03",
+    "especialidad": "Dermatología",
+    "tema": "Síndrome de Stevens-Johnson (SSJ) y necrólisis epidérmica tóxica (NET)",
+    "caso": "Mujer de 45 años que inició carbamazepina hace 3 semanas por neuralgia del trigémino. Tras 3 días de fiebre y ardor ocular presenta máculas purpúricas confluentes con ampollas flácidas y desprendimiento de 35% de la superficie corporal, con Nikolsky positivo, erosiones orales y conjuntivitis con seudomembranas. T 38.9 °C, FC 124 lpm, TA 100/64 mmHg. BUN 32 mg/dl, HCO₃ 18 mEq/L.",
+    "pregunta": "¿Cuál es la medida más importante que debe tomarse primero?",
+    "opciones": {
+      "A": "Suspender de inmediato la carbamazepina",
+      "B": "Iniciar antibiótico profiláctico de amplio espectro",
+      "C": "Administrar prednisona 1 mg/kg/día",
+      "D": "Realizar biopsia de piel antes de cualquier otra medida"
+    },
+    "correcta": "A",
+    "explicacion": "Necrólisis epidérmica tóxica (>30% de desprendimiento) por anticonvulsivo aromático. Lo primero es retirar el fármaco culpable, lo que mejora el pronóstico, y trasladar a UCI o unidad de quemados.",
+    "distractores": {
+      "B": "Los antibióticos se dan guiados por cultivos, no de forma profiláctica.",
+      "C": "Los esteroides sistémicos son controvertidos y no son lo prioritario; hoy se prefieren ciclosporina o etanercept.",
+      "D": "La biopsia confirma, pero no debe retrasar la suspensión del fármaco ni el soporte."
+    },
+    "perla": "SSJ/NET: lo primero es suspender el fármaco y luego trasladar a unidad de quemados."
+  },
+  {
+    "id": "der-04",
+    "especialidad": "Dermatología",
+    "tema": "Melanoma cutáneo",
+    "caso": "Hombre de 58 años, originario de Oaxaca, con una mancha en la planta del pie izquierdo que ha crecido en el último año. Signos vitales normales. En el talón hay una mácula de 14 mm, asimétrica, de bordes irregulares, con tonos café, negro y azul grisáceo, y un área central discretamente elevada. No se palpan adenopatías inguinales. La dermatoscopia muestra un patrón de crestas paralelas.",
+    "pregunta": "¿Cuál es el estudio estándar de oro para el diagnóstico?",
+    "opciones": {
+      "A": "Biopsia por rasurado superficial",
+      "B": "Tomografía por emisión de positrones",
+      "C": "Citología por raspado",
+      "D": "Biopsia excisional con margen de 1–3 mm"
+    },
+    "correcta": "D",
+    "explicacion": "Probable melanoma lentiginoso acral, el más frecuente en población mexicana. La biopsia excisional con margen estrecho es el estándar de oro, porque permite medir el espesor de Breslow, que define el margen definitivo y la indicación de ganglio centinela.",
+    "distractores": {
+      "A": "El rasurado puede cortar la base y no permite medir el Breslow.",
+      "B": "El PET se usa para estadificar la enfermedad avanzada, no para el diagnóstico.",
+      "C": "La citología no da información de arquitectura ni de profundidad."
+    },
+    "perla": "Lesión pigmentada sospechosa: biopsia excisional con 1–3 mm; el Breslow manda."
+  },
+  {
+    "id": "der-05",
+    "especialidad": "Dermatología",
+    "tema": "Dermatitis atópica (DA)",
+    "caso": "Niña de 7 años con asma y rinitis alérgica, con prurito intenso crónico. Signos vitales normales. Presenta placas eritematosas liquenificadas en fosas antecubitales y poplíteas, y eccema en ambos párpados, con pliegue de Dennie-Morgan y xerosis generalizada. IgE sérica 820 UI/ml. La madre ya usa emolientes a diario y pregunta qué aplicar en los párpados.",
+    "pregunta": "¿Cuál es el tratamiento tópico más adecuado para los párpados?",
+    "opciones": {
+      "A": "Clobetasol 0.05% en ungüento por 4 semanas",
+      "B": "Tacrolimus tópico 0.03%",
+      "C": "Ketoconazol crema 2%",
+      "D": "Neomicina tópica"
+    },
+    "correcta": "B",
+    "explicacion": "Dermatitis atópica escolar (pliegues de flexión, atopia, Dennie-Morgan). En cara y párpados se prefieren los inhibidores tópicos de calcineurina (tacrolimus, pimecrolimus) porque no atrofian la piel.",
+    "distractores": {
+      "A": "El esteroide de alta potencia en párpados provoca atrofia, glaucoma y cataratas.",
+      "C": "El ketoconazol trata la dermatitis seborreica (Malassezia), no la atópica.",
+      "D": "La neomicina no trata el eccema y es un alérgeno de contacto frecuente."
+    },
+    "perla": "Dermatitis atópica en cara o párpados: inhibidor de calcineurina, no esteroide potente."
+  },
+  {
+    "id": "der-06",
+    "especialidad": "Dermatología",
+    "tema": "Carcinoma basocelular (CBC) y espinocelular (CEC)",
+    "caso": "Mujer de 68 años, campesina con exposición solar crónica, fototipo III. Consulta por una lesión en el ala nasal derecha que crece lentamente desde hace 2 años y a veces sangra. Signos vitales normales. Hay una pápula de 8 mm, perlada y translúcida, con bordes enrollados, telangiectasias arboriformes y una ulceración central con costra. No hay adenopatías cervicales.",
+    "pregunta": "¿Cuál es el diagnóstico más probable?",
+    "opciones": {
+      "A": "Queratosis actínica",
+      "B": "Carcinoma espinocelular",
+      "C": "Carcinoma basocelular",
+      "D": "Queratoacantoma"
+    },
+    "correcta": "C",
+    "explicacion": "Pápula perlada con bordes enrollados y telangiectasias arboriformes en el centro de la cara, de crecimiento lento y con ulceración (úlcera roedora): carcinoma basocelular nodular. Por estar en zona H y medir ≥6 mm es de alto riesgo, candidato a Mohs.",
+    "distractores": {
+      "A": "La queratosis actínica es una mácula o placa áspera y escamosa, no perlada.",
+      "B": "El CEC es queratósico, crece más rápido, predomina en labio inferior, orejas y dorso de manos, y no es perlado.",
+      "D": "El queratoacantoma crece en semanas y tiene un cráter central lleno de queratina."
+    },
+    "perla": "Perlado + telangiectasias + centro de la cara = basocelular; casi nunca da metástasis."
+  },
+  {
+    "id": "der-07",
+    "especialidad": "Dermatología",
+    "tema": "Tiñas (dermatofitosis)",
+    "caso": "Niño de 6 años, 20 kg, con 5 semanas de una placa redonda de alopecia en la región parietal, con descamación fina y pelos cortos rotos a la misma altura. Tiene un gato cachorro. Afebril y sin adenopatías. Con lámpara de Wood la placa muestra fluorescencia verde brillante. El examen directo con KOH muestra esporas ectotrix y el cultivo en Sabouraud informa Microsporum canis.",
+    "pregunta": "¿Cuál es el tratamiento de elección?",
+    "opciones": {
+      "A": "Ketoconazol champú como monoterapia",
+      "B": "Terbinafina tópica por 4 semanas",
+      "C": "Esteroide tópico de mediana potencia",
+      "D": "Griseofulvina oral por 6–8 semanas"
+    },
+    "correcta": "D",
+    "explicacion": "Tiña de la cabeza microspórica por M. canis (zoofílica, fluorescencia verde). Siempre requiere tratamiento sistémico; para Microsporum la griseofulvina (20–25 mg/kg/día, 6–8 semanas) es más eficaz que la terbinafina.",
+    "distractores": {
+      "A": "El champú solo reduce el contagio como complemento; no cura la tiña de la cabeza.",
+      "B": "Los tópicos no penetran el folículo; la tiña de la cabeza no responde a tratamiento tópico solo.",
+      "C": "El esteroide tópico en una tiña la enmascara y la empeora (tiña incógnito)."
+    },
+    "perla": "Tiña de la cabeza: siempre oral; griseofulvina para Microsporum, terbinafina para Trichophyton."
+  },
+  {
+    "id": "der-08",
+    "especialidad": "Dermatología",
+    "tema": "Liquen plano",
+    "caso": "Mujer de 48 años con 2 meses de pápulas muy pruriginosas, planas, poligonales y violáceas en la cara anterior de ambas muñecas y en los tobillos. Algunas siguen el trayecto de rascado. Signos vitales normales. Al aplicar aceite se ven líneas blanquecinas finas en su superficie, y en la mucosa yugal hay un retículo blanco asintomático. ALT 88 U/L; antecedente de transfusión en 1990.",
+    "pregunta": "Además de la biopsia, ¿qué estudio debe solicitarse?",
+    "opciones": {
+      "A": "Serología para virus de la hepatitis C",
+      "B": "Anticuerpos anticentrómero",
+      "C": "Prueba de parche",
+      "D": "Cultivo de escama en Sabouraud"
+    },
+    "correcta": "A",
+    "explicacion": "Pápulas planas, poligonales, púrpuras y pruriginosas con estrías de Wickham, Koebner y afección oral = liquen plano. Se asocia clásicamente al VHC; aquí además hay transfusión previa y ALT elevada.",
+    "distractores": {
+      "B": "Los anticentrómero sirven en la esclerosis sistémica limitada (CREST).",
+      "C": "La prueba de parche estudia la dermatitis por contacto alérgica; solo cabría ante sospecha de reacción liquenoide a metales.",
+      "D": "El cultivo micológico es para las tiñas, cuyas placas son anulares y descamativas."
+    },
+    "perla": "Liquen plano (sobre todo el oral): pide siempre serología para VHC."
+  },
+  {
+    "id": "der-09",
+    "especialidad": "Dermatología",
+    "tema": "Esclerodermia localizada (morfea) y sistémica",
+    "caso": "Mujer de 42 años con 8 meses de engrosamiento cutáneo que avanzó rápido desde los dedos hasta brazos y tronco; el Raynaud comenzó casi al mismo tiempo. Acude por cefalea y visión borrosa. TA 198/118 mmHg, FC 92 lpm. Creatinina 2.4 mg/dl (0.8 hace 2 meses), esquistocitos en el frotis. Anticuerpos anti-RNA polimerasa III positivos. Hace 3 semanas inició prednisona 40 mg/día por artralgias.",
+    "pregunta": "¿Cuál es el tratamiento de elección?",
+    "opciones": {
+      "A": "Nifedipino",
+      "B": "Metilprednisolona en pulsos",
+      "C": "Captopril",
+      "D": "Ciclofosfamida IV"
+    },
+    "correcta": "C",
+    "explicacion": "Crisis renal esclerodérmica (HTA maligna + falla renal + anemia microangiopática) en esclerosis sistémica difusa con anti-RNA polimerasa III, precipitada por esteroides a dosis altas. Los IECA (captopril, titulado) son el tratamiento de elección y cambiaron el pronóstico.",
+    "distractores": {
+      "A": "El nifedipino es para el Raynaud; puede usarse como adyuvante, pero no sustituye al IECA.",
+      "B": "Los esteroides a dosis altas precipitan la crisis renal; hay que evitarlos.",
+      "D": "La ciclofosfamida está indicada en la enfermedad pulmonar intersticial, no en la crisis renal."
+    },
+    "perla": "Crisis renal esclerodérmica: IECA (captopril) y evitar esteroides a dosis altas."
+  },
+  {
+    "id": "der-10",
+    "especialidad": "Dermatología",
+    "tema": "Dermatitis por contacto",
+    "caso": "Mujer de 29 años con 3 semanas de una placa eccematosa muy pruriginosa, con vesículas y costras, en la región periumbilical, justo donde apoya la hebilla metálica de su pantalón. Antes tuvo reacciones con aretes de fantasía. Signos vitales normales. No tiene antecedentes de atopia. El examen con KOH de la escama es negativo.",
+    "pregunta": "¿Cuál es el estudio indicado para confirmar la causa?",
+    "opciones": {
+      "A": "Biopsia de piel con inmunofluorescencia directa",
+      "B": "Pruebas epicutáneas (parche) con lectura a 48 y 72–96 horas",
+      "C": "IgE sérica total",
+      "D": "Prueba intradérmica de lectura inmediata"
+    },
+    "correcta": "B",
+    "explicacion": "Dermatitis por contacto alérgica (hipersensibilidad tipo IV) al níquel, el alérgeno más común. Las pruebas del parche son el estándar para identificar el alérgeno; el pilar del tratamiento es evitarlo.",
+    "distractores": {
+      "A": "La biopsia muestra espongiosis inespecífica y la IFD sirve en las enfermedades ampollosas autoinmunes.",
+      "C": "La IgE mide atopia o hipersensibilidad tipo I, no la tipo IV.",
+      "D": "Las pruebas de lectura inmediata exploran reacciones mediadas por IgE (urticaria de contacto), no el eccema retardado."
+    },
+    "perla": "Eccema en el sitio de la hebilla, los aretes o el reloj = níquel; se confirma con prueba del parche."
+  }
+]

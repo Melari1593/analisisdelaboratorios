@@ -1,0 +1,506 @@
+[
+  {
+    "id": "neu-01",
+    "especialidad": "Neurología",
+    "tema": "Epilepsia",
+    "caso": "Hombre de 16 años al que su madre lleva a consulta porque desde hace unas semanas tiene sacudidas bruscas de ambos brazos poco después de despertar; varias veces ha tirado la taza del desayuno. Ayer, tras desvelarse en una fiesta, presentó una crisis tonicoclónica generalizada. Sin antecedentes perinatales relevantes. TA 118/72 mmHg, FC 76 lpm. Exploración neurológica normal. RM de cráneo normal; EEG con descargas generalizadas de polipunta-onda a 5 Hz.",
+    "pregunta": "¿Cuál es el fármaco de elección?",
+    "opciones": {
+      "A": "Valproato",
+      "B": "Carbamacepina",
+      "C": "Etosuximida",
+      "D": "Fenitoína"
+    },
+    "correcta": "A",
+    "explicacion": "Mioclonías matutinas en un adolescente, desencadenadas por desvelo, con crisis tonicoclónica y polipunta-onda generalizada de 4–6 Hz: epilepsia mioclónica juvenil (Janz). En un varón el fármaco de elección es valproato, y el tratamiento suele ser de por vida.",
+    "distractores": {
+      "B": "La carbamacepina es para crisis focales y empeora las mioclonías y las ausencias.",
+      "C": "La etosuximida sólo controla ausencias; no cubre mioclonías ni crisis tonicoclónicas.",
+      "D": "La fenitoína, igual que la carbamacepina, agrava las mioclonías."
+    },
+    "perla": "Janz recae en ~90 % al suspender; en mujer en edad fértil se prefiere lamotrigina o levetiracetam en lugar de valproato."
+  },
+  {
+    "id": "neu-02",
+    "especialidad": "Neurología",
+    "tema": "Estado epiléptico (EE)",
+    "caso": "Mujer de 34 años con epilepsia conocida que dejó su medicamento hace un mes. Llega a urgencias con una crisis tonicoclónica generalizada de 12 minutos de duración. Se aseguró la vía aérea y la glucosa capilar es de 104 mg/dl. Recibió dos dosis de lorazepam 4 mg IV con 5 minutos de intervalo y la actividad convulsiva persiste. TA 150/90 mmHg, FC 118 lpm, SatO2 93 % con oxígeno.",
+    "pregunta": "¿Cuál es el siguiente paso en el tratamiento?",
+    "opciones": {
+      "A": "Administrar una tercera dosis de lorazepam",
+      "B": "Carga IV de levetiracetam (o fosfenitoína o valproato)",
+      "C": "Intubación e infusión de propofol",
+      "D": "Esperar los niveles séricos del antiepiléptico antes de decidir"
+    },
+    "correcta": "B",
+    "explicacion": "Si la crisis sigue después de la benzodiacepina, toca un antiepiléptico IV de segunda línea. Según el ensayo ESETT, levetiracetam, fosfenitoína y valproato tienen eficacia similar; el levetiracetam se usa cada vez más.",
+    "distractores": {
+      "A": "Las guías limitan la benzodiacepina a dos dosis; más dosis aumentan la depresión respiratoria sin mejor control.",
+      "C": "Propofol o midazolam en infusión se reservan para el estado refractario, es decir, cuando fallan la benzodiacepina y un segundo fármaco IV.",
+      "D": "El diagnóstico se hace en paralelo al tratamiento; no se retrasa el fármaco esperando laboratorios."
+    },
+    "perla": "El estado epiléptico se trata desde los 5 minutos: primero benzodiacepina y después un fármaco IV de segunda línea."
+  },
+  {
+    "id": "neu-03",
+    "especialidad": "Neurología",
+    "tema": "Demencias / enfermedad de Alzheimer",
+    "caso": "Mujer de 74 años a quien su hija trae por 18 meses de olvidos progresivos: repite las mismas preguntas y una vez se perdió al regresar del mercado. Todavía se baña y se viste sola. No hay fluctuaciones, alucinaciones ni parkinsonismo. TA 132/78 mmHg, FC 70 lpm. MoCA 19/30. TSH 2.1 mUI/l, B12 480 pg/ml, VDRL no reactivo. RM de cráneo con atrofia hipocampal bilateral.",
+    "pregunta": "¿Cuál es el tratamiento farmacológico inicial más adecuado?",
+    "opciones": {
+      "A": "Memantina en monoterapia",
+      "B": "Haloperidol a dosis bajas",
+      "C": "Donepecilo",
+      "D": "Lecanemab sin estudios adicionales"
+    },
+    "correcta": "C",
+    "explicacion": "Es un Alzheimer probable en etapa leve, porque ya se descartaron las causas reversibles. En etapa leve a moderada se empieza con un inhibidor de acetilcolinesterasa: donepecilo, rivastigmina o galantamina.",
+    "distractores": {
+      "A": "La memantina, antagonista NMDA, se indica en demencia moderada a grave.",
+      "B": "No hay síntomas conductuales; además, los antipsicóticos se usan con cautela y después de las medidas no farmacológicas.",
+      "D": "Los anti-amiloide requieren amiloide confirmado por LCR o PET y vigilancia de ARIA; no se inician sólo con la clínica."
+    },
+    "perla": "Antes de diagnosticar Alzheimer, descarta hipotiroidismo, déficit de B12, sífilis, hidrocefalia normotensa y depresión."
+  },
+  {
+    "id": "neu-04",
+    "especialidad": "Neurología",
+    "tema": "Enfermedad de Parkinson",
+    "caso": "Hombre de 71 años con enfermedad de Parkinson de 9 años de evolución, tratado con levodopa/carbidopa. Desde hace 2 meses ve por las noches niños jugando en la sala; al principio reconoce que no son reales, pero cada vez le angustian más. Sin fiebre ni cambios en el estado de alerta. TA 128/70 mmHg, FC 74 lpm. Glucosa 98 mg/dl, EGO normal, sodio 139 mEq/l. Ya se retiraron el trihexifenidilo y la amantadina, y las alucinaciones persisten.",
+    "pregunta": "¿Cuál es el manejo más adecuado?",
+    "opciones": {
+      "A": "Haloperidol",
+      "B": "Suspender la levodopa de forma abrupta",
+      "C": "Aumentar la dosis de levodopa",
+      "D": "Quetiapina a dosis bajas"
+    },
+    "correcta": "D",
+    "explicacion": "Las alucinaciones son frecuentes en la enfermedad de Parkinson avanzada. Si persisten tras retirar los fármacos que las favorecen, se usa un antipsicótico con poco bloqueo D2 (quetiapina o clozapina), que no empeora el parkinsonismo.",
+    "distractores": {
+      "A": "El haloperidol bloquea D2 con potencia y empeora mucho el parkinsonismo.",
+      "B": "Suspender la levodopa de golpe puede provocar un cuadro parecido al síndrome neuroléptico maligno y deja al paciente rígido.",
+      "C": "Una dosis mayor de dopaminérgico suele empeorar las alucinaciones."
+    },
+    "perla": "Alucinaciones en Parkinson: quetiapina o clozapina, nunca haloperidol."
+  },
+  {
+    "id": "neu-05",
+    "especialidad": "Neurología",
+    "tema": "Enfermedad vascular cerebral (EVC)",
+    "caso": "Hombre de 66 años, hipertenso, con fibrilación auricular sin anticoagulación. Hace 90 minutos su esposa lo encontró con la boca desviada, sin poder mover el brazo y la pierna derechos y sin poder hablar. TA 172/96 mmHg, FC 98 lpm irregular, SatO2 95 %. Glucosa capilar 112 mg/dl. NIHSS 14 con afasia global y hemiparesia derecha.",
+    "pregunta": "¿Cuál es el estudio inicial indicado?",
+    "opciones": {
+      "A": "TC simple de cráneo urgente",
+      "B": "RM de encéfalo con secuencia de difusión",
+      "C": "Angiografía cerebral por sustracción digital",
+      "D": "Punción lumbar"
+    },
+    "correcta": "A",
+    "explicacion": "Ante un déficit focal súbito dentro de la ventana terapéutica, el primer estudio es la TC simple de cráneo. Es rápida y descarta hemorragia antes de decidir trombólisis o trombectomía.",
+    "distractores": {
+      "B": "La RM con difusión es más sensible para la isquemia temprana, pero tarda más y está menos disponible; no es el primer estudio en urgencias.",
+      "C": "La angiografía es invasiva; se usa para el tratamiento endovascular una vez descartada la hemorragia.",
+      "D": "La punción lumbar no forma parte del abordaje de la EVC aguda y retrasa la reperfusión."
+    },
+    "perla": "EVC aguda: la TC simple va primero, antes de rtPA; revisa también glucosa y que la PA esté por debajo de 185/110."
+  },
+  {
+    "id": "neu-06",
+    "especialidad": "Neurología",
+    "tema": "Esclerosis lateral amiotrófica (ELA)",
+    "caso": "A 61-year-old man presents with 10 months of progressive weakness of his right hand, which later spread to the left leg, and recent slurred speech. He denies numbness, pain or bladder problems. On examination there is thenar atrophy, fasciculations in both arms and the tongue, brisk reflexes and bilateral Babinski signs; sensation and eye movements are normal. BP 128/76 mmHg, HR 80 bpm. CK 310 U/L. MRI of the cervical spine shows no cord compression.",
+    "pregunta": "What is the most likely diagnosis?",
+    "opciones": {
+      "A": "Cervical spondylotic myelopathy",
+      "B": "Amyotrophic lateral sclerosis",
+      "C": "Myasthenia gravis",
+      "D": "Guillain-Barré syndrome"
+    },
+    "correcta": "B",
+    "explicacion": "El paciente tiene signos de motoneurona inferior (atrofia, fasciculaciones) y de motoneurona superior (hiperreflexia, Babinski) en varias regiones (bulbar, cervical y lumbar). La sensibilidad, los esfínteres y los movimientos oculares están respetados. Es una ELA.",
+    "distractores": {
+      "A": "La mielopatía cervical es el diferencial clásico, pero da alteraciones sensitivas, no afecta la región bulbar y la RM mostraría compresión.",
+      "C": "La miastenia da debilidad fluctuante con ptosis y diplopía, sin atrofia, fasciculaciones ni signos piramidales.",
+      "D": "El Guillain-Barré es agudo (semanas), con arreflexia, no hiperreflexia."
+    },
+    "perla": "ELA = motoneurona superior + inferior sin alteración sensitiva; la VNI es lo que más prolonga la sobrevida."
+  },
+  {
+    "id": "neu-07",
+    "especialidad": "Neurología",
+    "tema": "Esclerosis múltiple (EM)",
+    "caso": "Mujer de 28 años con esclerosis múltiple remitente-recurrente en tratamiento con acetato de glatirámero. Desde hace 3 días tiene dolor al mover el ojo derecho y visión borrosa de ese ojo, que ha empeorado. Temperatura 36.6 °C, TA 110/70 mmHg, FC 72 lpm. Defecto pupilar aferente relativo derecho. BH normal y EGO sin leucocitos ni nitritos.",
+    "pregunta": "¿Cuál es el tratamiento de elección para este cuadro?",
+    "opciones": {
+      "A": "Plasmaféresis como primera medida",
+      "B": "Prednisona oral a dosis bajas",
+      "C": "Metilprednisolona IV 1 g/día por 3 a 5 días",
+      "D": "Cambiar a natalizumab sin tratar el evento agudo"
+    },
+    "correcta": "C",
+    "explicacion": "Es un brote de EM (neuritis óptica) de más de 24 horas, sin fiebre ni infección, es decir, no es un pseudobrote. El brote se trata con metilprednisolona IV a dosis altas.",
+    "distractores": {
+      "A": "La plasmaféresis se reserva para brotes graves que no responden a los esteroides.",
+      "B": "En neuritis óptica, la prednisona oral a dosis bajas no se recomienda y se asoció a más recurrencias.",
+      "D": "Escalar el modificador de la enfermedad puede considerarse después, pero no trata el brote actual."
+    },
+    "perla": "Antes de dar esteroides en un brote de EM, descarta fiebre o infección: un pseudobrote se trata tratando la infección."
+  },
+  {
+    "id": "neu-08",
+    "especialidad": "Neurología",
+    "tema": "Miastenia grave",
+    "caso": "Mujer de 31 años con 4 meses de párpado caído y visión doble que empeoran por la tarde y mejoran después de descansar; también se cansa al masticar. Pupilas, reflejos y sensibilidad normales. TA 116/74 mmHg, FC 72 lpm, capacidad vital normal. Anticuerpos anti-receptor de acetilcolina negativos. La estimulación nerviosa repetitiva no muestra decremento.",
+    "pregunta": "¿Cuál es el estudio más sensible para apoyar el diagnóstico?",
+    "opciones": {
+      "A": "Velocidades de conducción nerviosa",
+      "B": "Prueba de edrofonio (Tensilon)",
+      "C": "TC de tórax",
+      "D": "Electromiografía de fibra única"
+    },
+    "correcta": "D",
+    "explicacion": "Hay debilidad fluctuante oculobulbar, típica de la miastenia. Los anti-AChR son la prueba más específica, pero salen negativos en ~20 %. La EMG de fibra única, que mide el jitter, es la prueba más sensible.",
+    "distractores": {
+      "A": "Las velocidades de conducción valoran el nervio periférico y son normales en la miastenia.",
+      "B": "El edrofonio casi ya no está disponible y es menos sensible; en la ptosis se prefiere la prueba del hielo.",
+      "C": "La TC de tórax se pide en todo miasténico para buscar timoma, pero no confirma el diagnóstico."
+    },
+    "perla": "Miastenia: anti-AChR es la más específica y la fibra única la más sensible; siempre pide TC de tórax por timoma."
+  },
+  {
+    "id": "neu-09",
+    "especialidad": "Neurología",
+    "tema": "Síndrome de Guillain-Barré (polirradiculoneuropatía inflamatoria aguda)",
+    "caso": "Hombre de 42 años con diarrea hace 2 semanas. Desde hace 5 días tiene debilidad que empezó en los pies y ha subido; hoy ya no camina sin ayuda. Parestesias leves en los pies. Arreflexia generalizada y diplejía facial leve. La TA oscila entre 150/90 y 100/60 mmHg, FC 110 lpm, capacidad vital 28 ml/kg. LCR: proteínas 110 mg/dl y 3 células/mm³.",
+    "pregunta": "¿Cuál es el tratamiento de elección?",
+    "opciones": {
+      "A": "Inmunoglobulina IV 2 g/kg en total, repartida en 5 días",
+      "B": "Metilprednisolona IV a dosis altas",
+      "C": "Inmunoglobulina IV seguida de plasmaféresis",
+      "D": "Sólo observación y rehabilitación"
+    },
+    "correcta": "A",
+    "explicacion": "Hay debilidad ascendente, arreflexia y disociación albuminocitológica después de una infección gastrointestinal (C. jejuni): Guillain-Barré. Como no deambula y está en las primeras 4 semanas, se da IgIV o plasmaféresis, que tienen la misma eficacia, y se vigila en UCI.",
+    "distractores": {
+      "B": "Los esteroides no sirven en el Guillain-Barré; es una trampa clásica.",
+      "C": "Combinar IgIV y plasmaféresis no da más beneficio y la plasmaféresis retira la inmunoglobulina.",
+      "D": "Con Hughes 3–4 y disautonomía, la inmunoterapia está indicada; sólo observar sería insuficiente."
+    },
+    "perla": "Guillain-Barré: IgIV o plasmaféresis, nunca las dos juntas y nunca esteroides; vigila la capacidad vital."
+  },
+  {
+    "id": "neu-10",
+    "especialidad": "Neurología",
+    "tema": "Cefaleas trigeminoautonómicas (CTA)",
+    "caso": "Hombre de 35 años, fumador, que llega a urgencias a las 2 a.m. por tercera noche seguida con dolor intensísimo alrededor del ojo izquierdo, lagrimeo y rinorrea del mismo lado. No puede estar quieto y camina por la sala. Cada episodio dura unos 45 minutos. Hace un año tuvo un cuadro igual durante 6 semanas. TA 138/84 mmHg, FC 96 lpm, SatO2 97 %. Ptosis y miosis izquierdas; el resto de la exploración neurológica es normal.",
+    "pregunta": "¿Cuál es el tratamiento agudo inicial más adecuado?",
+    "opciones": {
+      "A": "Indometacina oral",
+      "B": "Oxígeno al 100 % con mascarilla a 7–12 l/min",
+      "C": "Carbamacepina oral",
+      "D": "Verapamilo oral"
+    },
+    "correcta": "B",
+    "explicacion": "Dolor orbitario unilateral de 15–180 minutos con signos autonómicos ipsilaterales, agitación y horario nocturno fijo, en racimos: cefalea en racimos. El tratamiento agudo es oxígeno al 100 % o sumatriptán 6 mg SC.",
+    "distractores": {
+      "A": "La respuesta absoluta a indometacina define la hemicránea paroxística y la hemicránea continua, no los racimos.",
+      "C": "La carbamacepina trata la neuralgia del trigémino, que da dolor de segundos en V2/V3 con zonas gatillo.",
+      "D": "El verapamilo es el preventivo de elección durante el racimo, no aborta la crisis aguda."
+    },
+    "perla": "Racimos en urgencias: primero oxígeno al 100 %; como preventivo, verapamilo con vigilancia del ECG."
+  },
+  {
+    "id": "neu-11",
+    "especialidad": "Neurología",
+    "tema": "Migraña",
+    "caso": "Mujer de 27 años con migraña con aura visual (escotoma centelleante) que tiene 5 a 6 crisis discapacitantes al mes a pesar de naproxeno y sumatriptán. Toma un anticonceptivo combinado con etinilestradiol y planea embarazarse en 2 años. En dos consultas su TA fue de 142/92 mmHg; FC 88 lpm, IMC 24. Prueba de embarazo negativa y exploración neurológica normal.",
+    "pregunta": "¿Cuál es la conducta más adecuada?",
+    "opciones": {
+      "A": "Iniciar valproato como profilaxis",
+      "B": "Iniciar metisergida como profilaxis",
+      "C": "Iniciar propranolol y cambiar a un anticonceptivo sin estrógenos",
+      "D": "Pasar el sumatriptán a toma diaria"
+    },
+    "correcta": "C",
+    "explicacion": "Con 4 o más crisis al mes está indicada la profilaxis. En una paciente hipertensa, el propranolol trata ambas cosas. Además, la migraña con aura contraindica los anticonceptivos con estrógenos por el riesgo de EVC.",
+    "distractores": {
+      "A": "El valproato se evita en mujeres en edad fértil por su teratogenia.",
+      "B": "La metisergida ya no se usa porque causa fibrosis retroperitoneal.",
+      "D": "El uso diario de triptanos causa cefalea por abuso de medicamentos y no es profilaxis."
+    },
+    "perla": "Migraña con aura + anticonceptivo con estrógenos = más riesgo de EVC; cambia a un método sin estrógenos."
+  },
+  {
+    "id": "neu-12",
+    "especialidad": "Neurología",
+    "tema": "Tumores del sistema nervioso",
+    "caso": "Hombre de 38 años con VIH sin tratamiento antirretroviral, CD4 de 45 células/µl. Tiene 3 semanas de confusión, cambios de personalidad y debilidad del lado izquierdo. Temperatura 37.2 °C, TA 124/78 mmHg. IgG para Toxoplasma negativa. La RM muestra una lesión periventricular única que capta contraste de forma homogénea y cruza el cuerpo calloso. La PCR en LCR es positiva para virus de Epstein-Barr.",
+    "pregunta": "¿Cuál es el diagnóstico más probable?",
+    "opciones": {
+      "A": "Toxoplasmosis cerebral",
+      "B": "Glioblastoma",
+      "C": "Leucoencefalopatía multifocal progresiva",
+      "D": "Linfoma primario del SNC"
+    },
+    "correcta": "D",
+    "explicacion": "Una lesión única periventricular con realce homogéneo en un paciente con VIH avanzado, toxoplasma negativo y VEB en LCR es típica del linfoma primario del SNC, asociado a inmunosupresión y al virus de Epstein-Barr.",
+    "distractores": {
+      "A": "La toxoplasmosis suele dar lesiones múltiples con realce en anillo en ganglios basales, y la serología casi siempre es positiva.",
+      "B": "El glioblastoma puede cruzar el cuerpo calloso, pero el contexto de VIH con VEB en LCR apunta a linfoma; suele tener necrosis central y realce heterogéneo.",
+      "C": "La LMP (virus JC) da lesiones de sustancia blanca sin efecto de masa y sin realce."
+    },
+    "perla": "VIH + lesión cerebral que capta contraste + VEB en LCR = linfoma primario del SNC."
+  },
+  {
+    "id": "neu-13",
+    "especialidad": "Neurología",
+    "tema": "Meningitis bacteriana",
+    "caso": "Hombre de 63 años con alcoholismo crónico. Tiene 24 horas de fiebre de 39.4 °C, cefalea intensa y confusión. TA 104/62 mmHg, FC 118 lpm. Rigidez de nuca, sin papiledema ni focalidad; la TC de cráneo es normal. LCR turbio con 2 400 células/mm³ (90 % polimorfonucleares), glucosa 22 mg/dl (sérica 110 mg/dl) y proteínas 280 mg/dl.",
+    "pregunta": "¿Cuál es el tratamiento empírico más adecuado?",
+    "opciones": {
+      "A": "Dexametasona + ceftriaxona + vancomicina + ampicilina",
+      "B": "Ceftriaxona sola",
+      "C": "Vancomicina + ceftazidima",
+      "D": "Aciclovir IV"
+    },
+    "correcta": "A",
+    "explicacion": "El LCR es bacteriano (PMN, glucosa LCR/plasma <0.4). En mayores de 50 años o con alcoholismo hay que cubrir neumococo (ceftriaxona + vancomicina por resistencia) y Listeria (ampicilina). La dexametasona se da antes o junto con la primera dosis del antibiótico.",
+    "distractores": {
+      "B": "La ceftriaxona sola no cubre Listeria ni neumococo resistente.",
+      "C": "Vancomicina + ceftazidima se usa en meningitis posneuroquirúrgica, por fractura abierta o con neutropenia (S. aureus, Pseudomonas).",
+      "D": "El aciclovir es para la encefalitis viral; este LCR tiene un patrón bacteriano."
+    },
+    "perla": "Meningitis en mayor de 50 años o alcohólico: agrega ampicilina por Listeria; la dexametasona va antes del antibiótico o junto con él."
+  },
+  {
+    "id": "neu-14",
+    "especialidad": "Neurología",
+    "tema": "Encefalitis viral",
+    "caso": "Mujer de 45 años con 3 días de fiebre de 38.8 °C y cefalea. Hoy su esposo nota que habla de forma incoherente, refiere olores extraños y tuvo una crisis focal. TA 128/80 mmHg, FC 104 lpm, sin rigidez de nuca marcada. LCR: 180 células/mm³ (85 % linfocitos), 45 eritrocitos/mm³, glucosa 62 mg/dl (sérica 98 mg/dl), proteínas 88 mg/dl. RM con hiperintensidad temporal medial izquierda en FLAIR.",
+    "pregunta": "¿Cuál es el siguiente paso más adecuado?",
+    "opciones": {
+      "A": "Esperar el resultado de la PCR para VHS antes de tratar",
+      "B": "Iniciar aciclovir IV 10 mg/kg cada 8 horas",
+      "C": "Iniciar metilprednisolona IV",
+      "D": "Iniciar ceftriaxona + vancomicina sin antiviral"
+    },
+    "correcta": "B",
+    "explicacion": "Fiebre con alteración de la conducta, crisis y lesión temporal medial, más LCR linfocítico con glucosa normal y eritrocitos: encefalitis por herpes simple. El aciclovir IV se empieza en cuanto se sospecha, sin esperar la PCR.",
+    "distractores": {
+      "A": "Retrasar el aciclovir aumenta la mortalidad y las secuelas; la PCR confirma, pero no condiciona el inicio.",
+      "C": "Los esteroides son el tratamiento de la EMDA posinfecciosa, no de la encefalitis herpética.",
+      "D": "El LCR no es bacteriano (linfocitos, glucosa normal); el antibiótico solo no cubre VHS."
+    },
+    "perla": "Encefalitis con afección temporal: inicia aciclovir de inmediato; la PCR para VHS en LCR es el estándar diagnóstico."
+  },
+  {
+    "id": "car-01",
+    "especialidad": "Cardiovascular",
+    "tema": "Hipertensión arterial sistémica (HTA)",
+    "caso": "Hombre de 57 años, hipertenso, que dejó el losartán hace 2 semanas. Acude a una consulta de rutina y está asintomático. TA 196/118 mmHg en dos tomas, FC 80 lpm. Fondo de ojo sin papiledema ni hemorragias. ECG con hipertrofia ventricular izquierda sin cambios agudos. Creatinina 0.9 mg/dl, EGO sin hematuria, troponina normal.",
+    "pregunta": "¿Cuál es el manejo más adecuado?",
+    "opciones": {
+      "A": "Reiniciar antihipertensivos orales y bajar la PA de forma gradual, con revisión en pocos días",
+      "B": "Nifedipino sublingual",
+      "C": "Nitroprusiato IV en terapia intensiva",
+      "D": "Labetalol IV para llegar a 120/80 mmHg en una hora"
+    },
+    "correcta": "A",
+    "explicacion": "La PA está por arriba de 180/120 sin daño agudo a órgano blanco: es una urgencia hipertensiva. Se maneja con fármacos orales y un descenso gradual en 24–48 horas.",
+    "distractores": {
+      "B": "El nifedipino sublingual baja la PA de forma brusca e impredecible y puede causar isquemia cerebral o coronaria; está proscrito.",
+      "C": "Los fármacos IV en UCI se reservan para la emergencia hipertensiva, que sí tiene daño agudo a órgano blanco.",
+      "D": "Normalizar la PA en una hora es peligroso aun en una emergencia; el descenso debe ser escalonado."
+    },
+    "perla": "La diferencia entre urgencia y emergencia no es la cifra: es si hay daño agudo a órgano blanco."
+  },
+  {
+    "id": "car-02",
+    "especialidad": "Cardiovascular",
+    "tema": "Hipertensión arterial sistémica (HTA)",
+    "caso": "Mujer de 36 años con hipertensión desde hace 2 años. Persiste con TA 162/98 mmHg a pesar de amlodipino, enalapril e hidroclorotiazida a dosis máximas con buena adherencia. Refiere calambres y debilidad muscular. FC 74 lpm, IMC 25, sin soplo abdominal. Potasio 2.9 mEq/l, sodio 144 mEq/l, creatinina 0.8 mg/dl.",
+    "pregunta": "¿Cuál es el estudio inicial más adecuado?",
+    "opciones": {
+      "A": "Metanefrinas en orina de 24 horas",
+      "B": "Cociente aldosterona/renina plasmática",
+      "C": "Angiografía renal",
+      "D": "Cortisol libre en orina de 24 horas"
+    },
+    "correcta": "B",
+    "explicacion": "Es una HTA resistente en una paciente joven con hipopotasemia, lo que sugiere hiperaldosteronismo primario (Conn). El tamizaje inicial es el cociente aldosterona/renina.",
+    "distractores": {
+      "A": "El feocromocitoma da crisis de cefalea, sudoración y palpitaciones, no hipopotasemia persistente.",
+      "C": "La angiografía es el estándar de referencia para la estenosis renal, pero es invasiva y no es el estudio inicial; aquí no hay soplo ni deterioro renal con IECA.",
+      "D": "El Cushing tendría fenotipo característico (estrías, obesidad central), ausente aquí."
+    },
+    "perla": "HTA en joven, resistente o con hipopotasemia: busca causa secundaria y empieza con el cociente aldosterona/renina."
+  },
+  {
+    "id": "car-03",
+    "especialidad": "Cardiovascular",
+    "tema": "Cardiopatía isquémica y síndrome coronario agudo (SCA)",
+    "caso": "Hombre de 52 años, fumador, con 2 horas de dolor retroesternal opresivo y diaforesis. Está en un hospital general rural sin hemodinamia; el traslado a una sala de ICP tarda unas 3 horas. TA 136/84 mmHg, FC 92 lpm, SatO2 96 % al aire ambiente. ECG con elevación del ST de 3 mm de V1 a V4. No tiene contraindicaciones para fibrinólisis.",
+    "pregunta": "¿Cuál es la estrategia de reperfusión más adecuada?",
+    "opciones": {
+      "A": "Esperar el resultado de la troponina para confirmar el infarto",
+      "B": "Trasladar para ICP primaria aunque se superen los 120 minutos",
+      "C": "Fibrinólisis en menos de 10 minutos y traslado a un centro con ICP",
+      "D": "Manejarlo como IAMSEST, sin reperfusión"
+    },
+    "correcta": "C",
+    "explicacion": "Es un IAMCEST anterior de menos de 12 horas. Si la ICP primaria no puede hacerse en menos de 120 minutos desde el primer contacto, se da fibrinólisis de inmediato y después se traslada al paciente para una estrategia farmacoinvasiva.",
+    "distractores": {
+      "A": "En el IAMCEST la reperfusión se decide con la clínica y el ECG; esperar la troponina retrasa el tratamiento.",
+      "B": "Con un retraso mayor de 120 minutos se pierde la ventaja de la ICP sobre la fibrinólisis.",
+      "D": "Tiene elevación del ST en derivaciones contiguas; es un IAMCEST y necesita reperfusión."
+    },
+    "perla": "IAMCEST: ICP primaria si se hace en menos de 120 minutos; si no, fibrinólisis en menos de 10 minutos y traslado."
+  },
+  {
+    "id": "car-04",
+    "especialidad": "Cardiovascular",
+    "tema": "Cardiopatía isquémica y síndrome coronario agudo (SCA)",
+    "caso": "Hombre de 61 años, diabético e hipertenso, con 5 horas de dolor retroesternal opresivo en reposo que no cede. TA 148/88 mmHg, FC 86 lpm, SatO2 97 %. ECG con depresión del ST de 1 mm de V4 a V6, sin elevación del ST en ninguna derivación. La troponina I de alta sensibilidad está por arriba del percentil 99 y sube en la segunda determinación.",
+    "pregunta": "¿Cuál es el diagnóstico?",
+    "opciones": {
+      "A": "Angina inestable",
+      "B": "Infarto agudo de miocardio con elevación del ST",
+      "C": "Angina estable",
+      "D": "Infarto agudo de miocardio sin elevación del ST"
+    },
+    "correcta": "D",
+    "explicacion": "Dolor isquémico en reposo con depresión del ST y troponina por arriba del percentil 99 con curva ascendente: IAMSEST. La troponina es lo que lo distingue de la angina inestable.",
+    "distractores": {
+      "A": "La angina inestable tiene la misma clínica y ECG, pero la troponina es normal.",
+      "B": "No hay elevación del ST ni BRIHH nuevo.",
+      "C": "La angina estable aparece con el esfuerzo, cede con reposo o nitratos y no eleva la troponina."
+    },
+    "perla": "IAMSEST vs angina inestable: decide la troponina; en ninguno de los dos está indicada la fibrinólisis."
+  },
+  {
+    "id": "car-05",
+    "especialidad": "Cardiovascular",
+    "tema": "Arritmias y trastornos de la conducción",
+    "caso": "A 72-year-old woman with hypertension and type 2 diabetes is found to have an irregularly irregular pulse at a routine visit. She denies palpitations, dyspnea or prior stroke. BP 138/82 mmHg, HR 84 bpm. ECG shows atrial fibrillation with no P waves. Echocardiogram: normal left ventricular function, no mitral stenosis, no prosthetic valves. Creatinine 0.9 mg/dL.",
+    "pregunta": "Which is the most appropriate long-term antithrombotic therapy?",
+    "opciones": {
+      "A": "Apixaban",
+      "B": "Aspirin alone",
+      "C": "Warfarin with a target INR of 2.5–3.5",
+      "D": "No antithrombotic therapy because her risk is low"
+    },
+    "correcta": "A",
+    "explicacion": "El CHA2DS2-VASc es 4: HTA (1), DM (1), 65–74 años (1) y sexo femenino (1); sin contar el sexo (CHA2DS2-VA) queda en 3. Con 2 o más se anticoagula. En FA no valvular se prefieren los anticoagulantes orales directos sobre la warfarina.",
+    "distractores": {
+      "B": "La aspirina sola no previene de forma adecuada la embolia en FA y sangra casi igual.",
+      "C": "La warfarina se reserva para válvula mecánica o estenosis mitral moderada a grave; el INR de 2.5–3.5 es el objetivo en algunas prótesis mecánicas.",
+      "D": "Su riesgo embólico es alto; no tratarla la expone a una EVC cardioembólica."
+    },
+    "perla": "FA con CHA2DS2-VASc de 2 o más: anticoagulante oral directo, salvo válvula mecánica o estenosis mitral, donde se usa warfarina."
+  },
+  {
+    "id": "car-06",
+    "especialidad": "Cardiovascular",
+    "tema": "Enfermedad arterial periférica (EAP) de miembros inferiores",
+    "caso": "Hombre de 64 años, fumador de 40 paquetes-año, con DM2. Tiene 8 meses de dolor en la pantorrilla derecha al caminar unos 200 metros, que se quita en 5 minutos de reposo. Nunca le duele en reposo. Pulsos pedio y tibial posterior derechos disminuidos, palidez al elevar la pierna. TA 146/88 mmHg, FC 76 lpm. HbA1c 7.8 %.",
+    "pregunta": "¿Cuál es el estudio inicial indicado?",
+    "opciones": {
+      "A": "Angiografía de miembros inferiores",
+      "B": "Índice tobillo-brazo",
+      "C": "Angiotomografía de aorta y miembros inferiores",
+      "D": "Ultrasonido dúplex venoso"
+    },
+    "correcta": "B",
+    "explicacion": "Claudicación intermitente típica en un fumador diabético: EAP. El índice tobillo-brazo es el estudio inicial, más útil y costo-efectivo; un valor menor de 0.9 confirma la enfermedad.",
+    "distractores": {
+      "A": "La angiografía se usa para planear la revascularización, no como estudio inicial.",
+      "C": "La angio-TC localiza lesiones antes de un procedimiento; no es el primer estudio.",
+      "D": "El dúplex venoso estudia trombosis o insuficiencia venosa, no la claudicación arterial."
+    },
+    "perla": "ITB menor de 0.9 = EAP; mayor de 1.3 (o 1.4) = arterias no compresibles, frecuente en DM o ERC."
+  },
+  {
+    "id": "car-07",
+    "especialidad": "Cardiovascular",
+    "tema": "Enfermedad aórtica",
+    "caso": "Hombre de 69 años, exfumador de 30 paquetes-año, hipertenso. En un tamizaje se le palpa una masa pulsátil periumbilical que no duele. Está asintomático. TA 138/84 mmHg, FC 70 lpm. El ultrasonido abdominal muestra un aneurisma de aorta infrarrenal de 5.8 cm; la angio-TC lo confirma, sin datos de rotura. Creatinina 1.0 mg/dl.",
+    "pregunta": "¿Cuál es la conducta más adecuada?",
+    "opciones": {
+      "A": "Reparación electiva, abierta o endovascular (EVAR)",
+      "B": "Control con ultrasonido cada año",
+      "C": "Sólo tratamiento médico con β-bloqueador",
+      "D": "Laparotomía de urgencia hoy mismo"
+    },
+    "correcta": "A",
+    "explicacion": "En el hombre, un AAA asintomático de 5.5 cm o más debe repararse de forma electiva. La cirugía abierta y la EVAR no tienen una ventaja clara entre sí en buenos candidatos.",
+    "distractores": {
+      "B": "La vigilancia con ultrasonido es para aneurismas menores de 5.5 cm que crecen despacio.",
+      "C": "Ningún fármaco evita la rotura de un aneurisma de este tamaño.",
+      "D": "La cirugía de urgencia es para el aneurisma roto o sintomático (dolor, hipotensión), no para uno estable."
+    },
+    "perla": "AAA: se tamiza con ultrasonido y se repara con 5.5 cm o más en hombres (5.0 cm o más en mujeres)."
+  },
+  {
+    "id": "car-08",
+    "especialidad": "Cardiovascular",
+    "tema": "Enfermedad aórtica",
+    "caso": "Hombre de 22 años con cefalea y sangrados nasales frecuentes; le duelen las piernas cuando juega fútbol. TA en el brazo derecho 168/94 mmHg y en la pierna 110/70 mmHg; pulsos femorales débiles y retrasados respecto al radial. Soplo sistólico interescapular. La radiografía de tórax muestra muescas en el borde inferior de las costillas y signo del 3. En el cateterismo, el gradiente a través de la lesión es de 55 mmHg.",
+    "pregunta": "¿Cuál es el tratamiento de elección?",
+    "opciones": {
+      "A": "Resección quirúrgica con anastomosis término-terminal",
+      "B": "Angioplastia con balón y colocación de stent",
+      "C": "Sólo antihipertensivos y vigilancia",
+      "D": "Angioplastia con balón sin stent"
+    },
+    "correcta": "B",
+    "explicacion": "HTA en los brazos con pulsos femorales débiles y retrasados, muescas costales y signo del 3: coartación de aorta. Con un gradiente mayor de 50 mmHg hay que intervenir; en el adulto se prefiere la angioplastia con balón y stent.",
+    "distractores": {
+      "A": "La cirugía es de elección en niños o cuando la anatomía no permite el tratamiento endovascular.",
+      "C": "Un gradiente mayor de 50 mmHg obliga a corregir la lesión; los fármacos solos no bastan.",
+      "D": "La angioplastia con balón sola tiene más recoartación; en el adulto se coloca stent."
+    },
+    "perla": "Coartación: cirugía en niños y balón con stent en adultos; se asocia a aorta bicúspide y síndrome de Turner."
+  },
+  {
+    "id": "car-09",
+    "especialidad": "Cardiovascular",
+    "tema": "Fiebre reumática y endocarditis infecciosa",
+    "caso": "Niña de 9 años y 30 kg que tuvo faringitis sin tratamiento hace 3 semanas. Desde hace 5 días tiene fiebre de 38.5 °C y dolor con inflamación de la rodilla derecha, que luego pasó al tobillo izquierdo y al codo. Tiene un soplo holosistólico apical nuevo. TA 100/60 mmHg, FC 118 lpm. VSG 78 mm/h, ASLO 480 U Todd; ECG con PR de 0.22 s.",
+    "pregunta": "¿Cuál es el tratamiento de elección para erradicar el estreptococo?",
+    "opciones": {
+      "A": "Amoxicilina oral por 3 días",
+      "B": "Prednisona sin antibiótico",
+      "C": "Penicilina G benzatínica 1.2 millones de U IM, dosis única",
+      "D": "Ciprofloxacino oral por 7 días"
+    },
+    "correcta": "C",
+    "explicacion": "Hay 2 criterios mayores de Jones (carditis y poliartritis migratoria), menores (fiebre, VSG elevada, PR largo) y ASLO alto: fiebre reumática. La erradicación de elección es penicilina G benzatínica 1.2 millones de U IM en dosis única (600 000 U si pesa menos de 27 kg). Después sigue la profilaxis secundaria cada 3–4 semanas.",
+    "distractores": {
+      "A": "La amoxicilina es una alternativa válida sólo por 10 días; 3 días no erradican el estreptococo.",
+      "B": "Los esteroides pueden usarse en carditis grave, pero nunca sustituyen la erradicación del estreptococo.",
+      "D": "Las quinolonas no son de elección contra el estreptococo del grupo A."
+    },
+    "perla": "Jones: 2 mayores, o 1 mayor y 2 menores, más evidencia de infección estreptocócica previa."
+  },
+  {
+    "id": "car-10",
+    "especialidad": "Cardiovascular",
+    "tema": "Reanimación cardiopulmonar (RCP) — guías AHA 2010 del libro",
+    "caso": "Hombre de 58 años que se desploma en la sala de espera del hospital. No responde, sólo boquea y no tiene pulso carotídeo al revisarlo 8 segundos. Se pide ayuda y se inician compresiones de alta calidad. A los 2 minutos llega el DEA, que analiza el ritmo e indica fibrilación ventricular. Todavía no hay acceso IV ni vía aérea avanzada.",
+    "pregunta": "¿Cuál es la siguiente acción?",
+    "opciones": {
+      "A": "Dar tres descargas seguidas y luego revisar el pulso",
+      "B": "Administrar adrenalina 1 mg antes de la primera descarga",
+      "C": "Revisar el pulso durante un minuto antes de descargar",
+      "D": "Dar una descarga y reanudar de inmediato la RCP por 2 minutos sin revisar el pulso"
+    },
+    "correcta": "D",
+    "explicacion": "La FV es un ritmo desfibrilable. Se da una sola descarga y enseguida se reanudan 2 minutos de RCP antes de volver a analizar el ritmo, para no interrumpir las compresiones.",
+    "distractores": {
+      "A": "Las tres descargas escalonadas se abandonaron porque alargan las pausas en las compresiones.",
+      "B": "En FV, la adrenalina se da después de la descarga (tras el segundo análisis); no debe retrasar la desfibrilación.",
+      "C": "Las pausas deben durar menos de 10 segundos; revisar el pulso un minuto empeora la perfusión coronaria y cerebral."
+    },
+    "perla": "FV o TV sin pulso: una descarga y RCP inmediata; la asistolia y la AESP no se desfibrilan."
+  }
+]

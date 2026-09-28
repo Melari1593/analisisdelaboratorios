@@ -1,0 +1,716 @@
+[
+  {
+    "id": "psi-01",
+    "especialidad": "Psiquiatría",
+    "tema": "Trastorno depresivo mayor (TDM)",
+    "caso": "Mujer de 34 años, contadora, con 2 meses de ánimo triste, anhedonia, insomnio de mantenimiento, pérdida de 4 kg, fatiga y dificultad para concentrarse. Niega ideación suicida. TSH 2.1 mUI/L. Hace 12 días inició sertralina 50 mg/día y hoy acude molesta porque \"no siente ningún cambio\". TA 110/70 mmHg, FC 76 lpm.",
+    "pregunta": "¿Cuál es la conducta más adecuada en este momento?",
+    "opciones": {
+      "A": "Mantener la misma dosis de sertralina y revalorar en las siguientes semanas",
+      "B": "Cambiar a venlafaxina por falta de respuesta",
+      "C": "Agregar amitriptilina 25 mg por la noche",
+      "D": "Suspender el antidepresivo y referir a terapia electroconvulsiva"
+    },
+    "correcta": "A",
+    "explicacion": "La respuesta a los antidepresivos aparece a partir de la 3.ª semana a dosis terapéutica. Con 12 días de tratamiento todavía no se puede hablar de falla; se mantiene el fármaco y se revalora.",
+    "distractores": {
+      "B": "Cambiar de antidepresivo a los 12 días es prematuro; además, ningún antidepresivo es superior a otro.",
+      "C": "Combinar con un tricíclico no está indicado y suma efectos anticolinérgicos y riesgo cardiaco sin haber agotado el ISRS.",
+      "D": "La TEC se reserva para depresión grave con psicosis, alto riesgo suicida, rechazo a comer o necesidad de respuesta rápida."
+    },
+    "perla": "Antidepresivo que \"no funciona\" en la semana 1–2 = latencia normal, no falla terapéutica."
+  },
+  {
+    "id": "psi-02",
+    "especialidad": "Psiquiatría",
+    "tema": "Trastorno depresivo mayor (TDM)",
+    "caso": "Mujer de 27 años con embarazo de 22 semanas, llevada por su esposo. Tiene 5 semanas con tristeza profunda, llanto, insomnio y culpa; en los últimos 6 días dejó de comer y beber porque \"no merece vivir\" y oye voces que le ordenan hacerse daño. TA 100/60 mmHg, FC 104 lpm, mucosas secas. Na 147 mEq/L, cetonuria ++.",
+    "pregunta": "¿Cuál es el tratamiento de elección?",
+    "opciones": {
+      "A": "Fluoxetina 20 mg/día y cita en 4 semanas",
+      "B": "Terapia electroconvulsiva",
+      "C": "Diazepam 10 mg cada 8 h",
+      "D": "Psicoterapia cognitivo-conductual ambulatoria"
+    },
+    "correcta": "B",
+    "explicacion": "Depresión mayor grave con síntomas psicóticos, riesgo suicida y rechazo a la ingesta en una embarazada: todas son indicaciones de TEC, que logra 80–90 % de respuesta y actúa rápido.",
+    "distractores": {
+      "A": "Un ISRS solo tarda semanas en actuar y no controla la psicosis; esta paciente necesita respuesta rápida.",
+      "C": "Las benzodiacepinas solo son apoyo para ansiedad o insomnio; no tratan la depresión psicótica.",
+      "D": "La psicoterapia ambulatoria es insuficiente ante psicosis, riesgo suicida y deshidratación."
+    },
+    "perla": "Depresión grave con psicosis, riesgo suicida, rechazo a comer o embarazo → TEC."
+  },
+  {
+    "id": "psi-03",
+    "especialidad": "Psiquiatría",
+    "tema": "Trastorno bipolar",
+    "caso": "Hombre de 45 años con trastorno bipolar tipo I estable con litio (litemia previa 0.8 mEq/L). Hace 3 semanas su médico familiar inició un fármaco para hipertensión. Acude con temblor grueso, diarrea, vómito, ataxia y somnolencia. TA 150/90 mmHg, FC 62 lpm. Litemia 2.1 mEq/L, creatinina 1.4 mg/dL.",
+    "pregunta": "¿Cuál de los siguientes fármacos es el que más probablemente precipitó el cuadro?",
+    "opciones": {
+      "A": "Amlodipino",
+      "B": "Doxazosina",
+      "C": "Hidroclorotiazida",
+      "D": "Metoprolol"
+    },
+    "correcta": "C",
+    "explicacion": "Intoxicación por litio (nivel >1.2 mEq/L con síntomas digestivos y neurológicos). El litio se elimina por riñón sin metabolismo hepático; las tiazidas aumentan su reabsorción y elevan la litemia.",
+    "distractores": {
+      "A": "Los calcioantagonistas dihidropiridínicos no son una causa clásica de toxicidad por litio.",
+      "B": "Los bloqueadores α1 no reducen la depuración renal de litio.",
+      "D": "Los β-bloqueadores no elevan la litemia; incluso se usan para el temblor fino por litio."
+    },
+    "perla": "Litio + tiazida, IECA, AINE o deshidratación = riesgo de intoxicación; rango terapéutico 0.6–1.2 mEq/L."
+  },
+  {
+    "id": "psi-04",
+    "especialidad": "Psiquiatría",
+    "tema": "Trastorno bipolar",
+    "caso": "A 29-year-old woman is brought by her sister. For the past 5 days she has slept 3 hours a night without feeling tired, talks rapidly, has started three online businesses and spent part of her savings. She keeps working and has no delusions or hallucinations. Two years ago she had a 3-month major depressive episode. BP 118/74 mmHg, HR 88 bpm. TSH 1.8 mIU/L, urine drug screen negative.",
+    "pregunta": "What is the most likely diagnosis?",
+    "opciones": {
+      "A": "Bipolar I disorder, current episode manic",
+      "B": "Cyclothymic disorder",
+      "C": "Major depressive disorder with anxious distress",
+      "D": "Bipolar II disorder, current episode hypomanic"
+    },
+    "correcta": "D",
+    "explicacion": "Episodio de ≥4 días con menor necesidad de dormir, verborrea y conductas de riesgo, sin deterioro grave, sin hospitalización y sin psicosis = hipomanía. Hipomanía + antecedente de depresión mayor, sin manía nunca = bipolar tipo II.",
+    "distractores": {
+      "A": "La manía exige ≥1 semana (o cualquier duración si requiere hospitalización) o deterioro grave/psicosis; nada de eso ocurre aquí.",
+      "B": "La ciclotimia no incluye episodios que cumplan criterios de depresión mayor.",
+      "C": "Hay un episodio de hipomanía; un trastorno depresivo unipolar lo excluye."
+    },
+    "perla": "Si requirió hospitalización o hay psicosis, es manía por definición; hipomanía nunca la necesita."
+  },
+  {
+    "id": "psi-05",
+    "especialidad": "Psiquiatría",
+    "tema": "Esquizofrenia",
+    "caso": "Hombre de 24 años con esquizofrenia diagnosticada hace 3 años. Ha recibido risperidona 6 mg/día durante 8 semanas y después olanzapina 20 mg/día durante 8 semanas, con buen apego verificado, y persisten las alucinaciones auditivas y los delirios de persecución. El mes pasado tuvo un intento suicida. TA 120/80 mmHg, FC 80 lpm. BH: leucocitos 7 200/µL, neutrófilos 4 100/µL.",
+    "pregunta": "¿Cuál es el fármaco de elección en este momento?",
+    "opciones": {
+      "A": "Clozapina",
+      "B": "Haloperidol",
+      "C": "Ziprasidona",
+      "D": "Quetiapina"
+    },
+    "correcta": "A",
+    "explicacion": "Esquizofrenia resistente (fracaso a 2 antipsicóticos a dosis y tiempo adecuados) y con riesgo suicida: la clozapina, atípico prototipo, es el fármaco de elección. Requiere biometrías seriadas por riesgo de agranulocitosis.",
+    "distractores": {
+      "B": "Un típico no ofrece ventaja en la resistencia y produce más extrapiramidalismo.",
+      "C": "Otro atípico convencional tiene poca probabilidad de éxito tras dos fracasos; además prolonga el QT.",
+      "D": "Cambiar a un tercer atípico no es lo indicado cuando ya se cumple la definición de resistencia."
+    },
+    "perla": "Clozapina es ATÍPICO (el libro la lista como típico por error): elección en resistencia y riesgo suicida."
+  },
+  {
+    "id": "psi-06",
+    "especialidad": "Psiquiatría",
+    "tema": "Esquizofrenia",
+    "caso": "Hombre de 31 años hospitalizado por un episodio psicótico agudo, tratado con haloperidol IM a dosis altas desde hace 3 días. Hoy está confuso, con rigidez generalizada \"en tubo de plomo\" y diaforesis. T 40.1 °C, TA 170/100 mmHg que fluctúa, FC 128 lpm. CPK 18 500 U/L, leucocitos 15 000/µL.",
+    "pregunta": "Además de las medidas de soporte, ¿cuál es el manejo más adecuado?",
+    "opciones": {
+      "A": "Agregar biperideno y continuar el haloperidol",
+      "B": "Cambiar a olanzapina IM",
+      "C": "Suspender el antipsicótico y administrar dantroleno",
+      "D": "Iniciar ceftriaxona y realizar punción lumbar como única medida"
+    },
+    "correcta": "C",
+    "explicacion": "Fiebre, rigidez, disautonomía, alteración de la conciencia y CPK elevada tras un antipsicótico = síndrome neuroléptico maligno. Se suspende el antipsicótico y se da dantroleno o bromocriptina.",
+    "distractores": {
+      "A": "El anticolinérgico sirve para distonía o parkinsonismo, pero continuar el haloperidol perpetúa el síndrome.",
+      "B": "Cualquier antipsicótico, incluso atípico, puede mantener o empeorar el cuadro; hay que suspenderlos.",
+      "D": "La causa es farmacológica; no hay que retrasar la suspensión del antipsicótico por buscar solo una infección."
+    },
+    "perla": "SNM: fiebre + rigidez + disautonomía + ↑CPK → suspender antipsicótico + dantroleno/bromocriptina."
+  },
+  {
+    "id": "psi-07",
+    "especialidad": "Psiquiatría",
+    "tema": "Trastornos de la conducta alimentaria (TCA)",
+    "caso": "Mujer de 22 años acude por fatiga y palpitaciones. Refiere episodios en los que come grandes cantidades con sensación de pérdida de control, seguidos de vómito autoinducido unas 3 veces por semana desde hace 6 meses. IMC 22 kg/m². Tiene hipertrofia parotídea bilateral, erosión del esmalte y callosidades en el dorso de la mano derecha. K 2.9 mEq/L, HCO₃ 32 mEq/L.",
+    "pregunta": "Además de la terapia cognitivo-conductual, ¿cuál es el fármaco de elección?",
+    "opciones": {
+      "A": "Bupropión",
+      "B": "Fluoxetina 60 mg/día",
+      "C": "Olanzapina",
+      "D": "Lisdexanfetamina"
+    },
+    "correcta": "B",
+    "explicacion": "Bulimia nerviosa purgativa: atracones con compensación, peso normal, signo de Russell, hipertrofia parotídea y alcalosis hipopotasémica. La fluoxetina 60 mg/día es el único fármaco aprobado por la FDA para bulimia.",
+    "distractores": {
+      "A": "El bupropión está contraindicado en bulimia por el riesgo de convulsiones.",
+      "C": "La olanzapina se ha usado en anorexia para ganar peso, no en bulimia.",
+      "D": "La lisdexanfetamina es el fármaco aprobado para el trastorno por atracón (sin conductas compensatorias)."
+    },
+    "perla": "Bulimia: fluoxetina 60 mg; nunca bupropión."
+  },
+  {
+    "id": "psi-08",
+    "especialidad": "Psiquiatría",
+    "tema": "Trastorno por déficit de atención e hiperactividad (TDAH)",
+    "caso": "Niño de 8 años referido por su maestra: no termina tareas, pierde útiles, se levanta del asiento, interrumpe y no espera su turno, en casa y en la escuela, desde los 5 años. Cumple 7 síntomas de inatención y 7 de hiperactividad-impulsividad. Completó 10 semanas de entrenamiento a padres y terapia conductual sin mejoría, y va reprobando el año. Peso y talla en percentil 50, TA 98/60 mmHg, FC 84 lpm.",
+    "pregunta": "¿Cuál es el siguiente paso más adecuado?",
+    "opciones": {
+      "A": "Continuar solo con terapia conductual otras 8 semanas",
+      "B": "Iniciar atomoxetina como primera opción farmacológica",
+      "C": "Iniciar clonidina por la noche",
+      "D": "Iniciar metilfenidato de liberación prolongada"
+    },
+    "correcta": "D",
+    "explicacion": "TDAH combinado sin respuesta a terapia conductual de al menos 8 semanas y con repercusión escolar: está indicado el fármaco. El primero es un estimulante, metilfenidato de liberación prolongada, vigilando FC, TA, peso y talla.",
+    "distractores": {
+      "A": "Ya cumplió el mínimo de terapia sin respuesta; prolongarla retrasa un tratamiento indicado.",
+      "B": "La atomoxetina es no estimulante y se reserva como alternativa cuando los estimulantes fallan o no se toleran.",
+      "C": "Los agonistas α2 son alternativas no estimulantes, no la primera línea farmacológica."
+    },
+    "perla": "TDAH: primero terapia conductual; si no basta, metilfenidato LP; vigilar FC y TA."
+  },
+  {
+    "id": "orl-01",
+    "especialidad": "Otorrinolaringología",
+    "tema": "Otitis media aguda (OMA)",
+    "caso": "Niño de 14 meses que acude a guardería, con 2 días de fiebre, irritabilidad y se jala la oreja derecha después de un catarro. No ha recibido antibióticos en los últimos 3 meses; sin alergias. T 38.8 °C, FC 130 lpm. Otoscopia neumática: membrana timpánica derecha abombada, hiperémica e inmóvil. Sin conjuntivitis.",
+    "pregunta": "¿Cuál es el tratamiento de elección?",
+    "opciones": {
+      "A": "Amoxicilina 80–90 mg/kg/día",
+      "B": "Gotas óticas de ciprofloxacino",
+      "C": "Observación con analgésico durante 72 h",
+      "D": "Claritromicina 15 mg/kg/día"
+    },
+    "correcta": "A",
+    "explicacion": "OMA en un menor de 2 años con fiebre y abombamiento timpánico (el signo más específico): se trata con amoxicilina a dosis altas; según la AAP, 10 días en menores de 2 años.",
+    "distractores": {
+      "B": "Las gotas óticas no sirven en la OMA con tímpano íntegro.",
+      "C": "La observación se reserva para niños mayores con cuadro leve; este niño de 14 meses tiene fiebre y afectación clara.",
+      "D": "El macrólido es la alternativa solo si hay alergia a la penicilina."
+    },
+    "perla": "OMA: abombamiento = signo más específico; amoxicilina 80–90 mg/kg/día."
+  },
+  {
+    "id": "orl-02",
+    "especialidad": "Otorrinolaringología",
+    "tema": "Otitis media aguda (OMA)",
+    "caso": "Niña de 5 años tratada hace 3 semanas por OMA izquierda. Tuvo otorrea con alivio del dolor, pero la otorrea persiste desde hace 16 días y hace 2 días reaparecieron la fiebre y la otalgia. Tiene eritema y dolor retroauricular con el pabellón desplazado hacia adelante y abajo. T 39 °C, FC 120 lpm. Leucocitos 17 800/µL, PCR 9 mg/dL.",
+    "pregunta": "¿Cuál es el diagnóstico más probable?",
+    "opciones": {
+      "A": "Otitis externa maligna",
+      "B": "Mastoiditis aguda",
+      "C": "Meningitis bacteriana",
+      "D": "Colesteatoma adquirido"
+    },
+    "correcta": "B",
+    "explicacion": "Otorrea >2 semanas con reaparición de fiebre y otalgia, y signos retroauriculares: mastoiditis, la complicación intratemporal más frecuente de la OMA. Se confirma con TAC.",
+    "distractores": {
+      "A": "La otitis externa maligna afecta a diabéticos o ancianos, con granulación en el piso del CAE; no a una niña tras OMA.",
+      "C": "La meningitis es la complicación intracraneal más frecuente, pero no hay rigidez de nuca ni alteración neurológica.",
+      "D": "El colesteatoma da otorrea fétida crónica sin este cuadro agudo febril retroauricular."
+    },
+    "perla": "Reaparece la fiebre y la otalgia, u otorrea >2 semanas → sospecha mastoiditis."
+  },
+  {
+    "id": "orl-03",
+    "especialidad": "Otorrinolaringología",
+    "tema": "Otitis media crónica (OMC)",
+    "caso": "Hombre de 38 años con otorrea fétida intermitente por el oído derecho desde hace 2 años e hipoacusia progresiva del mismo lado; en las últimas semanas tiene mareo al sonarse la nariz. Afebril, TA 120/80 mmHg. Otoscopia: perforación en la pars flaccida (ática) con escamas blanquecinas. Audiometría: hipoacusia conductiva derecha de 40 dB. TAC: erosión del escudo y de la cadena osicular.",
+    "pregunta": "¿Cuál es el tratamiento definitivo?",
+    "opciones": {
+      "A": "Quinolona tópica y protección del agua de forma indefinida",
+      "B": "Colocación de tubos de ventilación",
+      "C": "Mastoidectomía",
+      "D": "Amoxicilina-clavulanato oral 14 días"
+    },
+    "correcta": "C",
+    "explicacion": "Otorrea fétida crónica con perforación ática y erosión ósea en la TAC = otitis media crónica colesteatomatosa. El colesteatoma obliga a cirugía (mastoidectomía ± timpanoplastia).",
+    "distractores": {
+      "A": "La quinolona tópica controla la supuración, pero no erradica el colesteatoma, que sigue erosionando.",
+      "B": "Los tubos de ventilación son el manejo de la otitis media serosa (con derrame), no del colesteatoma.",
+      "D": "Un antibiótico oral no resuelve una lesión erosiva de epitelio escamoso."
+    },
+    "perla": "Otorrea fétida + perforación marginal o ática → colesteatoma → cirugía obligatoria."
+  },
+  {
+    "id": "orl-04",
+    "especialidad": "Otorrinolaringología",
+    "tema": "Otitis externa aguda",
+    "caso": "Mujer de 19 años, nadadora de competencia, con 2 días de otalgia intensa izquierda, prurito y sensación de oído tapado. Refiere que hace 1 año le dijeron que tenía el tímpano perforado de ese lado. Afebril. Dolor intenso al traccionar el pabellón y al presionar el trago; CAE edematoso con otorrea escasa. Glucosa capilar 92 mg/dL.",
+    "pregunta": "¿Cuál es el tratamiento tópico más adecuado?",
+    "opciones": {
+      "A": "Neomicina-polimixina B con fluocinolona",
+      "B": "Gotas de benzocaína anestésica",
+      "C": "Gentamicina ótica",
+      "D": "Ciprofloxacino ótico"
+    },
+    "correcta": "D",
+    "explicacion": "Otitis externa aguda (\"oído de nadador\", signo del trago, P. aeruginosa como agente principal). Con perforación timpánica se usa ciprofloxacino ótico, porque los aminoglucósidos tópicos son ototóxicos.",
+    "distractores": {
+      "A": "Es el esquema habitual con tímpano íntegro, pero la neomicina es ototóxica si hay perforación.",
+      "B": "No se recomiendan anestésicos tópicos óticos; el dolor se maneja con analgésico oral.",
+      "C": "Es un aminoglucósido: ototóxico con perforación timpánica."
+    },
+    "perla": "Otitis externa + perforación timpánica → ciprofloxacino ótico, nunca aminoglucósido."
+  },
+  {
+    "id": "orl-05",
+    "especialidad": "Otorrinolaringología",
+    "tema": "Hipoacusia",
+    "caso": "Mujer de 28 años con hipoacusia progresiva bilateral de predominio izquierdo desde hace 3 años, que empeoró durante su último embarazo; su madre tuvo un problema similar. Otoscopia normal. Rinne negativo en el oído izquierdo, Weber lateraliza a la izquierda, Gellé negativo. Audiometría: brecha aéreo-ósea de 35 dB a la izquierda. Timpanometría tipo A.",
+    "pregunta": "¿Cuál es el tratamiento de elección?",
+    "opciones": {
+      "A": "Estapedectomía o estapedotomía",
+      "B": "Prednisona oral por 14 días",
+      "C": "Implante coclear",
+      "D": "Colocación de tubos de ventilación"
+    },
+    "correcta": "A",
+    "explicacion": "Hipoacusia conductiva progresiva en mujer joven con tímpano normal, Rinne negativo, Weber hacia el oído enfermo y Gellé negativo = otosclerosis (fijación del estribo). El tratamiento es quirúrgico, con éxito cercano al 90 %.",
+    "distractores": {
+      "B": "Los corticoides son el tratamiento de la hipoacusia neurosensorial súbita.",
+      "C": "El implante coclear es para la hipoacusia neurosensorial profunda bilateral.",
+      "D": "Los tubos se usan en otitis media con derrame, que daría timpanometría B, no A."
+    },
+    "perla": "Gellé negativo + conductiva progresiva en mujer joven = otosclerosis → estapedectomía."
+  },
+  {
+    "id": "orl-06",
+    "especialidad": "Otorrinolaringología",
+    "tema": "Vértigo postural paroxístico benigno (VPPB)",
+    "caso": "A 62-year-old woman reports brief spinning episodes lasting about 20 seconds when she rolls over in bed or looks up to a high shelf, for the past 2 weeks. No hearing loss, tinnitus or aural fullness. BP 128/78 mmHg, HR 72 bpm. Neurologic exam is normal. Dix-Hallpike to the right elicits, after a 3-second latency, an upbeating torsional nystagmus toward the right ear that lasts 15 seconds and fatigues on repetition.",
+    "pregunta": "What is the most appropriate treatment?",
+    "opciones": {
+      "A": "Meclizine daily for 4 weeks",
+      "B": "Epley canalith repositioning maneuver",
+      "C": "Brain MRI before any intervention",
+      "D": "Epley maneuver followed by 48 hours sleeping upright with a cervical collar"
+    },
+    "correcta": "B",
+    "explicacion": "VPPB del conducto semicircular posterior derecho: nistagmo con latencia, torsional hacia arriba, breve y fatigable. El tratamiento es la maniobra de Epley (~90 % de éxito).",
+    "distractores": {
+      "A": "Los vestibulosupresores no se recomiendan de rutina; solo alivian síntomas y no reposicionan las otoconias.",
+      "C": "Un nistagmo periférico típico con exploración neurológica normal no requiere imagen.",
+      "D": "Las guías AAO-HNS 2017 ya no recomiendan restricciones posturales tras la maniobra."
+    },
+    "perla": "Nistagmo con latencia, fatigable e invertible = periférico; Dix-Hallpike diagnostica, Epley trata."
+  },
+  {
+    "id": "orl-07",
+    "especialidad": "Otorrinolaringología",
+    "tema": "Rinosinusitis",
+    "caso": "Hombre de 40 años con 12 días de rinorrea purulenta, obstrucción nasal y dolor maxilar derecho que no mejoran; hoy cefalea y dolor dental. Sin alergias a medicamentos. T 38.2 °C, TA 124/80 mmHg. Rinoscopia: secreción purulenta en meato medio derecho. Sin edema periorbitario ni alteraciones visuales.",
+    "pregunta": "Según el criterio actualizado, ¿cuál es el tratamiento más adecuado?",
+    "opciones": {
+      "A": "Trimetoprim-sulfametoxazol por 10 días",
+      "B": "Claritromicina por 14 días",
+      "C": "Amoxicilina-clavulanato por 5–7 días",
+      "D": "TAC de senos paranasales antes de iniciar antibiótico"
+    },
+    "correcta": "C",
+    "explicacion": "Rinosinusitis aguda con sospecha bacteriana (>10 días sin mejoría, 2 criterios mayores). IDSA 2012 recomienda amoxicilina-clavulanato como primera línea y, en adultos, 5–7 días.",
+    "distractores": {
+      "A": "TMP-SMX ya no se recomienda como empírico por la resistencia del neumococo y de H. influenzae.",
+      "B": "Los macrólidos tampoco se recomiendan de forma empírica por la resistencia.",
+      "D": "La rinosinusitis aguda se diagnostica clínicamente; la TAC se reserva para la crónica o para complicaciones."
+    },
+    "perla": "RSA bacteriana: >10 días sin mejoría o doble empeoramiento; diagnóstico clínico, sin TAC."
+  },
+  {
+    "id": "orl-08",
+    "especialidad": "Otorrinolaringología",
+    "tema": "Rinitis alérgica",
+    "caso": "Mujer de 26 años con estornudos en salva, rinorrea hialina, prurito nasal y congestión casi todos los días desde hace 3 meses; la congestión no la deja dormir y falta al trabajo. Ya tomó loratadina con poca mejoría de la obstrucción. Signos vitales normales. Mucosa nasal pálida, azulada y edematosa; surco nasal transverso. Eosinófilos en moco nasal 18 %.",
+    "pregunta": "¿Cuál es el tratamiento de primera línea?",
+    "opciones": {
+      "A": "Esteroide intranasal (mometasona)",
+      "B": "Oximetazolina nasal por 3 semanas",
+      "C": "Prednisona oral por 1 mes",
+      "D": "Montelukast como monoterapia"
+    },
+    "correcta": "A",
+    "explicacion": "Rinitis alérgica persistente moderada-grave (>4 días por semana y >4 semanas, afecta sueño y trabajo). El esteroide intranasal es la primera línea y el más eficaz para la congestión.",
+    "distractores": {
+      "B": "El vasoconstrictor tópico no debe usarse más de 3–4 días porque causa rinitis medicamentosa.",
+      "C": "El esteroide sistémico solo se usa en cuadros graves y por pocos días.",
+      "D": "El montelukast es menos eficaz que el esteroide intranasal y que los antihistamínicos."
+    },
+    "perla": "Congestión en rinitis alérgica → esteroide intranasal; antihistamínico H1 casi no la mejora."
+  },
+  {
+    "id": "orl-09",
+    "especialidad": "Otorrinolaringología",
+    "tema": "Epistaxis",
+    "caso": "Niño de 7 años llevado a urgencias por sangrado por la narina derecha de 10 minutos, tras estar picándose la nariz. Sin antecedentes de sangrados, moretones ni uso de medicamentos. TA 100/64 mmHg, FC 96 lpm, hemodinámicamente estable. En la rinoscopia se aprecia sangrado en el septum anterior.",
+    "pregunta": "¿Cuál es la primera medida para controlar el sangrado?",
+    "opciones": {
+      "A": "Taponamiento anteroposterior",
+      "B": "Solicitar BH y tiempos de coagulación antes de cualquier maniobra",
+      "C": "Cauterización con nitrato de plata sin maniobra previa",
+      "D": "Compresión digital de las alas nasales 10–15 minutos con la cabeza inclinada hacia adelante"
+    },
+    "correcta": "D",
+    "explicacion": "Epistaxis anterior (área de Little o plexo de Kiesselbach) por trauma digital en un niño estable. Tras valorar el ABC, el primer paso es la presión digital sostenida inclinado hacia adelante, que controla la mayoría de los casos.",
+    "distractores": {
+      "A": "El taponamiento posterior se reserva para sangrado posterior o que no cede con medidas previas.",
+      "B": "Los estudios de coagulación se piden solo si se sospecha coagulopatía; no retrasan la compresión.",
+      "C": "La cauterización es el paso siguiente si persiste el sangrado y se identifica el punto sangrante."
+    },
+    "perla": "Epistaxis: ABC → presión digital → cauterización → taponamiento → ligadura o embolización."
+  },
+  {
+    "id": "orl-10",
+    "especialidad": "Otorrinolaringología",
+    "tema": "Faringoamigdalitis aguda",
+    "caso": "Niño de 9 años y 30 kg con 2 días de odinofagia, fiebre y dolor abdominal, sin tos ni rinorrea. T 38.9 °C, FC 110 lpm. Amígdalas hipertróficas con exudado, petequias en el paladar y adenopatías cervicales anteriores dolorosas. Prueba rápida de antígeno estreptocócico positiva. Sin alergias.",
+    "pregunta": "¿Cuál es el tratamiento de elección?",
+    "opciones": {
+      "A": "Penicilina benzatínica 1 200 000 UI IM cada 21 días por 3 meses",
+      "B": "Penicilina benzatínica 1 200 000 UI IM en dosis única",
+      "C": "Azitromicina por 5 días",
+      "D": "Tratamiento sintomático y cultivo faríngeo de control"
+    },
+    "correcta": "B",
+    "explicacion": "Faringoamigdalitis por S. pyogenes (McIsaac alto y prueba rápida positiva). La penicilina es de elección: benzatínica en dosis única (1 200 000 UI si pesa ≥27 kg) o amoxicilina/penicilina VO por 10 días.",
+    "distractores": {
+      "A": "El esquema cada 21 días corresponde a la profilaxis secundaria de fiebre reumática, no al tratamiento de la faringitis aguda.",
+      "C": "El macrólido se reserva para alergia a la penicilina.",
+      "D": "Una prueba rápida positiva es muy específica: confirma el diagnóstico y obliga a tratar."
+    },
+    "perla": "Tratar la faringitis estreptocócica en ≤9 días previene la fiebre reumática, no la glomerulonefritis."
+  },
+  {
+    "id": "ger-01",
+    "especialidad": "Geriatría",
+    "tema": "Síndromes geriátricos y valoración geriátrica integral (VGI)",
+    "caso": "Mujer de 78 años, viuda, que vive sola. Su hija nota que desde hace 4 meses olvida pagar la luz, ya no hace sus compras y se confunde con sus medicamentos, aunque se baña, se viste y come sin ayuda. Tiene HTA y DM2 controladas. TA 132/78 mmHg, FC 70 lpm. Glucosa 118 mg/dL, TSH 2.4 mUI/L.",
+    "pregunta": "¿Qué escala es la más adecuada para medir el área funcional que está afectada?",
+    "opciones": {
+      "A": "Lawton y Brody",
+      "B": "Katz",
+      "C": "Yesavage (GDS)",
+      "D": "Barthel"
+    },
+    "correcta": "A",
+    "explicacion": "Manejo del dinero, compras y medicación son actividades instrumentales de la vida diaria (AIVD), que se evalúan con la escala de Lawton y Brody. Las AIVD se pierden antes que las básicas.",
+    "distractores": {
+      "B": "Katz mide actividades básicas (baño, vestido, alimentación), que están conservadas.",
+      "C": "Yesavage evalúa el afecto (depresión), no la funcionalidad.",
+      "D": "Barthel también mide actividades básicas de la vida diaria."
+    },
+    "perla": "AIVD (teléfono, compras, dinero, medicación) = Lawton-Brody; ABVD = Katz y Barthel."
+  },
+  {
+    "id": "ger-02",
+    "especialidad": "Geriatría",
+    "tema": "Síndromes geriátricos y valoración geriátrica integral (VGI)",
+    "caso": "Hombre de 82 años llevado por dos caídas en el último mes y somnolencia diurna. Toma 9 fármacos: diazepam 10 mg por la noche, amitriptilina 25 mg, glibenclamida, difenhidramina para dormir, enalapril, metformina, omeprazol, ácido acetilsalicílico y paracetamol. TA acostado 138/80 y de pie 112/70 mmHg, FC 74 lpm. Glucosa 64 mg/dL. Sin fracturas en las radiografías.",
+    "pregunta": "¿Qué herramienta es la más útil para identificar sus fármacos potencialmente inapropiados?",
+    "opciones": {
+      "A": "Escala de Barthel",
+      "B": "Mini-Mental de Folstein",
+      "C": "Test del reloj",
+      "D": "Criterios de Beers (AGS)"
+    },
+    "correcta": "D",
+    "explicacion": "Polifarmacia con yatrogenia (caídas, hipotensión ortostática, hipoglucemia). Los criterios de Beers, actualizados en 2019 y 2023 (o STOPP/START), identifican fármacos a evitar: benzodiacepinas, anticolinérgicos como la amitriptilina y la difenhidramina, y sulfonilureas de acción larga como la glibenclamida.",
+    "distractores": {
+      "A": "Barthel mide la dependencia en actividades básicas, no la calidad de la prescripción.",
+      "B": "El MMSE es una prueba de cribado cognitivo.",
+      "C": "El test del reloj explora cognición y función ejecutiva."
+    },
+    "perla": "Anciano con caídas: revisa primero la lista de medicamentos con Beers o STOPP/START."
+  },
+  {
+    "id": "ger-03",
+    "especialidad": "Geriatría",
+    "tema": "Síndrome demencial y enfermedad de Alzheimer",
+    "caso": "A 74-year-old man has had 1 year of progressive cognitive decline with marked day-to-day fluctuations in alertness. He describes seeing small children in his living room, and his wife reports he acts out his dreams. Exam shows bradykinesia and mild rigidity without tremor. After a single dose of haloperidol in the ER he became severely rigid and confused. BP 126/74 mmHg, HR 68 bpm. MMSE 20/30, TSH and B12 normal.",
+    "pregunta": "What is the most likely diagnosis?",
+    "opciones": {
+      "A": "Alzheimer disease",
+      "B": "Vascular dementia",
+      "C": "Dementia with Lewy bodies",
+      "D": "Normal pressure hydrocephalus"
+    },
+    "correcta": "C",
+    "explicacion": "Demencia con fluctuaciones, alucinaciones visuales bien formadas, parkinsonismo y reacción grave a un antipsicótico = demencia por cuerpos de Lewy.",
+    "distractores": {
+      "A": "El Alzheimer inicia con pérdida de memoria reciente; las alucinaciones visuales tempranas y el parkinsonismo no son típicos.",
+      "B": "La vascular da un deterioro escalonado con factores de riesgo vascular y déficit focal.",
+      "D": "La hidrocefalia normotensiva da la tríada de demencia, marcha magnética e incontinencia."
+    },
+    "perla": "Cuerpos de Lewy: evita antipsicóticos por la sensibilidad grave."
+  },
+  {
+    "id": "ger-04",
+    "especialidad": "Geriatría",
+    "tema": "Síndrome demencial y enfermedad de Alzheimer",
+    "caso": "Mujer de 80 años con enfermedad de Alzheimer diagnosticada hace 4 años, tratada con donepezilo 10 mg/día. Hoy necesita ayuda para vestirse y bañarse, se pierde dentro de su casa y ya no reconoce a sus nietos. Sin agitación ni alucinaciones. TA 128/76 mmHg, FC 64 lpm. MMSE 11/30. Na 139 mEq/L, TSH normal.",
+    "pregunta": "¿Cuál es la conducta farmacológica más adecuada?",
+    "opciones": {
+      "A": "Cambiar el donepezilo por rivastigmina",
+      "B": "Agregar memantina",
+      "C": "Agregar vitamina E a dosis altas",
+      "D": "Agregar risperidona"
+    },
+    "correcta": "B",
+    "explicacion": "Alzheimer en fase moderada-grave (MMSE 11). La memantina, antagonista NMDA, está indicada en esta fase, sola o combinada con el inhibidor de acetilcolinesterasa.",
+    "distractores": {
+      "A": "Cambiar a otro inhibidor de acetilcolinesterasa no aporta beneficio en el paso a fase grave.",
+      "C": "La vitamina E y los antioxidantes no tienen beneficio sólido.",
+      "D": "No hay síntomas conductuales; además los antipsicóticos en demencia aumentan la mortalidad."
+    },
+    "perla": "Alzheimer leve-moderado: IACE; moderado-grave: memantina (sola o combinada)."
+  },
+  {
+    "id": "ger-05",
+    "especialidad": "Geriatría",
+    "tema": "Depresión en el anciano",
+    "caso": "Hombre de 76 años, viudo desde hace 8 meses, con múltiples consultas por dolor de espalda, estreñimiento y cansancio sin causa orgánica. Niega sentirse triste, pero dejó de ir al club, duerme mal y dice que \"ya no tiene caso\". Tiene fibrilación auricular controlada y bloqueo AV de primer grado. TA 130/80 mmHg, FC 68 lpm. GDS-15 de 10 puntos, TSH 2.0 mUI/L, Na 138 mEq/L.",
+    "pregunta": "¿Cuál es el tratamiento farmacológico de elección?",
+    "opciones": {
+      "A": "Amitriptilina 25 mg por la noche",
+      "B": "Citalopram 40 mg/día",
+      "C": "Sertralina",
+      "D": "Alprazolam"
+    },
+    "correcta": "C",
+    "explicacion": "Depresión en el anciano con presentación atípica (quejas somáticas, poca expresión de tristeza) y GDS-15 positiva. Los ISRS como la sertralina son de primera elección por su menor cardiotoxicidad y mayor seguridad en sobredosis.",
+    "distractores": {
+      "A": "Los tricíclicos se evitan en el anciano (anticolinérgicos, hipotensión ortostática, arritmias), más aún con trastorno de conducción.",
+      "B": "En mayores de 60 años el citalopram no debe pasar de 20 mg/día por prolongación del QT.",
+      "D": "Las benzodiacepinas no tratan la depresión y aumentan caídas y delirium."
+    },
+    "perla": "Anciano con muchas quejas somáticas sin causa: aplica GDS-15 (Yesavage)."
+  },
+  {
+    "id": "ger-06",
+    "especialidad": "Geriatría",
+    "tema": "Ansiedad en el anciano",
+    "caso": "Mujer de 71 años con 8 meses de preocupación excesiva y constante por la salud de sus hijos y por el dinero, tensión muscular, palpitaciones e insomnio de conciliación. No hay crisis de pánico ni ideas de muerte. No toma broncodilatadores ni esteroides. TA 126/78 mmHg, FC 84 lpm. TSH 1.9 mUI/L, ECG en ritmo sinusal. La escala de Hamilton para ansiedad confirma ansiedad moderada.",
+    "pregunta": "Además de la psicoterapia, ¿cuál es el tratamiento farmacológico de elección?",
+    "opciones": {
+      "A": "Escitalopram",
+      "B": "Clonazepam de forma continua",
+      "C": "Hidroxizina",
+      "D": "Amitriptilina"
+    },
+    "correcta": "A",
+    "explicacion": "Trastorno de ansiedad generalizada, la forma más frecuente de ansiedad en el anciano, tras descartar causas orgánicas y farmacológicas. Los ISRS o IRSN son de primera elección.",
+    "distractores": {
+      "B": "Las benzodiacepinas solo se usan en crisis y por poco tiempo; aumentan caídas y delirium.",
+      "C": "La hidroxizina es un antihistamínico anticolinérgico, inapropiado en el anciano.",
+      "D": "Los tricíclicos se evitan en el anciano por sus efectos anticolinérgicos y cardiovasculares."
+    },
+    "perla": "Ansiedad en el anciano: descarta causa orgánica o farmacológica y luego ISRS/IRSN."
+  },
+  {
+    "id": "tra-01",
+    "especialidad": "Traumatología y ortopedia",
+    "tema": "Síndrome del túnel del carpo",
+    "caso": "Mujer de 48 años, capturista, con 6 meses de parestesias y ardor en pulgar, índice y medio de ambas manos, que la despiertan por la noche y mejoran al sacudir las manos; se le caen objetos. Tiene hipotiroidismo. Signos vitales normales. Durkan y Phalen positivos, sin atrofia tenar. TSH 3.1 mUI/L con levotiroxina.",
+    "pregunta": "¿Cuál es el estándar de oro para confirmar el diagnóstico?",
+    "opciones": {
+      "A": "Radiografía de muñeca",
+      "B": "Electromiografía y velocidad de conducción nerviosa",
+      "C": "Ultrasonido del nervio mediano",
+      "D": "Resonancia magnética de muñeca"
+    },
+    "correcta": "B",
+    "explicacion": "Síndrome del túnel del carpo (compresión del mediano). El estándar de oro es la electromiografía con velocidad de conducción nerviosa, que muestra la conducción disminuida.",
+    "distractores": {
+      "A": "La radiografía solo se pide si se sospecha una causa ósea.",
+      "C": "El ultrasonido apoya el diagnóstico (aumento del área del mediano), pero no es el estándar.",
+      "D": "La RM es sensible y específica, pero poco accesible y no es el estándar diagnóstico."
+    },
+    "perla": "Maniobra más sensible y específica: Durkan; estándar de oro: EMG/VCN."
+  },
+  {
+    "id": "tra-02",
+    "especialidad": "Traumatología y ortopedia",
+    "tema": "Fracturas: principios generales",
+    "caso": "Hombre de 32 años que cayó de una escalera sobre el antebrazo derecho. Presenta dolor, deformidad y crepitación a la mitad del antebrazo; pulso radial presente, sensibilidad y movilidad de los dedos conservadas, piel íntegra. TA 128/80 mmHg, FC 92 lpm. Radiografías AP y lateral (con codo y muñeca): fractura diafisaria transversa desplazada de radio y cúbito.",
+    "pregunta": "¿Cuál es el tratamiento definitivo más adecuado?",
+    "opciones": {
+      "A": "Yeso braquipalmar por 6 semanas",
+      "B": "Clavo intramedular fresado",
+      "C": "Fijador externo definitivo",
+      "D": "Reducción abierta y fijación con placas de compresión"
+    },
+    "correcta": "D",
+    "explicacion": "Las fracturas diafisarias del antebrazo en el adulto (como las articulares) requieren reducción anatómica y estabilidad absoluta con placas de compresión, que dan consolidación primaria sin callo.",
+    "distractores": {
+      "A": "El yeso da estabilidad relativa y no mantiene la reducción anatómica que exige el antebrazo del adulto.",
+      "B": "El clavo intramedular (estabilidad relativa) es útil en diáfisis de fémur y tibia, no es el estándar en antebrazo.",
+      "C": "El fijador externo se usa sobre todo en control de daños o fracturas expuestas graves."
+    },
+    "perla": "Antebrazo y fracturas articulares = estabilidad absoluta; fémur, tibia y húmero = estabilidad relativa."
+  },
+  {
+    "id": "tra-03",
+    "especialidad": "Traumatología y ortopedia",
+    "tema": "Lumbalgia",
+    "caso": "Hombre de 35 años, almacenista, con 4 días de dolor lumbar tras cargar una caja, sin irradiación a las piernas. Niega fiebre, pérdida de peso, cáncer o alteraciones de esfínteres. T 36.6 °C, TA 122/78 mmHg. Espasmo paravertebral, Lasègue negativo, fuerza, sensibilidad y reflejos normales.",
+    "pregunta": "¿Cuál es el manejo más adecuado?",
+    "opciones": {
+      "A": "Mantenerse activo, calor local y, si se necesita, AINE o relajante muscular",
+      "B": "Reposo absoluto en cama por 7 días",
+      "C": "Resonancia magnética lumbar",
+      "D": "Paracetamol como analgésico de primera elección y radiografía lumbar"
+    },
+    "correcta": "A",
+    "explicacion": "Lumbalgia mecánica aguda sin banderas rojas: no se pide imagen y se indica mantenerse activo. ACP 2017 recomienda medidas no farmacológicas (calor superficial) y después AINE o relajante muscular.",
+    "distractores": {
+      "B": "El reposo debe ser de 2 días como máximo; prolongarlo causa pérdida muscular y ósea.",
+      "C": "Sin banderas rojas no se pide imagen de inicio.",
+      "D": "El ensayo PACE mostró que el paracetamol no es eficaz en lumbalgia aguda, y la radiografía no está indicada al inicio."
+    },
+    "perla": "Lumbalgia sin banderas rojas: sin imagen hasta 4–6 semanas; 90 % mejora en 6 semanas."
+  },
+  {
+    "id": "tra-04",
+    "especialidad": "Traumatología y ortopedia",
+    "tema": "Osteoartrosis (osteoartritis)",
+    "caso": "A 67-year-old woman with obesity (BMI 33) has had right knee pain for 2 years that worsens with walking and improves with rest, with morning stiffness of 15 minutes. She has CKD stage 3 and a history of peptic ulcer. BP 132/80 mmHg. There is crepitus and bony enlargement without effusion. ESR and CRP are normal. X-ray: asymmetric medial joint-space narrowing, osteophytes and subchondral sclerosis.",
+    "pregunta": "In addition to weight loss and quadriceps strengthening, what is the recommended first-line pharmacologic therapy?",
+    "opciones": {
+      "A": "Oral glucosamine and chondroitin",
+      "B": "Intra-articular hyaluronic acid",
+      "C": "Topical NSAID (diclofenac gel)",
+      "D": "Oral naproxen 500 mg twice daily"
+    },
+    "correcta": "C",
+    "explicacion": "Osteoartrosis de rodilla: dolor mecánico, rigidez <30 min, laboratorio normal y radiografía típica. Según ACR 2019/OARSI, el AINE tópico es de primera línea en rodilla, sobre todo con enfermedad renal o antecedente de úlcera.",
+    "distractores": {
+      "A": "Ya no se recomiendan glucosamina ni condroitina.",
+      "B": "El ácido hialurónico intraarticular tiene recomendación condicional en contra.",
+      "D": "Un AINE sistémico es riesgoso con ERC y antecedente de úlcera péptica."
+    },
+    "perla": "OA: ningún fármaco modifica la enfermedad; bajar de peso y hacer ejercicio son la base."
+  },
+  {
+    "id": "tra-05",
+    "especialidad": "Traumatología y ortopedia",
+    "tema": "Osteomalacia",
+    "caso": "Mujer de 72 años con epilepsia tratada con fenitoína desde hace 15 años; sale poco de casa. Tiene 6 meses de dolor óseo difuso en pelvis y costillas, dificultad para levantarse de la silla y marcha oscilante. TA 118/72 mmHg. Ca 7.9 mg/dL, P 2.1 mg/dL, fosfatasa alcalina 380 U/L, PTH 142 pg/mL. Radiografía: bandas radiolúcidas bilaterales y simétricas en las ramas del pubis.",
+    "pregunta": "¿Cuál es el diagnóstico más probable?",
+    "opciones": {
+      "A": "Osteoporosis posmenopáusica",
+      "B": "Osteomalacia",
+      "C": "Metástasis óseas",
+      "D": "Hiperparatiroidismo primario"
+    },
+    "correcta": "B",
+    "explicacion": "Déficit de vitamina D (anticonvulsivo inductor, poca exposición solar) con hipocalcemia, hipofosfatemia, fosfatasa alcalina y PTH elevadas, debilidad proximal y líneas de Looser-Milkman = osteomalacia.",
+    "distractores": {
+      "A": "En la osteoporosis el calcio, el fósforo, la fosfatasa alcalina y la PTH son normales.",
+      "C": "Las metástasis no producen seudofracturas bilaterales y simétricas con este perfil de vitamina D.",
+      "D": "El hiperparatiroidismo primario cursa con hipercalcemia, no con calcio bajo."
+    },
+    "perla": "Osteoporosis = laboratorio normal; osteomalacia = fosfatasa alcalina alta y Looser-Milkman."
+  },
+  {
+    "id": "tra-06",
+    "especialidad": "Traumatología y ortopedia",
+    "tema": "Osteomielitis",
+    "caso": "Niño de 3 años con 2 días de fiebre y negativa a apoyar la pierna izquierda; no mueve la extremidad. T 38.9 °C, FC 138 lpm. Dolor a la palpación de la metáfisis tibial proximal, sin eritema; la rodilla tiene movilidad pasiva completa sin derrame. Leucocitos 11 200/µL, VSG 58 mm/h, PCR 8 mg/dL. Radiografía de tibia: solo edema de tejidos blandos.",
+    "pregunta": "Según el criterio actual, ¿cuál es el estudio de imagen de elección para confirmar el diagnóstico temprano?",
+    "opciones": {
+      "A": "Repetir la radiografía en 48 horas",
+      "B": "Tomografía computarizada",
+      "C": "Gammagrafía ósea con tecnecio",
+      "D": "Resonancia magnética"
+    },
+    "correcta": "D",
+    "explicacion": "Osteomielitis hematógena aguda metafisaria (seudoparálisis, fiebre, reactantes elevados). La radiografía tarda 10–14 días en mostrar cambios; las guías actuales señalan la RM como imagen de elección para el diagnóstico temprano.",
+    "distractores": {
+      "A": "Los cambios óseos en la radiografía aparecen hasta los 10–14 días; repetirla a las 48 h no ayuda.",
+      "B": "La TAC es útil para secuestros en fase crónica, no para el diagnóstico temprano.",
+      "C": "La gammagrafía se positiviza en 24–48 h, pero la RM es más específica y muestra abscesos."
+    },
+    "perla": "Osteomielitis: S. aureus a cualquier edad; considera Kingella kingae en <4 años."
+  },
+  {
+    "id": "tra-07",
+    "especialidad": "Traumatología y ortopedia",
+    "tema": "Artritis séptica",
+    "caso": "Mujer de 22 años, sexualmente activa, con 5 días de dolor migratorio en muñecas y dedos; hoy tiene la rodilla derecha caliente y muy dolorosa. Inició la menstruación hace 3 días. T 38.4 °C, FC 102 lpm. Tenosinovitis en el dorso de la mano y pústulas con centro necrótico en los antebrazos. Artrocentesis: líquido purulento con 58 000 leucocitos/µL (90 % PMN); Gram con diplococos gramnegativos.",
+    "pregunta": "¿Cuál es el tratamiento antibiótico empírico más adecuado?",
+    "opciones": {
+      "A": "Vancomicina IV",
+      "B": "Oxacilina IV",
+      "C": "Ceftriaxona 1 g IV cada 24 h",
+      "D": "Ciprofloxacino VO"
+    },
+    "correcta": "C",
+    "explicacion": "Artritis gonocócica: síndrome artritis-dermatitis con monoartritis purulenta en una mujer joven durante la menstruación y cocos gramnegativos en el Gram. El tratamiento es ceftriaxona 1 g cada 24 h, además del drenaje articular.",
+    "distractores": {
+      "A": "La vancomicina es para cocos grampositivos con riesgo de MRSA.",
+      "B": "La oxacilina cubre S. aureus sensible, no Neisseria.",
+      "D": "Una quinolona oral no es el tratamiento de una artritis séptica gonocócica."
+    },
+    "perla": "Artritis séptica en joven sexualmente activo = gonococo; en el resto de los adultos = S. aureus."
+  },
+  {
+    "id": "tra-08",
+    "especialidad": "Traumatología y ortopedia",
+    "tema": "Luxaciones",
+    "caso": "Hombre de 28 años, copiloto en un choque frontal, golpeó el tablero con la rodilla. Tiene dolor intenso en la cadera izquierda y el miembro en flexión, aducción, rotación interna y acortamiento. TA 118/76 mmHg, FC 104 lpm. Pulsos distales presentes. La radiografía AP de pelvis muestra la cabeza femoral fuera del acetábulo, desplazada hacia atrás y arriba, sin fractura evidente.",
+    "pregunta": "¿Qué estructura nerviosa se lesiona con más frecuencia en esta luxación?",
+    "opciones": {
+      "A": "Nervio ciático",
+      "B": "Nervio femoral",
+      "C": "Nervio obturador",
+      "D": "Nervio axilar"
+    },
+    "correcta": "A",
+    "explicacion": "Luxación posterior de cadera (golpe de tablero; flexión, aducción, rotación interna y acortamiento). Se lesiona el nervio ciático en 10–20 %. Hay que explorar nervios y pulsos antes y después de reducir, y reducir en menos de 6 horas.",
+    "distractores": {
+      "B": "El nervio femoral es anterior y se relaciona más con la luxación anterior.",
+      "C": "El obturador no es el nervio lesionado típicamente en la luxación posterior.",
+      "D": "El nervio axilar se lesiona en la luxación anterior de hombro."
+    },
+    "perla": "Cadera posterior: reducir en <6 h (Allis o Stimson) para bajar el riesgo de necrosis avascular."
+  },
+  {
+    "id": "tra-09",
+    "especialidad": "Traumatología y ortopedia",
+    "tema": "Hernia de disco",
+    "caso": "Hombre de 42 años con 3 semanas de dolor lumbar irradiado por la cara posterior del muslo y la pierna derecha hasta la planta del pie, que inició tras cargar un bulto. Sin alteraciones de esfínteres. Signos vitales normales. Lasègue positivo a 45°, dificultad para caminar de puntas, hipoestesia del borde lateral del pie y reflejo aquíleo disminuido; el rotuliano y la marcha de talones son normales.",
+    "pregunta": "¿Qué raíz nerviosa está afectada con mayor probabilidad?",
+    "opciones": {
+      "A": "L4 (disco L3-L4)",
+      "B": "S1 (disco L5-S1)",
+      "C": "L5 (disco L4-L5)",
+      "D": "L3 (disco L2-L3)"
+    },
+    "correcta": "B",
+    "explicacion": "Debilidad de la flexión plantar (marcha de puntas), hipoestesia del borde lateral y planta del pie, e hiporreflexia aquílea = radiculopatía S1 por hernia posterolateral L5-S1.",
+    "distractores": {
+      "A": "L4 afecta la extensión de la rodilla, la sensibilidad medial de la pierna y el reflejo rotuliano.",
+      "C": "L5 afecta la dorsiflexión del primer dedo (marcha de talones) y el dorso del pie, sin cambios en reflejos.",
+      "D": "L3 da dolor en la cara anterior del muslo y afecta el rotuliano."
+    },
+    "perla": "Aquíleo = S1; rotuliano = L4; L5 no tiene reflejo clásico (dorsiflexión del hallux)."
+  },
+  {
+    "id": "tra-10",
+    "especialidad": "Traumatología y ortopedia",
+    "tema": "Fracturas expuestas",
+    "caso": "Hombre de 45 años, campesino, que sufrió una volcadura de tractor en el campo hace 2 horas. Tiene una herida de 3 cm en la cara anterior de la pierna izquierda contaminada con tierra y estiércol, con fractura conminuta de tibia en la radiografía. TA 110/70 mmHg, FC 108 lpm. Pulsos distales presentes. Vacunación antitetánica desconocida. Hb 12.1 g/dL.",
+    "pregunta": "Además de la profilaxis antitetánica, ¿cuál es el esquema antibiótico más adecuado?",
+    "opciones": {
+      "A": "Cefazolina sola",
+      "B": "Ciprofloxacino oral",
+      "C": "Esperar el cultivo de la herida tomado en quirófano",
+      "D": "Cefazolina + aminoglucósido + penicilina"
+    },
+    "correcta": "D",
+    "explicacion": "Fractura expuesta que se clasifica como Gustilo III por el mecanismo de alta energía y la contaminación agrícola, aunque la herida mida menos de 10 cm. Se cubren grampositivos y gramnegativos y se agrega penicilina por el riesgo de clostridios, idealmente en la primera hora.",
+    "distractores": {
+      "A": "La cefazolina sola basta en grados I y II; en el grado III hay que cubrir gramnegativos.",
+      "B": "El ciprofloxacino solo es alternativa en I y II, se da IV y reduce la actividad osteoblástica.",
+      "C": "Los cultivos de la herida no aportan valor, y retrasar el antibiótico aumenta la infección."
+    },
+    "perla": "Contaminación de campo o alta energía = Gustilo III aunque la herida sea pequeña."
+  }
+]
