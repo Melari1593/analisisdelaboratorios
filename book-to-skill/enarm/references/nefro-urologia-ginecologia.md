@@ -234,7 +234,7 @@
 - **Diálisis peritoneal:**
   - Membrana = peritoneo (1.7–2 m²; la hoja visceral participa más). Catéter anclado a subcutáneo; solución con Na, Ca, Mg fisiológicos y lactato/bicarbonato.
   - **Glucosa 1.5%, 2.5%, 4.25%** crea el gradiente para ultrafiltración (a mayor %, más extracción de líquido).
-  - Modalidades: **DPI** (intermitente, hospitalaria, inicio o sin espacio en casa; 30–50 recambios/día; ya casi en desuso); **DPCA** (la más usada; 4–6 recambios diarios en casa + permanencia nocturna); **DPA** con cicladora (nocturna intermitente = DPNI; si se añaden recambios diurnos = DPCC).
+  - Modalidades: DPI (hospitalaria, casi en desuso); **DPCA** (la más usada; 4–6 recambios/día en casa); DPA con cicladora nocturna (DPNI; + recambios diurnos = DPCC).
   - Preferir DP: estilo de vida activo (escuela/trabajo), **ICC o angina inestable** (evita cambios bruscos de volumen/TA), enfermedad vascular extensa sin acceso vascular.
 - **Hemodiálisis:**
   - Acceso vascular: catéter temporal/permanente, **fístula arteriovenosa** o injerto; filtro con membrana sintética, sangre heparinizada.
@@ -381,11 +381,10 @@
 - **Barrera:** condón masculino/femenino, diafragma, capuchón, espermicidas (nonoxinol-9). **Condón = único que protege contra ETS/VIH** (85–97%). Espermicidas solos 75–90%.
 - **DIU:** cobre o levonorgestrel; 5–10 años; mecanismo: reacción inflamatoria endometrial que impide paso de espermatozoides (el LNG además espesa moco); 95–99%.
 - **Naturales (70–80%):**
-  - Ritmo/Ogino-Knaus: inicio fértil = ciclo más corto − 19; fin = ciclo más largo − 12.
-  - Temperatura basal: elevación 0.2–0.4 °C tras ovular; abstinencia desde el día 1 hasta el **3er día de temperatura elevada**; medición más exacta rectal.
-  - Billings (moco): abstinencia desde que aparece moco abundante/lubricante hasta el **4º día después del pico (moco filante "clara de huevo")**.
-  - MELA/lactancia: ovulación poco probable en las primeras 10 semanas; la ovulación precede a la primera menstruación (riesgo).
-  - Coito interrumpido.
+  - Ritmo (Ogino-Knaus): fértil desde (ciclo más corto − 19) hasta (ciclo más largo − 12).
+  - Temperatura basal: ↑0.2–0.4 °C tras ovular; abstinencia hasta el **3er día de temperatura alta**.
+  - Billings: abstinencia hasta el **4º día después del moco filante**.
+  - Lactancia: poco fiable; la ovulación precede a la primera menstruación. Coito interrumpido.
 - **Permanentes (>99%):** **OTB** (Pomeroy, Uchida, Irving; de elección minilaparotomía con **Pomeroy modificado**); **vasectomía** (oclusión de deferentes).
 - ⚠️ Actualización: la OMS actualizó los criterios de elegibilidad (5ª ed. 2015 y posteriores); la anticoncepción reversible de acción prolongada (DIU/implante) es primera opción incluso en adolescentes y nulíparas. Tras vasectomía se requiere confirmar azoospermia (≈3 meses) antes de confiar en el método.
 
@@ -559,7 +558,7 @@
 - **Estadificación simplificada:** 0 in situ; temprano (I–IIA/IIB T2N0); localmente avanzado (IIB T3N0–IIIC); metastásico (IV).
 - **Tratamiento:**
   - **Cirugía conservadora + radioterapia** en etapas I–II, tumor <3 cm (o mayor tras neoadyuvancia). **Contraindicaciones absolutas:** multicentricidad, mala relación mama/tumor, imposibilidad de RT o RT previa, **1er trimestre de embarazo**, rechazo. Relativas: Paget, <40 años, colagenopatías (LES, esclerodermia).
-  - Mastectomías: **Halsted** (mama + ambos pectorales + axila I–III); Haagensen; Urban (+ pared y mamaria interna); **Patey** (quita pectoral menor); **Madden** (preserva ambos pectorales = radical modificada más usada); Auchincloss (preserva pectoral menor, niveles I–II).
+  - Mastectomías: **Halsted** (mama + ambos pectorales + axila I–III); **Patey** (quita pectoral menor); **Madden** (preserva ambos pectorales = radical modificada más usada); Urban (radical ampliada a mamaria interna).
   - **Localmente avanzado → quimioterapia neoadyuvante** y luego cirugía.
   - Prevención en BRCA: mastectomía bilateral profiláctica; salpingooforectomía <40 años ↓50%; consejo genético.
 - **Supervivencia a 5 años:** EC0 98%, I 95%, II 85%, III 35–50%, IV 5–10%.
@@ -625,7 +624,7 @@
 - **Factores:** **VPH (el más frecuente)**, radioterapia previa, inmunosupresión, QT, histerectomía (sobre todo por NIC), DES, tabaco.
 - **Epidemiología:** menos común que NIC y NIV; 36–48% tiene NIC concurrente; ~75% con carcinoma escamoso de cérvix o vulva previo/coexistente; edad media ~53 años en NIVA 3.
 - **Clínica:** asintomática; ocasional sangrado poscoito o flujo. **Tercio superior de vagina en 85–92%**, multifocal ~50%.
-- **Colposcopia:** acetoblanco, yodo negativo (amarillo mostaza); en atrofia la captación de yodo es nula (dar estrógenos antes). Terminología IFCPC 2011 (grado 1 menor, grado 2 mayor, sospecha de invasión).
+- **Colposcopia:** acetoblanco, yodo negativo (amarillo mostaza); en atrofia la captación de yodo es nula.
 - **Evolución:** gran parte de bajo grado regresa sola; NIVA 3 progresa menos que NIC 3.
 - **Tratamiento:** observación (jóvenes, bajo grado); **vaporización láser CO₂** si se descarta invasión; escisión/**vaginectomía parcial** (sospecha de invasión o >40 años; curación ~90%); 5-FU tópico, **imiquimod**, estrógenos tópicos, braquiterapia; invasión → radioterapia.
 
@@ -650,8 +649,7 @@
 - **Tratamiento:**
   - Asintomático I–II: observación + **Kegel** (150–200 contracciones/día ≥8 semanas).
   - Sintomático (≥II): Kegel, estrógenos locales si atrofia; **pesario** (conservador seguro, barato; también en embarazo o preoperatorio) si no es candidata o no desea cirugía.
-  - Cirugía: anterior → colporrafia anterior/reparación paravaginal (± Burch o sling si IUE); apical → histeropexia/suspensión a uterosacros, **sacrocolpopexia abdominal con malla (éxito ~98%, mantiene eje vaginal; jóvenes sexualmente activas)**, fijación a sacroespinoso (vía vaginal; más dispareunia); **colpocleisis de LeFort** en ancianas de alto riesgo **sin vida sexual**; posterior → colpoperineorrafia.
-  - Mallas: solo casos seleccionados/recidivas (erosión 20–30%).
+  - Cirugía: anterior → colporrafia anterior; apical → **sacrocolpopexia abdominal con malla** (éxito ~98%; jóvenes sexualmente activas) o fijación a sacroespinoso (vaginal; más dispareunia); **colpocleisis de LeFort** en ancianas de alto riesgo **sin vida sexual**; posterior → colpoperineorrafia. Mallas vaginales solo en recidivas (erosión 20–30%).
 - ⚠️ Actualización: FDA (2019) retiró las **mallas transvaginales** para prolapso; la malla abdominal (sacrocolpopexia) sigue vigente.
 
 ### Incontinencia urinaria (IU)
@@ -667,7 +665,7 @@
 | **Funcional** | Vía urinaria intacta; no llega al baño (movilidad, cognición) | | | Medidas ambientales |
 
 - **Tratamiento inicial de toda IU en mujer = conservador:** bajar peso, manejo de líquidos, dejar tabaco, micción programada, **Kegel**, biofeedback, conos, electroestimulación, pesarios.
-- **Cirugía de IUE:** MMK (histórica, osteítis del pubis); **Burch**; uretropexias laparoscópicas; agujas (Pereyra, Stamey, Raz); cabestrillos; TVT/TOT; minibandas; agentes de volumen; esfínter artificial; **plicatura de Kelly ya no se recomienda**.
+- **Cirugía de IUE:** MMK es histórica (osteítis del pubis); **Burch**; TVT/TOT; agentes de volumen; esfínter artificial; **plicatura de Kelly ya no se recomienda**.
 - **IU transitoria — DIAPERS:** Delirium, Infección, vaginitis Atrófica, Psicológicas, Pharmacologic (fármacos), Endocrinas (hiperglucemia/hipercalcemia), Restricción de movilidad, Stool (impactación fecal).
 - **Fármacos que la causan:** α-bloqueadores (relajan esfínter → fuga), α-agonistas (retención), anticolinérgicos/opioides (retención/rebosamiento), **IECA (tos)**, calcioantagonistas y glitazonas (diuresis nocturna), diuréticos/cafeína/alcohol (poliuria).
 - **IU "complicada" (referir):** dolor, hematuria, IVU recurrente, disfunción miccional, prolapso importante, cirugía/radioterapia pélvica previa, falla de cirugía anti-incontinencia, sospecha de fístula.
