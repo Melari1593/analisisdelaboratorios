@@ -25,7 +25,6 @@
   - Insulina intensiva (múltiples dosis o bomba). Dosis inicial de referencia **0.3–0.4 UI/kg/día**, repartida en basal + prandial.
   - Basal: NPH o análogos lentos (glargina, detemir, degludec). Prandial: regular o ultrarrápidos (lispro, aspart, glulisina). Se prefieren **análogos** (menos hipoglucemia).
   - Conteo de carbohidratos: ≈1 U extra por cada 15 g de CHO.
-  - Dieta: CHO 45–65%, grasas 25–35% (<7% saturadas), proteínas 10–35%.
 - **Perlas:** estudio **DCCT** → terapia intensiva reduce retinopatía (~47%), neuropatía (~69%), microalbuminuria (~34%) y eventos CV (~42%). Ninguna inmunoterapia (ciclosporina, anti-CD20, MTX) ha probado prevenir DM1 (según el libro).
 - ⚠️ **Actualización:** teplizumab (anti-CD3) aprobado por FDA (2022) para **retrasar** DM1 estadio 3 en pacientes con estadio 2 (≥2 autoanticuerpos + disglucemia). Se usa estadiaje 1-2-3 de DM1 presintomática. Monitoreo continuo de glucosa y asa cerrada (páncreas artificial) son estándar actual.
 
@@ -51,7 +50,7 @@
   - Cambios de estilo de vida + **metformina** = primera línea (salvo contraindicación).
   - Si a los **3 meses** no se alcanza la meta → agregar 2.º oral, arGLP-1 o insulina.
   - Síntomas marcados o HbA1c/glucosa muy altas al diagnóstico → **insulinización temprana**.
-- **Prevención:** estudio **DPP**: estilo de vida reduce la incidencia de DM2 **58%** (predictor principal: pérdida de peso). Meta: perder ~7% del peso, **150 min/semana** de ejercicio aeróbico moderado, no más de 2 días seguidos sin ejercicio; fibra 14 g/1 000 kcal.
+- **Prevención:** estudio **DPP**: estilo de vida reduce DM2 **58%** (clave: pérdida de peso ~7% y **150 min/semana** de ejercicio moderado).
 - **Perlas:** la metformina puede considerarse en prediabetes con obesidad. El fármaco inicial es metformina; "lo primero que haces" en DM2 recién diagnosticada sin síntomas graves: estilo de vida + metformina.
 - ⚠️ **Actualización (ADA 2024–2026):** en pacientes con ECV aterosclerótica, IC o ERC se indica **iSGLT2 y/o arGLP-1 con beneficio demostrado, independiente de la HbA1c y de la metformina**. Para control de peso se prefieren arGLP-1 potentes o **tirzepatida** (agonista dual GIP/GLP-1). Tamizaje ADA: a todos desde los **35 años** (no 45). La metformina sigue siendo opción inicial costo-efectiva, pero ya no es obligatoria como primer paso en todos.
 
@@ -129,8 +128,8 @@
 | Cintura hombres / mujeres (modificada para mexicanos) | >90 / >80 | >90 / >80 |
 | Glucosa en ayuno | >110 | >100 |
 
-- **Tratamiento:** estilo de vida (dieta, ejercicio, pérdida de peso y de cintura) como base; fármacos según cada componente (estatinas, antihipertensivos, metformina, etc.).
-- **Perlas:** la ATP III original usa cintura 102/88; ATP III actualizada/armonizada usa glucosa ≥100. Recuerda que la cintura en IDF es criterio obligatorio.
+- **Tratamiento:** estilo de vida; fármacos por componente.
+- **Perlas:** ATP III original usa cintura 102/88; en IDF la obesidad central es obligatoria.
 
 ### Síndrome de secreción inapropiada de ADH (SIADH / SIHAD)
 - **Clave:** hiponatremia **euvolémica** por ADH inapropiada → orina concentrada y retención de agua libre.
@@ -208,7 +207,6 @@
 - **Tratamiento:** **paratiroidectomía** (curativa); en hiperplasia se extraen 3½ glándulas (o 4 con autoimplante en antebrazo).
   - Indicaciones quirúrgicas en asintomáticos (libro): Ca >1 mg/dl sobre el límite; edad **<50**; DCr <30 (hoy <60); litiasis o calciuria >400 mg/día; T-score ≤−2.5; síntomas.
   - Médico: bisfosfonatos (alendronato), estrógenos/SERM, **cinacalcet** (calcimimético, útil en secundario), análogos de vitamina D + quelantes en secundario por ERC.
-- **Seguimiento:** Ca sérico semestral, creatinina y densitometría anual.
 - **Perlas:** causa más frecuente de hipercalcemia ambulatoria = hiperparatiroidismo primario; hospitalaria = cáncer (PTHrP).
 - ⚠️ **Actualización (5.º taller internacional, 2022):** indicaciones: Ca >1 mg/dl sobre el límite; T ≤−2.5 o fractura vertebral; **TFG <60**; calciuria >250 (mujer)/300 (hombre) mg/día o litiasis/nefrocalcinosis; edad <50.
 
@@ -260,7 +258,7 @@
 - **Tratamiento:**
   - Enfermedad de Cushing: **cirugía transesfenoidal** (remisión 70–90%); si falla: reintervención, radioterapia (lenta, hipopituitarismo), adrenalectomía bilateral (riesgo de **Nelson**).
   - Adenoma suprarrenal: **adrenalectomía laparoscópica unilateral**.
-  - Médico (puente/adyuvante): inhibidores de esteroidogénesis (**ketoconazol, metirapona, mitotano, etomidato**), cabergolina, **pasireotida**, mifepristona.
+  - Médico (puente): **ketoconazol, metirapona, mitotano, etomidato**; cabergolina, pasireotida, mifepristona.
   - Poscirugía: cortisol/ACTH muy bajos a la mañana siguiente = remisión; requiere **reemplazo de esteroide 6–12 meses** (eje suprimido).
 - **Perlas:** recurrencia 20–25% a 10 años; carcinoma suprarrenal <10% a 5 años. Hipopotasemia marcada + hiperpigmentación + evolución rápida → ACTH ectópica.
 - ⚠️ **Actualización:** para localizar Cushing ACTH-dependiente el estándar es **cateterismo de senos petrosos inferiores** con CRH/desmopresina; la prueba de 8 mg casi no se usa. Osilodrostat aprobado (2020) como inhibidor de 11β-hidroxilasa.
@@ -286,7 +284,7 @@
   - Tamizaje: **IGF-1** elevado para edad y sexo (mejor prueba inicial).
   - Confirmación: **GH no suprime a <1 ng/ml tras CTOG de 75 g** (estándar de oro).
   - Luego **RM de hipófisis con contraste**.
-- **Tratamiento:** **cirugía transesfenoidal** (elección). Persistencia → **análogos de somatostatina** (octreotida, lanreotida), agonistas dopaminérgicos (cabergolina), **pegvisomant** (antagonista del receptor de GH), radioterapia (riesgo de hipopituitarismo tardío).
+- **Tratamiento:** **cirugía transesfenoidal** (elección). Persistencia → **análogos de somatostatina** (octreotida, lanreotida), cabergolina, **pegvisomant** (antagonista del receptor de GH), radioterapia.
 - **Control:** IGF-1 normal para edad y GH <1 ng/ml post-carga, a los 3–6 meses.
 - **Perla:** los cambios óseos no revierten; los de tejidos blandos, síndrome del túnel del carpo y apnea sí mejoran.
 - ⚠️ **Actualización:** consensos recientes aceptan GH nadir **<0.4 ng/ml** con ensayos ultrasensibles. Pasireotida y octreotida oral están disponibles.
@@ -398,7 +396,7 @@
   - Avanzado (III–IV): ABVD 6–8 ciclos (o **BEACOPP escalado**, Stanford V).
   - Refractario/recaída: quimioterapia de rescate + **TCPH autólogo**.
   - Predominio linfocítico nodular: RT local en tempranos.
-- **Pronóstico:** >80% curación global; recaída más frecuente en 1–2 años. Toxicidades tardías: **bleomicina → fibrosis pulmonar**, **doxorrubicina → cardiotoxicidad**, RT → cáncer de mama, tiroides, cardiopatía; segundos cánceres.
+- **Pronóstico:** >80% curación. Toxicidad tardía: **bleomicina → fibrosis pulmonar**, **doxorrubicina → cardiotoxicidad**, RT → cáncer de mama/tiroides.
 - **Perlas:** LH = contiguo, ganglios centrales, RS; LNH = no contiguo, extranodal frecuente.
 - ⚠️ **Actualización:** estadificación con **PET-TC** (Lugano) y tratamiento adaptado a PET interino (Deauville 1–5); **brentuximab vedotina (anti-CD30) + AVD** y, desde 2024, **nivolumab + AVD** (estudio S1826) en estadios avanzados; inhibidores PD-1 en recaída. La OMS/ICC 2022 separan el tipo nodular de predominio linfocítico (ICC lo llama "linfoma B nodular de predominio linfocítico").
 
@@ -449,7 +447,7 @@
   4. **Renal** (20–50%): hematuria, proteinuria, nefrítico/nefrótico, HTA → **principal factor pronóstico**.
 - **Diagnóstico:** **clínico**. Laboratorio para descartar: **plaquetas normales o altas** (no es trombocitopenia), tiempos normales, EGO (hematuria/proteinuria), creatinina, sangre oculta en heces, C3/C4 normales, IgA sérica alta en ~50%. Biopsia: vasculitis leucocitoclástica con IgA.
 - **Tratamiento:** soporte (autolimitada 2–4 semanas); **AINE** para artralgias (evitar si hay nefropatía); **prednisona 1–2 mg/kg** en dolor abdominal importante; formas graves GI: metilprednisolona, IgIV, plasmaféresis; nefritis grave: esteroides ± inmunosupresores (ciclofosfamida, micofenolato, etc.); piel ampollosa: dapsona/colchicina.
-- **Pronóstico:** recurrencias en ~1/3; seguimiento con **EGO y TA por 6–12 meses**; riesgo de HTA/proteinuria en embarazos futuros.
+- **Pronóstico:** recurre en ~1/3; seguimiento con **EGO y TA 6–12 meses**.
 - **Perla/trampa:** niño con púrpura palpable + dolor abdominal + artralgias y **plaquetas normales** = Henoch-Schönlein (no PTI).
 - ⚠️ **Actualización:** nomenclatura Chapel Hill 2012: **"vasculitis por IgA"**. Los esteroides tempranos no previenen la nefritis.
 
@@ -457,7 +455,7 @@
 - **Clave:** neoplasias clonales de la célula madre con **sobreproducción de células maduras funcionales**, sin cromosoma Filadelfia, curso crónico. Mutación **JAK2 V617F** (activa JAK-STAT): ~95% en policitemia vera, ~50–60% en trombocitemia esencial y mielofibrosis.
 - **Policitemia vera (PV):**
   - 50–70 años, discreto predominio masculino.
-  - Clínica: trombosis (incluida **Budd-Chiari**), sangrado, **prurito tras el baño (acuagénico)**, **eritromelalgia**, cefalea, trastornos visuales, plétora facial, esplenomegalia, HTA.
+  - Clínica: trombosis (**Budd-Chiari**), **prurito acuagénico**, **eritromelalgia**, cefalea, plétora, esplenomegalia.
   - Diagnóstico (OMS 2008 del libro): mayores = Hb >18.5 (H)/16.5 (M) o masa eritrocitaria >25% sobre lo normal + JAK2; menores = médula panmielótica, colonias eritroides endógenas, **EPO sérica baja**. Se requieren 2 mayores + 1 menor, o 1 mayor + 2 menores.
   - Tratamiento: **flebotomía para Hto <45%** + **aspirina 100 mg/día**; citorreducción (**hidroxiurea**, interferón α) en alto riesgo (**>60 años o trombosis previa**).
 - **Trombocitemia esencial (TE):**
@@ -483,7 +481,7 @@
   - Respuesta rápida/sangrado importante o sin respuesta a esteroide: **IgIV** (efecto en días, dura 2–4 semanas).
   - 2.ª línea: **rituximab** (anti-CD20); **esplenectomía** en refractarios (remisión 85–90%; vacunar contra neumococo, meningococo y Hib antes).
   - Sangrado grave: IgIV + esteroide + transfusión de plaquetas.
-- **Pronóstico:** adultos tienden a cronicidad; niños remiten espontáneamente en la mayoría. Muerte rara (hemorragia intracraneal, infección).
+- **Pronóstico:** adultos → cronicidad; niños → remisión espontánea.
 - **Perlas:** niño previamente sano con petequias tras viriasis y solo plaquetas bajas → PTI, frecuentemente **solo observación**. En embarazo, esteroide o IgIV.
 - ⚠️ **Actualización (ASH 2019, consenso internacional 2019):** en niños sin sangrado o con sangrado cutáneo leve se prefiere **observación**; en adultos, ciclos cortos de esteroide (≤6 semanas). Segunda línea preferente: **agonistas del receptor de trombopoyetina** (eltrombopag, romiplostim, avatrombopag) o rituximab; la esplenectomía se difiere al menos 12 meses. Fostamatinib (inhibidor de SYK) como opción.
 
@@ -537,7 +535,7 @@
 - **Clínica:** pápulas violáceas brillantes con **estrías de Wickham** (líneas blancas), **fenómeno de Koebner**; cara anterior de **muñecas**, tobillos, piernas; bilateral y simétrico; deja hiperpigmentación. Oral: retículo blanco en mucosa yugal (asintomático; erosivo doloroso). Muchas variantes: anular, lineal, hipertrófico, ampolloso, erosivo, folicular/**liquen plano pilar (alopecia cicatricial)**, ungueal (pterigión), pigmentoso.
 - **Diagnóstico:** clínico + biopsia: dermatitis de interfase en banda (liquenoide), hipergranulosis, **cuerpos de Civatte** (queratinocitos necróticos, PAS+); IFD con banda de fibrinógeno en la unión dermoepidérmica.
 - **Tratamiento:** retirar fármacos/prótesis sospechosas; localizado → **esteroides tópicos potentes** o intralesionales, inhibidores de calcineurina, antihistamínicos; generalizado → esteroide sistémico, **retinoides orales**, **PUVA/UVB**, inmunosupresores.
-- **Pronóstico:** cutáneo remite en 1–2 años; mucoso e hipertrófico más crónicos; recurrencia 12–49%; **riesgo de carcinoma epidermoide en liquen plano oral erosivo** (seguimiento).
+- **Pronóstico:** cutáneo remite en 1–2 años; **oral erosivo → riesgo de carcinoma epidermoide**.
 - **Perla:** siempre pedir **serología de VHC** ante liquen plano (sobre todo oral).
 
 ### Liquen escleroso (escleroatrófico)
@@ -578,9 +576,9 @@
 - **Pronóstico — SCORTEN** (1 punto cada uno, al ingreso): edad >40, **FC >120**, cáncer, desprendimiento >10%, **BUN >28 mg/dl**, **glucosa >252 mg/dl**, **HCO₃ <20**. Mortalidad: 0–1 → 3.2%; 2 → 12.2%; 3 → 35.5%; 4 → 58.3%; ≥5 → 90%. Mortalidad global SSJ 1–5%, NET 25–30%.
 - **Tratamiento:**
   - **Lo primero: suspender el fármaco sospechoso** (vida media corta = mejor pronóstico).
-  - Manejo en **UCI/unidad de quemados** (traslado **antes de 7 días** reduce mortalidad), aislamiento, líquidos guiados por diuresis 0.5–1 ml/kg/h, temperatura ambiente 30–32 °C, curación sin adhesivos, cuidado ocular (lubricación, lisis de sinequias), nutrición, cultivos seriados (antibiótico solo si hay infección, **no profiláctico**), tromboprofilaxis con enoxaparina.
+  - **UCI/unidad de quemados** (traslado **antes de 7 días** baja mortalidad): líquidos por diuresis 0.5–1 ml/kg/h, ambiente 30–32 °C, sin adhesivos, cuidado ocular, nutrición, cultivos (antibiótico **no profiláctico**), enoxaparina.
   - El libro: **no recomienda corticoides**; **IgIV** en primeras 48–72 h.
-- **Secuelas:** oculares (ojo seco, simbléfaron, ceguera), cutáneas (discromías, alopecia, distrofia ungueal), pulmonares (bronquiolitis obliterante), sinequias vulvovaginales, fimosis.
+- **Secuelas:** sobre todo **oculares** (ojo seco, simbléfaron, ceguera); discromías, bronquiolitis obliterante, sinequias genitales.
 - **Prevención:** no reexponer; genotipificar **HLA-B*15:02 antes de carbamazepina en asiáticos**; HLA-B*58:01 antes de alopurinol en poblaciones de riesgo.
 - ⚠️ **Actualización:** la evidencia actual (metaanálisis, guías británicas 2016/2021) favorece **ciclosporina** y anti-TNF (**etanercept**) sobre IgIV, cuyo beneficio no está demostrado; los esteroides en pulsos tempranos siguen siendo controvertidos. Se usa el algoritmo **ALDEN** para imputar el fármaco.
 
@@ -600,7 +598,6 @@
   - **Excisión amplia** con margen según espesor de Breslow: in situ **0.5 cm**; ≤1 mm **1 cm**; 1–2 mm 1–2 cm; >2 mm **2 cm**.
   - **Ganglio centinela** si Breslow **>1 mm** (o 0.8–1 mm con ulceración/factores de riesgo).
 - **Pronóstico:** **el factor aislado más importante = espesor de Breslow**. Supervivencia a 10 años aprox.: **<1 mm ~95%** (el libro lo escribe ">1 mm", es errata), 1–2 mm 80%, 2–4 mm 55%, >4 mm 30%. Ganglios + → ~30% a 5 años; metástasis a distancia <10% (datos previos a inmunoterapia).
-- **Prevención:** fotoprotección, evitar quemaduras y camas de bronceado, autoexploración.
 - ⚠️ **Actualización:** estadificación **AJCC 8.ª ed.** (Breslow + ulceración; T1a <0.8 mm sin úlcera). Revolución terapéutica: **inmunoterapia anti-PD-1 (nivolumab, pembrolizumab) ± anti-CTLA-4 (ipilimumab)**, relatlimab (anti-LAG-3), y **terapia dirigida BRAF/MEK** (dabrafenib + trametinib, etc.) en BRAF V600; adyuvancia desde estadio IIB; neoadyuvancia con pembrolizumab. La linfadenectomía completa tras centinela positivo ya **no es rutinaria** (MSLT-II). La supervivencia a 5 años en estadio IV hoy supera ~50% con inmunoterapia combinada.
 
 ### Dermatitis atópica (DA)
@@ -657,9 +654,8 @@
   - Placa/nódulo queratósico, verrugoso o ulcerado de **crecimiento más rápido**; **puede dar metástasis ganglionares** (mayor riesgo en labio, oreja, >2 cm, invasión perineural, inmunosuprimidos).
   - Histología: queratinocitos atípicos invasores con **perlas córneas**; estadificación TNM.
 - **Diagnóstico:** sospecha clínica/dermatoscopia; **confirmación por biopsia**.
-- **Tratamiento:** **cirugía** (mejores resultados) con márgenes: CBC bajo riesgo **4 mm**, alto riesgo 10 mm; CEC bajo riesgo 4–6 mm, alto riesgo 10 mm. **Cirugía micrográfica de Mohs** en alto riesgo (zona H/"máscara" facial, recurrentes, bordes mal definidos, subtipos agresivos). Radioterapia si no es candidato quirúrgico. Superficiales/in situ de bajo riesgo: **5-fluorouracilo o imiquimod tópicos**, terapia fotodinámica, crioterapia, curetaje.
+- **Tratamiento:** **cirugía** (mejor resultado): CBC bajo riesgo margen **4 mm**, alto 10 mm; CEC bajo 4–6 mm, alto 10 mm. **Mohs** en alto riesgo (zona H, recurrente, subtipo agresivo). RT si no es operable. Superficial/in situ de bajo riesgo: **5-FU o imiquimod**, fotodinámica, crioterapia.
 - **Zonas de riesgo:** **H** = máscara facial (centro de cara, párpados, nariz, labios, mentón, pre/retroauricular), genitales, manos, pies (alto riesgo si ≥6 mm); **M** = mejillas, frente, piel cabelluda, cuello (≥10 mm); **L** = tronco y extremidades (≥20 mm).
-- **Prevención:** fotoprotección, tratar lesiones precancerosas (queratosis actínicas), retinoides orales en alto riesgo (trasplantados).
 - ⚠️ **Actualización:** CBC avanzado/metastásico: **inhibidores de Hedgehog** (vismodegib, sonidegib) y cemiplimab como segunda línea. CEC localmente avanzado/metastásico: **anti-PD-1 (cemiplimab, pembrolizumab)**. Nicotinamida oral reduce nuevos cánceres no melanoma en alto riesgo.
 
 ### Vitíligo
@@ -674,8 +670,7 @@
   - Extenso/no segmentario: **UVB de banda estrecha** (preferido en niños y adultos), PUVA; esteroides sistémicos en minipulsos para detener progresión rápida.
   - Estable y refractario localizado: **injertos** (minipunch, suspensión de melanocitos/queratinocitos autólogos).
   - Afección >50% refractaria: **despigmentación** con monobenciléter de hidroquinona.
-- **Pronóstico:** mejor en jóvenes, evolución corta y localizado; peor en acral/labios y mucosas, larga evolución.
-- **Perla:** fotoprotección (piel sin melanina se quema fácilmente); apoyo psicológico.
+- **Pronóstico:** mejor en jóvenes, localizado y de corta evolución.
 - ⚠️ **Actualización:** **ruxolitinib crema 1.5%** (inhibidor JAK tópico) aprobado (FDA 2022) para vitíligo no segmentario (≥12 años); inhibidores JAK orales (ritlecitinib, upadacitinib) en estudio fase 3.
 
 ### Dermatitis por contacto
@@ -694,7 +689,6 @@
 - **Diagnóstico:** historia (exposiciones, ocupación) y exploración; biopsia inespecífica (espongiosis). **Pruebas del parche (epicutáneas)** = estándar para la **alérgica**: alérgenos ocluidos **48 h**, lectura al retirar y a las **72–96 h**; fotoparche para fotoalérgica. En irritativa no hay prueba confirmatoria (diagnóstico de exclusión con parche negativo).
 - **Diferencial:** dermatitis atópica, seborreica, por estasis, psoriasis, tiña.
 - **Tratamiento:** **evitar el agente (lo más importante)**; fase aguda: **fomentos húmedos + esteroide tópico** (sistémico si extensa); subaguda/crónica: esteroide tópico en ciclos, **emolientes**, antihistamínicos; tacrolimus/pimecrolimus como ahorradores de esteroide.
-- **Prevención:** guantes/ropa protectora adecuada, limpiadores poco irritantes, cremas barrera y emolientes tras la jornada.
 
 ### Tiñas (dermatofitosis)
 - **Clave:** micosis superficiales por hongos **queratinofílicos** (piel, pelo, uñas); géneros ***Trichophyton*, *Microsporum*, *Epidermophyton***.
@@ -710,6 +704,5 @@
   - **Cabeza y barba (libro):** **terbinafina** oral (adulto 250 mg/día; niños ~10 mg/kg/día por 6 semanas); alternativa itraconazol.
   - **Cuerpo, ingle, pies, manos:** **terbinafina tópica** 1 vez/día 3–4 semanas o azoles tópicos (miconazol, clotrimazol, ketoconazol) 2 veces/día 3–4 semanas.
   - **Onicomicosis:** terbinafina 250 mg/día **12–16 semanas (pies)** / **6 semanas (manos)**; alternativa itraconazol 200 mg/día 12 semanas o **pulsos** 400 mg/día 1 semana al mes por 3–4 meses; fluconazol 150 mg/semana ~24 semanas.
-- **Prevención:** secado de pies y pliegues, evitar calzado cerrado/sintético y ropa ajustada, no compartir objetos; antimicótico en laca tras curación de uñas.
 - **Perlas/trampas:** **no usar esteroides tópicos** en tiñas ("tiña incógnito"). Querión: no drenar; antifúngico oral ± esteroide oral breve. Tiña de la cabeza **no responde a tratamiento tópico solo**.
 - ⚠️ **Actualización:** en tiña de la cabeza por *Microsporum* (p. ej., *M. canis*) la **griseofulvina** (20–25 mg/kg/día, 6–8 semanas) es más eficaz que la terbinafina; para *Trichophyton* se prefiere terbinafina (dosis por peso: <20 kg 62.5 mg, 20–40 kg 125 mg, >40 kg 250 mg). Emergencia de ***T. indotineae*** resistente a terbinafina (tiñas extensas; tratar con itraconazol). Tópicos ungueales: efinaconazol y tavaborol.
