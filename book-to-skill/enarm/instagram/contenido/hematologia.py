@@ -38,9 +38,9 @@ ESPECIALIDADES = {
             ("Leucemias por edad", "La LLA va al kínder; la LLC, al asilo", [
                 h2("La LLA va al kínder;", "la LLC, al asilo", 58),
                 tabla(["Leucemia", "Edad", "Pista"], [
-                    ["<b>LLA</b>", "2–5 años", "La más común en niños"],
+                    ["<b>LLA</b>", '<span style="white-space:nowrap">2–5 años</span>', "La más común en niños"],
                     ["<b>LMA</b>", "Adultos", "Bastones de Auer"],
-                    ["<b>LMC</b>", "40–60 años", "Filadelfia t(9;22) → imatinib"],
+                    ["<b>LMC</b>", '<span style="white-space:nowrap">40–60 años</span>', "Filadelfia t(9;22) → imatinib"],
                     ["<b>LLC</b>", "&gt;60 años", "Linfocitosis y sombras de Gumprecht"]]),
                 card("Promielocítica (M3): t(15;17), alto riesgo de CID. Tratamiento: ácido transretinoico (ATRA).",
                      big='M3 = <span class="g">CID</span>'),

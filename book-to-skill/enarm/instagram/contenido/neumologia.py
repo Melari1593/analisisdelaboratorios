@@ -11,7 +11,7 @@ ESPECIALIDADES = {
                     ['<span class="wk">3</span>', "Dosis baja diaria + rescate con el mismo inhalador"],
                     ['<span class="wk">4</span>', "Dosis media de mantenimiento y rescate"],
                     ['<span class="wk">5</span>', "+ Tiotropio; fenotipar y valorar biológico"]]),
-                card("Crisis: salbutamol + esteroide sistémico + O₂ (SatO₂ 93–95 %). Sin sibilancias ni aire: paro inminente.",
+                card("Crisis: salbutamol + esteroide sistémico + O₂ (<span style=\"white-space:nowrap\">SatO₂ 93–95 %</span>). Sin sibilancias ni aire: paro inminente.",
                      big='Tórax <span class="g">silencioso</span> = alarma'),
                 rima("“Salbutamol sin esteroide: rescate sin control.”"),
             ]),
