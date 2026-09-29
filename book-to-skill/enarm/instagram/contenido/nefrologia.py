@@ -10,7 +10,6 @@ ESPECIALIDADES = {
                     ["<b>FENa</b>", '<span class="wk">&lt;1 %</span>', '<span class="wk">&gt;2 %</span>'],
                     ["<b>Na urinario</b>", "&lt;20 mEq/L", "&gt;40 mEq/L"],
                     ["<b>Osm. urinaria</b>", "&gt;500 mOsm/kg", "&lt;350 mOsm/kg"],
-                    ["<b>BUN/Cr</b>", "&gt;20", "&lt;15"],
                     ["<b>Sedimento</b>", "Cilindros hialinos", "Cilindros granulosos “café lodoso”"]]),
                 card("Creatinina ↑ ≥0.3 mg/dL en 48 h, ≥1.5 veces la basal en 7 días o uresis &lt;0.5 mL/kg/h por 6 h.",
                      tag="Definición KDIGO"),

@@ -32,13 +32,13 @@ ESPECIALIDADES = {
                     ["<b>Diagnóstico</b>", "<b>Biopsia</b> guiada por ultrasonido (RM previa si hay)"],
                     ["<b>Pronóstico</b>", "Gleason / grupo ISUP"],
                     ["<b>Metástasis</b>", "Hueso <b>osteoblástico</b>, columna"]]),
-                rima("“El cáncer de próstata construye hueso: metástasis blásticas.”"),
+                rima("“El cáncer de próstata construye hueso.”"),
             ]),
             ("Torsión testicular vs. epididimitis", "Torsión: 6 horas; Prehn positivo, infección", [
                 h2("Torsión:", "el reloj de 6 horas"),
                 dos(card(lista("Adolescente, dolor <b>súbito</b>", "Testículo alto y horizontal", "Sin reflejo cremastérico", "Prehn negativo", "<b>Cirugía en &lt;6 h</b>"), tag="Torsión"),
                     card(lista("Dolor <b>gradual</b> y fiebre", "Cremastérico presente", "Prehn <b>positivo</b>", "&lt;35: clamidia, gonococo", "&gt;35: <i>E. coli</i>"), tag="Epididimitis")),
-                card("Torsión: detorsión y fijación de <b>ambos</b> testículos. Epididimitis &lt;35 años: ceftriaxona 500 mg IM + doxiciclina 10 días."),
+                card("Torsión: detorsión y fijación de <b>ambos</b> testículos. Epididimitis &lt;35: ceftriaxona + doxiciclina."),
                 rima("“Prehn Positivo, Proceso infeccioso.”<br>¿Torsión? Al quirófano sin esperar el Doppler."),
             ]),
             ("IVU y pielonefritis", "Cistitis 5-1-3; bacteriuria: solo las 2 E", [

@@ -41,7 +41,7 @@ ESPECIALIDADES = {
                     ["<b>Glucosa</b>", '<b class="g">Muy baja</b>', "Normal", "Baja"],
                     ["<b>Proteínas</b>", "Muy altas", "Normales o ↑ leve", "Muy altas"],
                     ["<b>Pista</b>", "Turbio", "Claro", "ADA ↑, nervios craneales"]]),
-                card("Ceftriaxona + vancomicina + dexametasona antes o con la primera dosis. Suma <b>ampicilina</b> (Listeria) en &gt;50 años, inmunosuprimidos y recién nacidos.",
+                card("Ceftriaxona + vancomicina + dexametasona. Suma <b>ampicilina</b> (Listeria) en &gt;50 años e inmunosuprimidos.",
                      big="Empírico: no esperes al cultivo"),
                 rima("“El virus deja el azúcar; la bacteria se la acaba; la TB se la come despacio.”"),
             ]),

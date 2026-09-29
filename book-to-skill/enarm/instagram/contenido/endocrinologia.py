@@ -11,7 +11,7 @@ ESPECIALIDADES = {
                     ["<b>HbA1c</b>", "5.7–6.4 %", '<span class="wk">≥6.5 %</span>'],
                     ["<b>CTGO 75 g (2 h)</b>", "140–199", '<span class="wk">≥200</span>'],
                     ["<b>Al azar + síntomas</b>", "—", '<span class="wk">≥200</span>']]),
-                card("Sin síntomas, confirma con una segunda prueba alterada. Inicio en DM2: estilo de vida + <b>metformina</b>.",
+                card("Una cifra sola no basta: confirma con otra prueba alterada. Inicio en DM2: estilo de vida + <b>metformina</b>.",
                      big='Sin síntomas, <span class="g">repite</span>'),
                 rima("“Ayuno de 126, A1c de 6.5,<br>y 200 si hay carga o si hay síntomas.”"),
             ]),

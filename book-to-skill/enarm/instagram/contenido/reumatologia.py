@@ -10,7 +10,7 @@ ESPECIALIDADES = {
                     ["<b>Dedos</b>", "MCF, IFP y muñecas, simétrica", "<b>IFD</b>, IFP, rodilla, cadera"],
                     ["<b>Rigidez</b>", '<span class="wk">&gt;1 h</span> matutina', '<span class="wk">&lt;30 min</span>'],
                     ["<b>Laboratorio</b>", "FR y <b>anti-CCP</b> (el más específico)", "Normal"],
-                    ["<b>Rx</b>", "Erosiones, osteopenia yuxtaarticular", "Osteofitos, pinzamiento asimétrico"]]),
+                    ["<b>Rx</b>", "Erosiones", "Osteofitos"]]),
                 card("Tratamiento de primera línea en AR: <b>metotrexato</b> desde el diagnóstico, con esteroide corto como puente.",
                      big='<span class="g">Metotrexato</span> es el ancla'),
                 rima("“Bouchard en la base (IFP), Heberden hasta arriba (IFD).”"),
