@@ -352,7 +352,23 @@ def construir(clave, datos):
     (AQUI / f"{clave}.html").write_text("\n".join(partes) + "\n</body>\n</html>\n", encoding="utf-8")
 
 
+def todas():
+    """Especialidades de este archivo más las de contenido/*.py (cada una define ESPECIALIDADES)."""
+    import importlib.util
+    total = dict(ESPECIALIDADES)
+    for f in sorted((AQUI / "contenido").glob("*.py")):
+        spec = importlib.util.spec_from_file_location(f.stem, f)
+        mod = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(mod)
+        total.update(mod.ESPECIALIDADES)
+    return total
+
+
 if __name__ == "__main__":
-    for clave, datos in ESPECIALIDADES.items():
+    import sys
+    elegidas = sys.argv[1:]
+    for clave, datos in todas().items():
+        if elegidas and clave not in elegidas:
+            continue
         construir(clave, datos)
         print(clave)
