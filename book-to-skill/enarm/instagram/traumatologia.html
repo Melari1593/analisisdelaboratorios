@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Carrusel mnemotecnias traumatología y ortopedia</title>
+<link rel="stylesheet" href="fuentes/fonts.css">
+<style>
+:root{
+  --ink:#2b2f45; --slate:#464b66; --violet:#6d5dfc; --blue:#4890e0; --mist:#e7e8ed; --cyan:#00e6f2;
+  --muted:#5d6280; --line:rgba(70,75,102,.14);
+  --grad:linear-gradient(100deg,#6d5dfc 0%,#4890e0 100%);
+  --ok:#11815a; --ok-bg:rgba(17,129,90,.10); --bad:#c0342a; --bad-bg:rgba(192,52,42,.09);
+  --f-d:"Montserrat",system-ui,sans-serif; --f-u:"Plus Jakarta Sans",system-ui,sans-serif;
+}
+*{box-sizing:border-box;margin:0}
+body{background:#d9dbe6;font-family:var(--f-u);color:var(--ink);padding:40px;display:grid;gap:40px;justify-content:center}
+.slide{width:1080px;height:1350px;position:relative;overflow:hidden;padding:84px 80px 80px;display:flex;flex-direction:column;gap:30px;
+  background:
+    radial-gradient(620px 520px at 8% 6%,rgba(140,120,255,.55),transparent 70%),
+    radial-gradient(560px 480px at 100% 20%,rgba(72,144,224,.42),transparent 70%),
+    radial-gradient(560px 480px at 80% 100%,rgba(0,230,242,.30),transparent 70%),
+    radial-gradient(480px 420px at 0% 92%,rgba(72,144,224,.30),transparent 70%),
+    linear-gradient(160deg,#f1f2fa,#e4e6f5)}
+.top{display:flex;justify-content:space-between;align-items:center}
+.mark{display:inline-flex;align-items:center;gap:12px;font-family:var(--f-d);font-weight:700;font-size:26px}
+.mark i{display:grid;place-items:center;width:40px;height:40px;border-radius:12px;background:var(--slate);color:#fff;font-style:normal;font-weight:800;font-size:22px}
+.num{font-family:var(--f-d);font-weight:700;font-size:24px;color:var(--muted);background:rgba(255,255,255,.7);border:1px solid #fff;border-radius:999px;padding:8px 18px}
+.glass{background:rgba(255,255,255,.66);border:1.5px solid rgba(255,255,255,.95);border-radius:36px;box-shadow:0 28px 60px -28px rgba(76,70,160,.35),0 2px 8px rgba(76,70,160,.06)}
+.eyebrow{font-weight:700;font-size:24px;letter-spacing:.14em;text-transform:uppercase;color:var(--violet)}
+h1,h2{font-family:var(--f-d);font-weight:800;letter-spacing:-.02em;line-height:1.04}
+h1{font-size:92px}
+h2{font-size:64px}
+.g{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.pill{align-self:flex-start;justify-self:start;background:var(--slate);color:#fff;font-weight:600;font-style:italic;font-size:26px;padding:12px 22px;border-radius:12px}
+.big{font-family:var(--f-d);font-weight:800;font-size:50px;line-height:1.14;letter-spacing:-.01em}
+p,li{font-size:31px;line-height:1.4}
+.muted{color:var(--muted)}
+.card{padding:34px 38px;display:grid;gap:14px;align-content:start}
+.card h3{font-family:var(--f-d);font-weight:800;font-size:38px;line-height:1.1}
+.card ul{padding-left:0;list-style:none;display:grid;gap:8px}
+.card li::before{content:"";display:inline-block;width:12px;height:12px;border-radius:50%;background:var(--grad);margin-right:14px;vertical-align:middle}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:26px}
+.rima{font-style:italic;font-size:32px;line-height:1.45;padding:28px 36px;border-left:8px solid var(--violet);background:rgba(255,255,255,.5);border-radius:0 26px 26px 0}
+.tag{display:inline-block;font-weight:700;font-size:22px;padding:6px 16px;border-radius:999px;background:rgba(109,93,252,.12);color:var(--violet);align-self:start;justify-self:start}
+.ok{color:var(--ok)} .bad{color:var(--bad)}
+.card.okc{background:linear-gradient(160deg,rgba(255,255,255,.75),rgba(17,129,90,.10))}
+.card.badc{background:linear-gradient(160deg,rgba(255,255,255,.75),rgba(192,52,42,.09))}
+.foot{margin-top:auto;display:flex;justify-content:space-between;align-items:center;font-size:22px;color:var(--muted)}
+.swipe{font-family:var(--f-d);font-weight:700;font-size:26px;color:var(--violet)}
+table{border-collapse:collapse;width:100%;font-size:29px}
+td,th{padding:16px 20px;text-align:left;border-bottom:1.5px solid var(--line)}
+tr:last-child td{border-bottom:0}
+th{font-size:23px;letter-spacing:.02em;color:var(--muted);font-weight:700}
+td b{font-family:var(--f-d);font-weight:800}
+.wk{font-family:var(--f-d);font-weight:800;font-size:40px}
+.up{color:var(--violet);font-weight:800} .dn{color:var(--blue);font-weight:800}
+.acr{display:grid;grid-template-columns:70px 1fr;gap:6px 18px;align-items:baseline}.acr b{font-family:var(--f-d);font-weight:800;font-size:46px;line-height:1}.acr span{font-size:30px}
+.art{position:absolute;right:60px;top:170px;width:470px;opacity:.95}
+</style>
+</head>
+<body>
+
+<!-- 1 · Portada -->
+<section class="slide" id="s1">
+  <div class="top"><span class="mark"><i>E</i>Repaso ENARM</span><span class="num">1 / 7</span></div>
+  <svg class="art" viewBox="0 0 340 280" aria-hidden="true">
+    <defs>
+      <linearGradient id="gc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".95"/><stop offset=".45" stop-color="#c9c3ff" stop-opacity=".6"/><stop offset="1" stop-color="#7fb6f0" stop-opacity=".6"/></linearGradient>
+      <linearGradient id="gv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6d5dfc"/><stop offset="1" stop-color="#4890e0"/></linearGradient>
+      <radialGradient id="gb" cx=".35" cy=".3" r=".75"><stop offset="0" stop-color="#b8fbff"/><stop offset=".55" stop-color="#00e6f2" stop-opacity=".8"/><stop offset="1" stop-color="#1c8fa6" stop-opacity=".9"/></radialGradient>
+      <radialGradient id="gn" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#fff"/><stop offset=".6" stop-color="#a99eff"/><stop offset="1" stop-color="#6d5dfc"/></radialGradient>
+    </defs>
+    <rect x="70" y="30" width="200" height="200" rx="34" fill="#6d5dfc" fill-opacity=".10" stroke="#fff" stroke-opacity=".8"/>
+    <path d="M170 222 C112 182 88 150 88 116 C88 88 108 68 134 68 C150 68 162 77 170 90 C178 77 190 68 206 68 C232 68 252 88 252 116 C252 150 228 182 170 222 Z" fill="url(#gc)" stroke="#fff" stroke-width="2"/>
+    <path d="M170 90 C166 118 150 132 138 152 M170 90 C176 116 196 128 204 150 M150 118 C138 116 122 122 116 132 M192 116 C204 112 220 118 226 128 M170 150 L170 196" fill="none" stroke="url(#gv)" stroke-width="3" stroke-linecap="round" stroke-opacity=".85"/>
+    <path d="M104 100 C110 84 124 76 138 78" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+    <g><line x1="44" y1="178" x2="72" y2="160" stroke="#a99eff" stroke-width="3"/><line x1="72" y1="160" x2="66" y2="130" stroke="#a99eff" stroke-width="3"/><line x1="72" y1="160" x2="100" y2="176" stroke="#a99eff" stroke-width="3"/>
+      <circle cx="72" cy="160" r="11" fill="url(#gn)"/><circle cx="44" cy="178" r="8" fill="url(#gn)"/><circle cx="66" cy="130" r="7" fill="url(#gn)"/><circle cx="100" cy="176" r="7" fill="url(#gn)"/></g>
+    <circle cx="286" cy="74" r="24" fill="url(#gb)"/><circle cx="279" cy="66" r="7" fill="#fff" fill-opacity=".55"/>
+    <g stroke-linecap="round"><path d="M262 150 C282 160 282 176 262 186 C242 196 242 212 262 222" fill="none" stroke="#4890e0" stroke-width="4"/><path d="M292 150 C272 160 272 176 292 186 C312 196 312 212 292 222" fill="none" stroke="#6d5dfc" stroke-width="4"/><path d="M268 160 H286 M268 186 H286 M268 212 H286" stroke="#00e6f2" stroke-width="3"/></g>
+  </svg>
+  <div style="margin-top:auto;display:grid;gap:26px">
+    <span class="pill">Traumatología y ortopedia · ENARM</span>
+    <h1><span class="g">5 mnemotecnias</span><br>que no se te olvidan</h1>
+    <p class="muted" style="font-size:31px">Síndrome compartimental · Fracturas fisarias: Salter-Harris · Fractura de cadera · Lesiones de rodilla · Displasia de cadera</p>
+  </div>
+  <div class="foot" style="margin-top:56px"><span>Guárdalo para tu repaso</span><span class="swipe">Desliza →</span></div>
+</section>
+
+
+
+
+<section class="slide"><div class="top"><span class="eyebrow">01 · Síndrome compartimental</span><span class="num">2 / 7</span></div><h2>Primero el dolor,<br><span class="g">al final el pulso</span></h2><div class="glass card acr"><b class="g">P</b><span><strong>Pain</strong>: dolor desproporcionado, peor al estirar pasivo (el más temprano)</span><b class="g">P</b><span>Parestesias</span><b class="g">P</b><span>Palidez</span><b class="g">P</b><span>Parálisis</span><b class="g">P</b><span>Pulso ausente: signo <strong>tardío</strong></span></div><div class="glass card "><p class="big" style="font-size:44px">Tratamiento: abre la caja</p><p>Presión del compartimento &gt;30 mmHg o diferencia con la diastólica ≤30 mmHg: <b>fasciotomía</b> urgente. Antes, quita yesos y vendajes.</p></div><div class="rima">“Si esperas a que falte el pulso, llegaste tarde.”</div><div class="foot"><span>Material de estudio · verifica con GPC vigentes</span><span class="swipe">→</span></div></section>
+<section class="slide"><div class="top"><span class="eyebrow">02 · Fracturas fisarias: Salter-Harris</span><span class="num">3 / 7</span></div><h2>Salter-Harris:<br><span class="g">S · A · L · T · R</span></h2><div class="glass card acr"><b class="g">I</b><span><b>S</b>eparada: solo a través de la fisis</span><b class="g">II</b><span><b>A</b>rriba: fisis + metáfisis (la más común)</span><b class="g">III</b><span>hacia <b>L</b>a articulación: fisis + epífisis</span><b class="g">IV</b><span><b>T</b>odo: metáfisis, fisis y epífisis</span><b class="g">V</b><span><b>R</b>eventada: fisis aplastada</span></div><div class="glass card "><p class="big" style="font-size:44px">Entre más alto el número, peor</p><p>III y IV entran a la articulación: reducción anatómica, a menudo abierta con fijación. La V frena el crecimiento y se ve tarde.</p></div><div class="rima">“SALTR: si la fractura salta a la articulación, va al quirófano.”</div><div class="foot"><span>Material de estudio · verifica con GPC vigentes</span><span class="swipe">→</span></div></section>
+<section class="slide"><div class="top"><span class="eyebrow">03 · Fractura de cadera</span><span class="num">4 / 7</span></div><h2>Adentro se cambia,<br><span class="g">afuera se fija</span></h2><div class="glass card "><p class="big" style="font-size:44px">La abuelita que no se levanta</p><p>Adulto mayor que cae de su altura: pierna <b>acortada</b> y en <b>rotación externa</b>.</p></div><div class="two"><div class="glass card "><span class="tag">Intracapsular</span><ul><li>Cuello femoral</li><li>Riesgo de <b>necrosis avascular</b></li><li>Desplazada: <b>artroplastia</b></li><li>No desplazada: tornillos</li></ul></div><div class="glass card "><span class="tag">Extracapsular</span><ul><li>Intertrocantérica</li><li>Buena irrigación, consolida</li><li><b>Osteosíntesis</b>: clavo o placa</li><li>Sangra más</li></ul></div></div><div class="rima">Opera en las primeras 48 h y da tromboprofilaxis: la cama mata más que la fractura.</div><div class="foot"><span>Material de estudio · verifica con GPC vigentes</span><span class="swipe">→</span></div></section>
+<section class="slide"><div class="top"><span class="eyebrow">04 · Lesiones de rodilla</span><span class="num">5 / 7</span></div><h2>L con L,<br><span class="g">M con M</span></h2><div class="glass card" style="padding:18px 30px"><table><tr><th>Prueba</th><th>Lesión</th><th>Pista</th></tr><tr><td><b>Lachman</b></td><td><b class="g">LCA</b></td><td>La más sensible; giro con “pop”</td></tr><tr><td><b>Cajón anterior</b></td><td>LCA</td><td>Tibia que se va hacia adelante</td></tr><tr><td><b>Cajón posterior</b></td><td>LCP</td><td>Golpe en la rodilla contra el tablero</td></tr><tr><td><b>Valgo forzado</b></td><td>Colateral medial</td><td>Golpe en la cara externa</td></tr><tr><td><b>McMurray</b></td><td><b class="g">Menisco</b></td><td>Chasquido, bloqueo, derrame tardío</td></tr></table></div><div class="rima">“Giro, pop y rodilla hinchada en horas: LCA hasta demostrar lo contrario.” Imagen de elección: RM.</div><div class="foot"><span>Material de estudio · verifica con GPC vigentes</span><span class="swipe">→</span></div></section>
+<section class="slide"><div class="top"><span class="eyebrow">05 · Displasia de cadera</span><span class="num">6 / 7</span></div><h2>Barlow la bota,<br><span class="g">Ortolani la regresa</span></h2><div class="glass card" style="padding:18px 30px"><table><tr><th>Maniobra</th><th>Cómo</th><th>Qué hace</th></tr><tr><td><b>Barlow</b></td><td>Aducción y empuje hacia atrás</td><td><b>Luxa</b> una cadera inestable</td></tr><tr><td><b>Ortolani</b></td><td>Abducción y levanta el trocánter</td><td><b>Reduce</b> con un “clunk”</td></tr></table></div><div class="glass card "><p class="big" style="font-size:44px">Imagen según la edad</p><p>Ultrasonido antes de los 4 meses; después, radiografía (ya aparece el núcleo de osificación). Menor de 6 meses: <b>arnés de Pavlik</b>.</p></div><div class="rima">Riesgo: niña, primogénita, presentación pélvica y familiar afectado. Tarde: Galeazzi y abducción limitada.</div><div class="foot"><span>Material de estudio · verifica con GPC vigentes</span><span class="swipe">→</span></div></section>
+<section class="slide"><div class="top"><span class="eyebrow">Resumen · Traumatología y ortopedia</span><span class="num">7 / 7</span></div><h2>Las 5 frases<br><span class="g">para el examen</span></h2><div class="glass card" style="padding:18px 30px"><table><tr><td><b>Síndrome compartimental</b></td><td>Primero el dolor, al final el pulso</td></tr><tr><td><b>Fracturas fisarias: Salter-Harris</b></td><td>SALTR: entre más alto el número, peor</td></tr><tr><td><b>Fractura de cadera</b></td><td>Adentro se cambia, afuera se fija</td></tr><tr><td><b>Lesiones de rodilla</b></td><td>Lachman con LCA, McMurray con menisco</td></tr><tr><td><b>Displasia de cadera</b></td><td>Barlow la bota, Ortolani la regresa</td></tr></table></div><div style="margin-top:auto;display:grid;gap:22px"><span class="pill">Guarda · Comparte con tu grupo de estudio</span><p class="muted" style="font-size:24px">Material de estudio, no sustituye las GPC vigentes ni el juicio clínico.</p></div></section>
+</body>
+</html>

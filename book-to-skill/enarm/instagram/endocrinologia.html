@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Carrusel mnemotecnias endocrinología</title>
+<link rel="stylesheet" href="fuentes/fonts.css">
+<style>
+:root{
+  --ink:#2b2f45; --slate:#464b66; --violet:#6d5dfc; --blue:#4890e0; --mist:#e7e8ed; --cyan:#00e6f2;
+  --muted:#5d6280; --line:rgba(70,75,102,.14);
+  --grad:linear-gradient(100deg,#6d5dfc 0%,#4890e0 100%);
+  --ok:#11815a; --ok-bg:rgba(17,129,90,.10); --bad:#c0342a; --bad-bg:rgba(192,52,42,.09);
+  --f-d:"Montserrat",system-ui,sans-serif; --f-u:"Plus Jakarta Sans",system-ui,sans-serif;
+}
+*{box-sizing:border-box;margin:0}
+body{background:#d9dbe6;font-family:var(--f-u);color:var(--ink);padding:40px;display:grid;gap:40px;justify-content:center}
+.slide{width:1080px;height:1350px;position:relative;overflow:hidden;padding:84px 80px 80px;display:flex;flex-direction:column;gap:30px;
+  background:
+    radial-gradient(620px 520px at 8% 6%,rgba(140,120,255,.55),transparent 70%),
+    radial-gradient(560px 480px at 100% 20%,rgba(72,144,224,.42),transparent 70%),
+    radial-gradient(560px 480px at 80% 100%,rgba(0,230,242,.30),transparent 70%),
+    radial-gradient(480px 420px at 0% 92%,rgba(72,144,224,.30),transparent 70%),
+    linear-gradient(160deg,#f1f2fa,#e4e6f5)}
+.top{display:flex;justify-content:space-between;align-items:center}
+.mark{display:inline-flex;align-items:center;gap:12px;font-family:var(--f-d);font-weight:700;font-size:26px}
+.mark i{display:grid;place-items:center;width:40px;height:40px;border-radius:12px;background:var(--slate);color:#fff;font-style:normal;font-weight:800;font-size:22px}
+.num{font-family:var(--f-d);font-weight:700;font-size:24px;color:var(--muted);background:rgba(255,255,255,.7);border:1px solid #fff;border-radius:999px;padding:8px 18px}
+.glass{background:rgba(255,255,255,.66);border:1.5px solid rgba(255,255,255,.95);border-radius:36px;box-shadow:0 28px 60px -28px rgba(76,70,160,.35),0 2px 8px rgba(76,70,160,.06)}
+.eyebrow{font-weight:700;font-size:24px;letter-spacing:.14em;text-transform:uppercase;color:var(--violet)}
+h1,h2{font-family:var(--f-d);font-weight:800;letter-spacing:-.02em;line-height:1.04}
+h1{font-size:92px}
+h2{font-size:64px}
+.g{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.pill{align-self:flex-start;justify-self:start;background:var(--slate);color:#fff;font-weight:600;font-style:italic;font-size:26px;padding:12px 22px;border-radius:12px}
+.big{font-family:var(--f-d);font-weight:800;font-size:50px;line-height:1.14;letter-spacing:-.01em}
+p,li{font-size:31px;line-height:1.4}
+.muted{color:var(--muted)}
+.card{padding:34px 38px;display:grid;gap:14px;align-content:start}
+.card h3{font-family:var(--f-d);font-weight:800;font-size:38px;line-height:1.1}
+.card ul{padding-left:0;list-style:none;display:grid;gap:8px}
+.card li::before{content:"";display:inline-block;width:12px;height:12px;border-radius:50%;background:var(--grad);margin-right:14px;vertical-align:middle}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:26px}
+.rima{font-style:italic;font-size:32px;line-height:1.45;padding:28px 36px;border-left:8px solid var(--violet);background:rgba(255,255,255,.5);border-radius:0 26px 26px 0}
+.tag{display:inline-block;font-weight:700;font-size:22px;padding:6px 16px;border-radius:999px;background:rgba(109,93,252,.12);color:var(--violet);align-self:start;justify-self:start}
+.ok{color:var(--ok)} .bad{color:var(--bad)}
+.card.okc{background:linear-gradient(160deg,rgba(255,255,255,.75),rgba(17,129,90,.10))}
+.card.badc{background:linear-gradient(160deg,rgba(255,255,255,.75),rgba(192,52,42,.09))}
+.foot{margin-top:auto;display:flex;justify-content:space-between;align-items:center;font-size:22px;color:var(--muted)}
+.swipe{font-family:var(--f-d);font-weight:700;font-size:26px;color:var(--violet)}
+table{border-collapse:collapse;width:100%;font-size:29px}
+td,th{padding:16px 20px;text-align:left;border-bottom:1.5px solid var(--line)}
+tr:last-child td{border-bottom:0}
+th{font-size:23px;letter-spacing:.02em;color:var(--muted);font-weight:700}
+td b{font-family:var(--f-d);font-weight:800}
+.wk{font-family:var(--f-d);font-weight:800;font-size:40px}
+.up{color:var(--violet);font-weight:800} .dn{color:var(--blue);font-weight:800}
+.acr{display:grid;grid-template-columns:70px 1fr;gap:6px 18px;align-items:baseline}.acr b{font-family:var(--f-d);font-weight:800;font-size:46px;line-height:1}.acr span{font-size:30px}
+.art{position:absolute;right:60px;top:170px;width:470px;opacity:.95}
+</style>
+</head>
+<body>
+
+<!-- 1 · Portada -->
+<section class="slide" id="s1">
+  <div class="top"><span class="mark"><i>E</i>Repaso ENARM</span><span class="num">1 / 7</span></div>
+  <svg class="art" viewBox="0 0 340 280" aria-hidden="true">
+    <defs>
+      <linearGradient id="gc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".95"/><stop offset=".45" stop-color="#c9c3ff" stop-opacity=".6"/><stop offset="1" stop-color="#7fb6f0" stop-opacity=".6"/></linearGradient>
+      <linearGradient id="gv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6d5dfc"/><stop offset="1" stop-color="#4890e0"/></linearGradient>
+      <radialGradient id="gb" cx=".35" cy=".3" r=".75"><stop offset="0" stop-color="#b8fbff"/><stop offset=".55" stop-color="#00e6f2" stop-opacity=".8"/><stop offset="1" stop-color="#1c8fa6" stop-opacity=".9"/></radialGradient>
+      <radialGradient id="gn" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#fff"/><stop offset=".6" stop-color="#a99eff"/><stop offset="1" stop-color="#6d5dfc"/></radialGradient>
+    </defs>
+    <rect x="70" y="30" width="200" height="200" rx="34" fill="#6d5dfc" fill-opacity=".10" stroke="#fff" stroke-opacity=".8"/>
+    <path d="M170 222 C112 182 88 150 88 116 C88 88 108 68 134 68 C150 68 162 77 170 90 C178 77 190 68 206 68 C232 68 252 88 252 116 C252 150 228 182 170 222 Z" fill="url(#gc)" stroke="#fff" stroke-width="2"/>
+    <path d="M170 90 C166 118 150 132 138 152 M170 90 C176 116 196 128 204 150 M150 118 C138 116 122 122 116 132 M192 116 C204 112 220 118 226 128 M170 150 L170 196" fill="none" stroke="url(#gv)" stroke-width="3" stroke-linecap="round" stroke-opacity=".85"/>
+    <path d="M104 100 C110 84 124 76 138 78" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+    <g><line x1="44" y1="178" x2="72" y2="160" stroke="#a99eff" stroke-width="3"/><line x1="72" y1="160" x2="66" y2="130" stroke="#a99eff" stroke-width="3"/><line x1="72" y1="160" x2="100" y2="176" stroke="#a99eff" stroke-width="3"/>
+      <circle cx="72" cy="160" r="11" fill="url(#gn)"/><circle cx="44" cy="178" r="8" fill="url(#gn)"/><circle cx="66" cy="130" r="7" fill="url(#gn)"/><circle cx="100" cy="176" r="7" fill="url(#gn)"/></g>
+    <circle cx="286" cy="74" r="24" fill="url(#gb)"/><circle cx="279" cy="66" r="7" fill="#fff" fill-opacity=".55"/>
+    <g stroke-linecap="round"><path d="M262 150 C282 160 282 176 262 186 C242 196 242 212 262 222" fill="none" stroke="#4890e0" stroke-width="4"/><path d="M292 150 C272 160 272 176 292 186 C312 196 312 212 292 222" fill="none" stroke="#6d5dfc" stroke-width="4"/><path d="M268 160 H286 M268 186 H286 M268 212 H286" stroke="#00e6f2" stroke-width="3"/></g>
+  </svg>
+  <div style="margin-top:auto;display:grid;gap:26px">
+    <span class="pill">Endocrinología · ENARM</span>
+    <h1><span class="g">5 mnemotecnias</span><br>que no se te olvidan</h1>
+    <p class="muted" style="font-size:31px">Diagnóstico de diabetes · Cetoacidosis vs. hiperosmolar · Hipo vs. hipertiroidismo · Cushing vs. Addison · Nódulo y cáncer de tiroides</p>
+  </div>
+  <div class="foot" style="margin-top:56px"><span>Guárdalo para tu repaso</span><span class="swipe">Desliza →</span></div>
+</section>
+
+
+
+
+<section class="slide"><div class="top"><span class="eyebrow">01 · Diagnóstico de diabetes</span><span class="num">2 / 7</span></div><h2>126 en ayuno,<br><span class="g">6.5 y 200</span></h2><div class="glass card" style="padding:18px 30px"><table><tr><th>Prueba</th><th>Prediabetes</th><th>Diabetes</th></tr><tr><td><b>Glucosa en ayuno</b></td><td>100–125</td><td><span class="wk">≥126</span></td></tr><tr><td><b>HbA1c</b></td><td>5.7–6.4 %</td><td><span class="wk">≥6.5 %</span></td></tr><tr><td><b>CTGO 75 g (2 h)</b></td><td>140–199</td><td><span class="wk">≥200</span></td></tr><tr><td><b>Al azar + síntomas</b></td><td>—</td><td><span class="wk">≥200</span></td></tr></table></div><div class="glass card "><p class="big" style="font-size:44px">Sin síntomas, <span class="g">repite</span></p><p>Sin síntomas, confirma con una segunda prueba alterada. Inicio en DM2: estilo de vida + <b>metformina</b>.</p></div><div class="rima">“Ayuno de 126, A1c de 6.5,<br>y 200 si hay carga o si hay síntomas.”</div><div class="foot"><span>Material de estudio · verifica con GPC vigentes</span><span class="swipe">→</span></div></section>
+<section class="slide"><div class="top"><span class="eyebrow">02 · Cetoacidosis vs. hiperosmolar</span><span class="num">3 / 7</span></div><h2>Suero, potasio<br><span class="g">y luego insulina</span></h2><div class="glass card" style="padding:18px 30px"><table><tr><th>Dato</th><th>Cetoacidosis</th><th>Hiperosmolar</th></tr><tr><td><b>Glucosa</b></td><td><span class="wk">&gt;250</span></td><td><span class="wk">&gt;600</span></td></tr><tr><td><b>pH</b></td><td>&lt;7.30</td><td>&gt;7.30</td></tr><tr><td><b>Cetonas</b></td><td>Positivas</td><td>Mínimas</td></tr><tr><td><b>Osmolaridad</b></td><td>Variable</td><td>&gt;320</td></tr><tr><td><b>Típico</b></td><td>DM1 · horas</td><td>DM2 mayor · días</td></tr></table></div><div class="glass card "><p class="big" style="font-size:44px">K &lt;3.3 = insulina <span class="g">en pausa</span></p><p>Primero solución salina 0.9 %; con K &lt;3.3, repón antes de la insulina.</p></div><div class="rima">“Primero el agua, luego el potasio y al final la insulina.”</div><div class="foot"><span>Material de estudio · verifica con GPC vigentes</span><span class="swipe">→</span></div></section>
+<section class="slide"><div class="top"><span class="eyebrow">03 · Hipo vs. hipertiroidismo</span><span class="num">4 / 7</span></div><h2>La TSH<br><span class="g">siempre va al revés</span></h2><div class="two"><div class="glass card "><span class="tag">Hipotiroidismo</span><p class="big" style="font-size:44px">Todo lento</p><ul><li>TSH ↑ · T4 libre ↓</li><li>Frío, piel seca, estreñimiento, bradicardia</li><li>Hashimoto: anti-TPO</li><li><b>Levotiroxina</b> en ayuno</li></ul></div><div class="glass card "><span class="tag">Hipertiroidismo</span><p class="big" style="font-size:44px">Todo rápido</p><ul><li>TSH ↓ · T4 libre ↑</li><li>Calor, baja de peso, taquicardia</li><li>Graves: anticuerpos contra el receptor de TSH, exoftalmos</li><li><b>Metimazol</b></li></ul></div></div><div class="rima">“La hipófisis grita cuando la tiroides no trabaja.”<br>PTU = <b>P</b>rimer <b>T</b>rimestre <b>Ú</b>nicamente (y tormenta tiroidea).</div><div class="foot"><span>Material de estudio · verifica con GPC vigentes</span><span class="swipe">→</span></div></section>
+<section class="slide"><div class="top"><span class="eyebrow">04 · Cushing vs. Addison</span><span class="num">5 / 7</span></div><h2>Cushing engorda;<br><span class="g">Addison se broncea</span></h2><div class="two"><div class="glass card "><span class="tag">Cushing</span><p class="big" style="font-size:44px">Las 3 C</p><ul><li>Causa más común: <b>esteroides</b> exógenos</li><li>Endógeno: adenoma hipofisario</li><li>Tamizaje: supresión con 1 mg de dexametasona o cortisol libre urinario</li></ul></div><div class="glass card "><span class="tag">Addison</span><p class="big" style="font-size:44px">Adiós, sodio</p><ul><li>Hiperpigmentación (ACTH alta)</li><li>Na ↓, K ↑, hipotensión, hipoglucemia</li><li>Dx: estimulación con ACTH</li><li>Hidrocortisona + fludrocortisona</li></ul></div></div><div class="rima">“<b>C</b>ara de luna, <b>C</b>uello de búfalo y <b>C</b>intura con estrías violáceas.”<br>Crisis suprarrenal: hidrocortisona IV sin esperar resultados.</div><div class="foot"><span>Material de estudio · verifica con GPC vigentes</span><span class="swipe">→</span></div></section>
+<section class="slide"><div class="top"><span class="eyebrow">05 · Nódulo y cáncer de tiroides</span><span class="num">6 / 7</span></div><h2 style="font-size:60px">Papilar es Popular;<br><span class="g">Folicular Fluye</span></h2><div class="glass card" style="padding:18px 30px"><table><tr><th>Tipo</th><th>Truco</th><th>Clave</th></tr><tr><td><b>Papilar</b></td><td><b class="g">Popular</b></td><td>El más común; ganglios; psamomas</td></tr><tr><td><b>Folicular</b></td><td><b class="g">Fluye</b></td><td>Por sangre a hueso y pulmón</td></tr><tr><td><b>Medular</b></td><td><b class="g">Marca</b></td><td>Calcitonina; MEN 2 (RET)</td></tr><tr><td><b>Anaplásico</b></td><td><b class="g">Anciano</b></td><td>El más agresivo</td></tr></table></div><div class="glass card "><p class="big" style="font-size:44px">Nódulo: la <span class="g">BAAF</span> decide</p><p>Primero TSH y ultrasonido; la <b>BAAF</b> decide. Si la TSH está baja, gammagrama: el nódulo caliente casi nunca es maligno.</p></div><div class="rima">“Medular antes de operar: busca feocromocitoma (MEN 2).”</div><div class="foot"><span>Material de estudio · verifica con GPC vigentes</span><span class="swipe">→</span></div></section>
+<section class="slide"><div class="top"><span class="eyebrow">Resumen · Endocrinología</span><span class="num">7 / 7</span></div><h2>Las 5 frases<br><span class="g">para el examen</span></h2><div class="glass card" style="padding:18px 30px"><table><tr><td><b>Diagnóstico de diabetes</b></td><td>126 en ayuno, 6.5 de A1c, 200 con carga</td></tr><tr><td><b>Cetoacidosis vs. hiperosmolar</b></td><td>Potasio menor de 3.3: insulina en pausa</td></tr><tr><td><b>Hipo vs. hipertiroidismo</b></td><td>PTU: Primer Trimestre Únicamente</td></tr><tr><td><b>Cushing vs. Addison</b></td><td>Cushing: 3 C; Addison: adiós, sodio</td></tr><tr><td><b>Nódulo y cáncer de tiroides</b></td><td>Papilar Popular; Folicular Fluye por sangre</td></tr></table></div><div style="margin-top:auto;display:grid;gap:22px"><span class="pill">Guarda · Comparte con tu grupo de estudio</span><p class="muted" style="font-size:24px">Material de estudio, no sustituye las GPC vigentes ni el juicio clínico.</p></div></section>
+</body>
+</html>
