@@ -1,6 +1,17 @@
-# Carrusel de Instagram: mnemotecnias de obstetricia
+# Carruseles de Instagram: mnemotecnias ENARM
 
-- `png/obstetricia-01.png` … `07.png`: láminas de 1080×1350 (formato 4:5), listas para subir en ese orden.
-- `pie-de-foto.txt`: texto sugerido para la publicación.
-- `carrusel.html`: fuente editable; `fuentes/` contiene Montserrat y Plus Jakarta Sans (licencia OFL).
-- Para regenerar las imágenes después de editar: `node render.js` (usa Playwright).
+Láminas de 1080×1350 (formato 4:5), listas para subir en orden.
+
+| Carrusel | Fuente | Imágenes | Pie de foto | Zip |
+|---|---|---|---|---|
+| Obstetricia | `carrusel.html` | `png/obstetricia-01…07.png` | `pie-de-foto.txt` | `carrusel-obstetricia-enarm.zip` |
+| Pediatría | `pediatria.html` | `png/pediatria-01…07.png` | `pie-de-foto-pediatria.txt` | `carrusel-pediatria-enarm.zip` |
+
+`fuentes/` contiene Montserrat y Plus Jakarta Sans (licencia OFL).
+
+Para regenerar las imágenes después de editar (usa Playwright):
+
+```
+node render.js                              # obstetricia
+node render.js pediatria.html pediatria     # pediatría
+```
