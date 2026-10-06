@@ -17,7 +17,7 @@ Las tareas están en orden de dependencia. Donde dos tareas no dependen entre s�
 ### Bloque A — Base
 
 **A1. Catálogo de parámetros clínicos configurables**
-- **Qué hacer:** crear un catálogo único donde vivan todos los valores clínicos que usan las reglas, sin quemarlos en el código. Cada parámetro guarda: valor, unidad, fuente (CLAP 2007, OMS 2024, ASH 2026, RCOG 37a con declaración de posición, GPC Colombia 2013, C-055 de 2022, Resolución 051 de 2023), estado ("decidido" o "pendiente de validar") y fecha de revisión. Cargar los valores ya decididos en el spec: puntos de corte de Hb por trimestre y gravedad, tabla de altitud OMS en g/L, umbral de ferritina en anemia, tabla de ajuste por tabaquismo, puntaje y casos especiales RCOG, tabla de dosis de HBPM, factores, dosis y período del ASA según la GPC, valores de la PTOG según la GPC, carbonato de calcio 1200 mg en tabletas de 600 mg, clasificación de trombofilias, factores de sangrado y criterios de referencia de la RCOG, y la lista de sentencias y normas vigentes con su fecha de verificación. Dejar marcados como pendientes los que el spec deja abiertos (ver "Decisiones pendientes" al final).
+- **Qué hacer:** crear un catálogo único donde vivan todos los valores clínicos que usan las reglas, sin quemarlos en el código. Cada parámetro guarda: valor, unidad, fuente (CLAP 2007, OMS 2024, ASH 2026, RCOG 37a con declaración de posición, GPC Colombia 2013, C-055 de 2022, Resolución 051 de 2023), estado ("decidido" o "pendiente de validar") y fecha de revisión. Cargar los valores ya decididos en el spec: puntos de corte de Hb por trimestre y gravedad, límites de semanas de cada trimestre, tabla de altitud OMS en g/L, umbral de ferritina en anemia, tabla de ajuste por tabaquismo, puntaje y casos especiales RCOG, tabla de dosis de HBPM, factores, dosis y período del ASA según la GPC, valores de la PTOG según la GPC, carbonato de calcio 1200 mg en tabletas de 600 mg, clasificación de trombofilias, factores de sangrado y criterios de referencia de la RCOG, y la lista de sentencias y normas vigentes con su fecha de verificación. Dejar marcados como pendientes los que el spec deja abiertos (ver "Decisiones pendientes" al final).
 - **Componentes:** capa de configuración clínica; pantalla de solo lectura para el equipo clínico.
 - **Hecho cuando:** cada regla de las tareas C y D lee sus valores del catálogo; cambiar un valor en el catálogo cambia el resultado de la regla sin tocar código; la app muestra un aviso interno si una regla usa un parámetro "pendiente de validar".
 
@@ -85,7 +85,7 @@ Las tareas están en orden de dependencia. Donde dos tareas no dependen entre s�
 Todas dependen de C1 y pueden avanzar en paralelo entre sí, salvo D2, que usa la clasificación de D1.
 
 **D1. Anemia (OMS 2024 con altitud y tabaquismo)**
-- **Qué hacer:** convertir la Hb a g/L, restar el ajuste por altitud de la tabla OMS, restar además el ajuste por tabaquismo de la Tabla 5 de la OMS si fuma (3 g/L si no sabe cuánto o menos de 10; 5 g/L de 10 a 19; 6 g/L con 20 o más), redondear a un decimal en g/dL y clasificar con los puntos de corte del trimestre (sin anemia, leve, moderada, grave). Mostrar la Hb medida, cada ajuste y la Hb ajustada. Sin altitud, clasificar a nivel del mar con aviso de posible subdiagnóstico. Con 5000 m o más, no ajustar y pedir revisión. Marcar las muestras capilares. Anemia grave como alerta urgente. Al cambiar la altitud, reclasificar solo desde ese control.
+- **Qué hacer:** convertir la Hb a g/L, restar el ajuste por altitud de la tabla OMS, restar además el ajuste por tabaquismo de la Tabla 5 de la OMS si fuma (3 g/L si no sabe cuánto o menos de 10; 5 g/L de 10 a 19; 6 g/L con 20 o más), redondear a un decimal en g/dL y clasificar con los puntos de corte del trimestre (1.º hasta la semana 13+6, 2.º de la 14+0 a la 27+6, 3.º desde la 28+0; tomados del catálogo A1) (sin anemia, leve, moderada, grave). Mostrar la Hb medida, cada ajuste y la Hb ajustada. Sin altitud, clasificar a nivel del mar con aviso de posible subdiagnóstico. Con 5000 m o más, no ajustar y pedir revisión. Marcar las muestras capilares. Anemia grave como alerta urgente. Al cambiar la altitud, reclasificar solo desde ese control.
 - **Componentes:** regla de anemia.
 - **Hecho cuando:** el ejemplo del spec da el resultado esperado (Bogotá, 2600 m, 2.º trimestre, Hb 11,8 venosa, no fumadora → Hb ajustada 10,0 → anemia leve), y pasan casos en cada franja de altitud, cada trimestre y una fumadora en altura con los dos ajustes.
 
@@ -100,11 +100,6 @@ Todas dependen de C1 y pueden avanzar en paralelo entre sí, salvo D2, que usa l
 - **Componentes:** regla de ASA.
 - **Hecho cuando:** pasan casos con 1 factor alto, 2 moderados (por ejemplo, primer embarazo y gemelar), 1 moderado (sin alerta), edad de 38 sola (sin alerta), criterio en semana 10 (solo fecha) y en semana 12 (alerta), contraindicación y primera consulta en semana 20.
 
-**D6. Diabetes gestacional (PTOG según la GPC)**
-- **Qué hacer:** con los tres valores de la PTOG de 75 g, alertar "Diabetes gestacional" si alguno es igual o mayor a 92 (ayunas), 180 (1 hora) o 153 mg/dL (2 horas), mostrando cuál. Si falta un valor, no clasificar y pedirlo. Si se hizo fuera de las semanas 24 a 28, indicar la semana. Antes de solicitarla, mostrar al profesional los puntos de información que pide la GPC.
-- **Componentes:** regla de PTOG.
-- **Hecho cuando:** 91/179/152 no alerta; 92 en ayunas sola alerta; 153 a las 2 horas sola alerta; un caso con un valor faltante pide completarlo.
-
 **D4. Carbonato de calcio**
 - **Qué hacer:** antes de la semana 14, mostrar la fecha de inicio en el resumen; desde la 14 (o en la primera consulta si ya pasó), alertar "Iniciar carbonato de calcio" con 1200 mg al día de carbonato (2 tabletas de 600 mg) hasta el parto y las indicaciones de toma de la GPC (al menos 1 hora separado del hierro, 2 horas antes o después de las comidas principales, no con leche), separación del hierro y la nota sobre ASA. Con contraindicación (hipercalcemia, hipercalciuria, hiperparatiroidismo, nefrolitiasis o nefrocalcinosis, enfermedad renal crónica grave, hipersensibilidad), pedir valorar sin sugerir dosis. Con precaución (sarcoidosis, tiazidas, digoxina, levotiroxina, antiácidos con calcio frecuentes o vómito persistente), mostrar la dosis con la nota correspondiente. Recalcular si se registra un antecedente o medicamento nuevo.
 - **Componentes:** regla de calcio; preguntas de antecedentes y medicamentos en la primera consulta.
@@ -114,6 +109,11 @@ Todas dependen de C1 y pueden avanzar en paralelo entre sí, salvo D2, que usa l
 - **Qué hacer:** sumar el puntaje con la tabla del spec. Con 4 o más, "desde ahora"; con 3, "desde la semana 28" y programar el recordatorio. Aplicar los casos especiales (IMC de 50 o más, hiperémesis con inicio en 72 horas, hospitalización, factores transitorios con suspensión 7 días después de resolverse, trombofilia de alto riesgo con valoración por especialista). Con riesgo de sangrado (incluidas plaquetas menores de 75 × 10⁹/L, detectadas solas desde el hemograma), cambiar el texto y no sugerir dosis. Sugerir la dosis por peso de la primera consulta con la tabla de la RCOG para las tres heparinas. Sugerir remisión al especialista en trombosis en el embarazo si hay trombosis previa o trombofilia de alto riesgo. Recalcular con cada evento.
 - **Componentes:** regla de tromboprofilaxis.
 - **Hecho cuando:** pasan casos de puntaje 2, 3 y 4; IMC 52; hiperémesis; un factor transitorio resuelto (fecha de suspensión correcta); riesgo de sangrado; y pesos en cada franja de dosis.
+
+**D6. Diabetes gestacional (PTOG según la GPC)**
+- **Qué hacer:** con los tres valores de la PTOG de 75 g, alertar "Diabetes gestacional" si alguno es igual o mayor a 92 (ayunas), 180 (1 hora) o 153 mg/dL (2 horas), mostrando cuál. Si falta un valor, no clasificar y pedirlo. Si se hizo fuera de las semanas 24 a 28, indicar la semana. Antes de solicitarla, mostrar al profesional los puntos de información que pide la GPC.
+- **Componentes:** regla de PTOG.
+- **Hecho cuando:** 91/179/152 no alerta; 92 en ayunas sola alerta; 153 a las 2 horas sola alerta; un caso con un valor faltante pide completarlo.
 
 ### Bloque E — Derechos sexuales y reproductivos
 
@@ -184,3 +184,9 @@ Todas dependen de C1 y pueden avanzar en paralelo entre sí, salvo D2, que usa l
 El spec las deja abiertas. Las reglas se pueden construir con el catálogo (A1), pero no deben usarse con pacientes hasta resolverlas:
 
 - **Derechos (E1):** prestador de IVE y ruta de violencia sexual de la institución (para la remisión).
+- **Trimestres (A1, D1):** confirmar los límites propuestos (1.º hasta 13+6, 2.º de 14+0 a 27+6, 3.º desde 28+0).
+- **Valores de corte del CLAP (A1, C2):** revisarlos contra la Ruta Materno Perinatal vigente (Resolución 3280 de 2018 y sus modificaciones).
+- **Suspensión de la tromboprofilaxis antes del parto (D5, F4):** instrucciones exactas para la gestante; las define el equipo clínico.
+- **Bloqueo del carné por PIN (F4):** duración del bloqueo después de 5 intentos fallidos.
+- **Conflictos de sincronización (A4):** regla para resolver ediciones de la misma historia en dos dispositivos sin conexión.
+- **Textos de asesoría y de "Tus derechos" (E1, F4):** validación con el equipo clínico y, si es posible, con gestantes de la población objetivo (G3).

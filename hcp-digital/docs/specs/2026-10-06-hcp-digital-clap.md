@@ -148,6 +148,8 @@ La app sigue la guía de la OMS de 2024 sobre puntos de corte de hemoglobina. Us
 
 Puntos de corte en el embarazo (a nivel del mar):
 
+**Trimestres** (por edad gestacional del día del examen): 1.º hasta la semana 13+6; 2.º de la semana 14+0 a la 27+6; 3.º desde la semana 28+0. Si la EG no es confiable, la app clasifica con el trimestre estimado y lo indica junto al resultado.
+
 | Trimestre | Sin anemia | Leve | Moderada | Grave |
 |---|---|---|---|---|
 | 1.º | 11,0 o más | 10,0–10,9 | 7,0–9,9 | menos de 7,0 |
@@ -211,7 +213,7 @@ Comportamiento:
 2. Al registrar la ferritina, la app la cruza con la última Hb ajustada y la edad gestacional.
 3. Muestra la alerta con la causa, por ejemplo: "Anemia con déficit de hierro (Hb ajustada 10,2 g/dL · ferritina 42 ng/mL)".
 4. Si la ferritina es mayor de 50 ng/mL con anemia, la app lo indica como "Anemia sin déficit de hierro por ferritina: considerar otras causas" sin sugerir conducta.
-4. El profesional marca la conducta (ajuste de hierro, remisión, otro) con motivo. La app no sugiere dosis de tratamiento porque la guía ASH no cubre tratamiento.
+5. El profesional marca la conducta (ajuste de hierro, remisión, otro) con motivo. La app no sugiere dosis de tratamiento porque la guía ASH no cubre tratamiento.
 
 **Cómo funciona la alerta de carbonato de calcio**
 
@@ -237,8 +239,8 @@ Comportamiento:
    - **Levotiroxina:** tomarla separada del calcio por varias horas, porque el calcio reduce su absorción.
    - **Antiácidos con calcio de uso frecuente o vómito persistente:** riesgo de hipercalcemia por exceso de calcio con álcalis; sumar el calcio de los antiácidos y vigilar.
 6. Si durante el seguimiento se registra uno de estos antecedentes o medicamentos, la app recalcula: una contraindicación nueva cambia la alerta aunque el calcio ya esté indicado, y avisa al profesional.
-5. El profesional marca **"Indicado"**, **"No indicado"** (con motivo) o **"Ya lo toma"**. La alerta queda atendida y la decisión se guarda en la historia.
-6. Con calcio indicado, en cada control la app pregunta si lo está tomando todos los días.
+7. El profesional marca **"Indicado"**, **"No indicado"** (con motivo) o **"Ya lo toma"**. La alerta queda atendida y la decisión se guarda en la historia.
+8. Con calcio indicado, en cada control la app pregunta si lo está tomando todos los días.
 
 **Cómo funciona la alerta de tromboprofilaxis**
 
@@ -294,6 +296,7 @@ Para anemia y déficit de hierro:
 - **Altitud (decidido):** la fuente oficial es la OMS 2024 para el ajuste. Como la OMS no publica la altitud de cada lugar, el profesional registra la altitud de residencia en metros; la app no la sugiere automáticamente.
 - **Ajuste por tabaquismo (decidido):** Tabla 5 de la guía OMS 2024 (3 / 3 / 5 / 6 g/L), con la fórmula de la guía para 20 cigarrillos.
 - **Cautela del ajuste en altura:** hay estudios en poblaciones andinas que sugieren que el ajuste puede sobrediagnosticar anemia por encima de los 3000 m. La Hb ajustada se interpreta junto con el hemograma, la ferritina y la clínica.
+- **Trimestres (propuesto, a confirmar por el equipo clínico):** 1.º hasta la semana 13+6, 2.º de la 14+0 a la 27+6, 3.º desde la 28+0. La guía OMS 2024 da puntos de corte por trimestre sin fijar las semanas de cada uno.
 - **Ferritina (decidido):** se solicita solo en gestantes con anemia; umbral de 50 ng/mL o menos (ASH 2026).
 
 Los demás valores de corte se toman del manual CLAP 2007. El equipo clínico los revisa contra la Ruta Materno Perinatal vigente. La glucemia en ayunas del CLAP se reemplazó por la PTOG de la GPC (decidido).
