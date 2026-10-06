@@ -146,9 +146,9 @@ Comportamiento:
 
 La app sigue la guía de la OMS de 2024 sobre puntos de corte de hemoglobina. Usa puntos de corte por trimestre y suma un ajuste por la altitud de residencia, porque vivir en altura eleva la Hb y, sin ajuste, la anemia se subdiagnostica.
 
-Puntos de corte en el embarazo (a nivel del mar):
-
 **Trimestres** (por edad gestacional del día del examen): 1.º hasta la semana 13+6; 2.º de la semana 14+0 a la 27+6; 3.º desde la semana 28+0. Si la EG no es confiable, la app clasifica con el trimestre estimado y lo indica junto al resultado.
+
+Puntos de corte en el embarazo (a nivel del mar):
 
 | Trimestre | Sin anemia | Leve | Moderada | Grave |
 |---|---|---|---|---|
